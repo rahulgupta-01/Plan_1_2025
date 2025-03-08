@@ -1,4 +1,4 @@
-# ANZSCO Code Mapping for Job Descriptions 🔍💼
+# [ANZSCO Code](https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes/information-technology.html) Mapping for Job Descriptions 🔍💼
 
 This text contains the select list of selected ANZSCO codes relevant to me and their employment duties as assessed by ACS in Australia. **Read each duty carefully.**
 
@@ -313,7 +313,7 @@ When mapping a new job/role description to these ANZSCO codes, follow this templ
 
 - **Overall Match Score for 261111:** 88/100
 
-Repeat this process for every ANZSCO code and then select the code with the highest overall match score.
+Repeat this process for every [ANZSCO Code](https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes/information-technology.html) and then select the code with the highest overall match score.
 
 ---
 
