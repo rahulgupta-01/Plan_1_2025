@@ -34,7 +34,7 @@ We promote equity and excellence by our commitment to:
 
 Our vision is one of **equity and excellence** in a progressive, high-performing education system that realizes the potential of every student.  
 
-For more information, visit: [www.qed.qld.gov.au](www.qed.qld.gov.au)  
+For more information, visit: [www.qed.qld.gov.au](https://www.qed.qld.gov.au)  
 
 ---
 
