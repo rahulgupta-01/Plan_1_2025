@@ -26,7 +26,7 @@ STOs are the on-site IT experts, tackling everything from morning checks to ongo
 
 - **Planning & Coordination**:
   - 📆 Schedule major tasks (e.g., lab upgrades, network changes) during student-free periods.
-  - 📞 Escalate complex issues to the **ICT Service Centre (1800 680 445)** or **Regional Systems Technicians (RSTs)** for on-site support, such as account lockouts or network outages.
+  - 📞 Escalate complex issues to the **ICT Service Centre (1800 680 445)** or **Regional Systems Technicians (RSTs)** for on-site support.
 
 > **How IT Support Works in Queensland State Schools:**
 > - **Services Catalogue Online (SCO):** The official **ticketing system** where staff log IT issues.
