@@ -58,6 +58,7 @@ STOs support a wide range of Department-approved software critical to school ope
 - **Microsoft Intune**:
   - 📱 Manages school-owned and BYO devices (via BYOx Link program).
   - 🛠️ STOs enroll devices, push Wi-Fi profiles, and distribute apps.
+  - 🌟 **Zero-touch provisioning and remote troubleshooting** are increasingly important for efficiency.
 
 - **PaperCut MF**:
   - 🖨️ Manages printing quotas and "follow-me" printing.
@@ -66,10 +67,14 @@ STOs support a wide range of Department-approved software critical to school ope
 - **NAPLAN Online**:
   - 📝 Requires a lockdown browser for testing.
   - 🛠️ STOs install updates, run readiness checks, and prepare backup devices.
+  - 🚀 Use **bulk deployment tools** (e.g., Intune, SCCM, Group Policy) to automate software rollouts to student devices.
+  - 🌐 **Test network readiness** to ensure sufficient bandwidth and that content filtering doesn’t block test sites.
 
 - **Asset Tracking**:
   - 🏷️ Managed via the OneSchool Asset Register (Agresso-based).
   - 🛠️ STOs update records, log new devices, and handle warranty claims.
+  - 📊 **Regular stocktakes** of IT assets for budgeting and compliance.
+  - ⏳ **Track warranties** to arrange replacements before devices fail.
 
 ---
 
@@ -84,6 +89,8 @@ STOs oversee all hardware, from servers to classroom gadgets, ensuring functiona
 - **Network Hardware**:
   - 🔌 Switches, routers, and Wi-Fi access points (e.g., Cisco Meraki, Aruba).
   - 🛠️ STOs check connectivity, reboot devices, and perform basic configurations.
+  - 🌐 **Basic networking skills** (e.g., setting VLANs, troubleshooting performance issues, understanding subnetting, DHCP, RADIUS, firewall rules).
+  - ☁️ Some schools use **cloud-based management** (e.g., Meraki) for remote Wi-Fi monitoring.
 
 - **End-User Devices**:
   - 💻 Includes student PCs, teacher laptops (via Computers for Teachers), iPads, interactive whiteboards, projectors, and printers.
@@ -116,6 +123,11 @@ STOs enforce cybersecurity measures to protect the school’s digital environmen
 - **User Education**:
   - 📚 Promote safe practices (e.g., strong passwords, phishing awareness).
   - 🛠️ Enforce policies like MFA and password changes.
+  - 🧑‍🏫 **Train staff and students on cyber hygiene**:
+    - Teach how to **spot phishing emails**.
+    - Encourage **not reusing passwords**.
+    - Promote **reporting suspicious activity**.
+  - 🌍 Support **digital citizenship education** to foster cyber safety awareness among students.
 
 - **Access Controls**:
   - 🔑 Set permissions on servers and OneSchool for appropriate access.
@@ -124,6 +136,10 @@ STOs enforce cybersecurity measures to protect the school’s digital environmen
 - **Incident Response**:
   - 🚨 Isolate systems during breaches and report to the Department’s IT security team.
   - 🛠️ Use Intune to wipe lost devices remotely.
+
+- **Department Policies & Compliance**:
+  - 📜 Ensure adherence to MOE policies, cybersecurity standards, and DoE protocols.
+  - 🔐 Enforce software licensing and restrict unauthorized applications.
 
 ---
 
@@ -141,7 +157,14 @@ STOs tackle a variety of issues daily, keeping the school operational.
   - 📽️ Resolve projector/whiteboard issues (e.g., cables, bulbs) under time pressure.
 
 - **Network Connectivity Outages**:
-  - 🌐 Diagnose and fix local outages (e.g., reboot switches) or report broader issues.
+  - 🌐 Diagnose and fix local outages:
+    - 🔍 **Check switch uplinks** to ensure physical connections are intact.
+    - 🔍 **Test VLAN assignments** to confirm devices are on the correct network segments.
+    - 🔍 **Verify RADIUS authentication** to resolve login issues tied to network access.
+  - 📞 **Coordinate with Regional IT** for larger issues:
+    - Request **circuit replacements** when physical lines fail.
+    - Escalate **DoE WAN issues** affecting multiple schools or regions.
+  - 📢 Report broader outages and keep staff informed.
 
 - **Slow or Sluggish Systems**:
   - 🐢 Investigate server load, malware, or update scheduling conflicts.
