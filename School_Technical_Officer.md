@@ -17,6 +17,7 @@ STOs are the on-site IT experts, tackling everything from morning checks to ongo
   - 📞 Respond to help requests via phone, email, or in-person visits.
   - 🚨 Prioritize issues affecting teaching (e.g., printer failures, login problems, smartboard/projector issues).
   - 🔧 Troubleshoot on the spot—fixing teacher laptops (e.g., Wi-Fi issues), student PCs (e.g., login failures), or office email/internet outages.
+  - 🎫 **Log and escalate complex issues** through the **Department’s ICT Service Centre** via the **Services Catalogue Online (SCO) ticketing system** or by calling **1800 680 445**.
 
 - **Preventative Maintenance**:
   - 🔄 Update software and apply security patches.
@@ -25,7 +26,12 @@ STOs are the on-site IT experts, tackling everything from morning checks to ongo
 
 - **Planning & Coordination**:
   - 📆 Schedule major tasks (e.g., lab upgrades, network changes) during student-free periods.
-  - 📞 Escalate complex issues to the Department’s ICT Service Centre (1800 680 445) or Regional Systems Technicians (RSTs) for support, such as account lockouts or network outages.
+  - 📞 Escalate complex issues to the **ICT Service Centre (1800 680 445)** or **Regional Systems Technicians (RSTs)** for on-site support, such as account lockouts or network outages.
+
+> **How IT Support Works in Queensland State Schools:**
+> - **Services Catalogue Online (SCO):** The official **ticketing system** where staff log IT issues.
+> - **ICT Service Centre:** Resolves most technical issues logged via SCO and provides phone support (1800 680 445).
+> - **Regional Systems Technicians (RSTs):** On-site support for **network, infrastructure, or major IT failures**.
 
 STOs maintain detailed notes to manage their workload, ensuring no issue is missed. They act as both first-line support and local IT coordinators, communicating with stakeholders to resolve technical challenges efficiently.
 
@@ -36,45 +42,52 @@ STOs maintain detailed notes to manage their workload, ensuring no issue is miss
 STOs support a wide range of Department-approved software critical to school operations.
 
 - **OneSchool**:
-  - 📚 All-in-one platform for student data, attendance, reports, finance, and assets.
+  - 📚 All-in-one platform for **student data, attendance, reports, finance, and asset tracking**.
   - 🛠️ STOs fix access issues, ensure browser compatibility, and assist with report printing.
+  - *Note:* OneSchool is a **centralized school management system** used across Queensland state schools.
 
 - **Managed Operating Environment (MOE)**:
-  - 🪟 Standardized Windows setup (MOE v6) on school computers.
-  - 🛠️ STOs deploy images, install apps, and apply Group Policies using tools like Microsoft Deployment Toolkit or Intune.
+  - 🪟 Standardized **Windows setup (MOE v6)** deployed across school computers.
+  - 🛠️ STOs **deploy system images, install software, and apply Group Policies** using tools like **Microsoft Deployment Toolkit (MDT) or Intune**.
+  - *Note:* MOE ensures **security, compliance, and uniformity** across all state school IT environments.
 
 - **Office 365**:
-  - 📧 Provides email, OneDrive storage, and Teams collaboration.
-  - 🛠️ STOs configure Outlook, troubleshoot logins (including Azure AD/MFA), and integrate with other systems.
+  - 📧 Provides **email, OneDrive storage, and Microsoft Teams collaboration**.
+  - 🛠️ STOs configure **Outlook, troubleshoot login issues (Azure AD/MFA), and integrate Microsoft apps**.
+  - *Note:* Office 365 supports **collaboration and communication** across the school community.
 
 - **QLearn**:
-  - 🎓 Digital learning platform (Canvas-based) with single sign-on via the Department network.
-  - 🛠️ STOs ensure access, check browser compatibility, and support app installations.
+  - 🎓 Digital **learning platform** (**Canvas-based LMS**) with **single sign-on (SSO)** via the Department network.
+  - 🛠️ STOs ensure **access, troubleshoot login problems, and support app installations**.
+  - *Note:* QLearn is Queensland’s **official online learning platform**, replacing legacy LMS systems.
 
 - **Curriculum Software**:
-  - 🎨 Includes Adobe Creative Cloud, Autodesk CAD, and specialized learning tools.
-  - 🛠️ STOs deploy and update these using Intune or SCCM for consistency.
+  - 🎨 Includes **Adobe Creative Cloud, Autodesk CAD, and specialized education software**.
+  - 🛠️ STOs deploy and manage these applications via **Microsoft Intune or SCCM**.
 
 - **Microsoft Intune**:
-  - 📱 Manages school-owned and BYO devices (via BYOx Link program).
-  - 🛠️ STOs enroll devices, push Wi-Fi profiles, and distribute apps.
-  - 🌟 **Zero-touch provisioning and remote troubleshooting** are increasingly important for efficiency.
+  - 📱 Manages **school-owned and BYO devices (via BYOx Link program)**.
+  - 🛠️ STOs enroll devices, push **Wi-Fi profiles, security policies, and software updates**.
+  - *Note:* **Zero-touch provisioning and remote troubleshooting** are becoming standard for device management.
 
 - **PaperCut MF**:
-  - 🖨️ Manages printing quotas and "follow-me" printing.
-  - 🛠️ STOs administer the system, fix print queues, and troubleshoot issues (e.g., stuck jobs, driver updates).
+  - 🖨️ Manages **printing quotas and follow-me printing**.
+  - 🛠️ STOs administer print servers, fix queues, and troubleshoot **device connection issues**.
+  - *Note:* PaperCut MF helps schools **monitor and control printing costs**.
 
 - **NAPLAN Online**:
-  - 📝 Requires a lockdown browser for testing.
-  - 🛠️ STOs install updates, run readiness checks, and prepare backup devices.
-  - 🚀 Use **bulk deployment tools** (e.g., Intune, SCCM, Group Policy) to automate software rollouts to student devices.
+  - 📝 Requires a **lockdown browser** for **secure student testing**.
+  - 🛠️ STOs install, update, and troubleshoot **NAPLAN software**.
+  - 🚀 Uses **bulk deployment tools (Intune, SCCM, Group Policy)** for automation.
   - 🌐 **Test network readiness** to ensure sufficient bandwidth and that content filtering doesn’t block test sites.
+  - *Note:* NAPLAN Online ensures **secure, standardized assessments** across schools.
 
 - **Asset Tracking**:
   - 🏷️ Managed via the OneSchool Asset Register (Agresso-based).
   - 🛠️ STOs update records, log new devices, and handle warranty claims.
   - 📊 **Regular stocktakes** of IT assets for budgeting and compliance.
   - ⏳ **Track warranties** to arrange replacements before devices fail.
+  - *Note:* Accurate asset tracking ensures schools maintain an **accurate inventory** of IT resources, supporting **budgeting and compliance**.
 
 ---
 
@@ -113,11 +126,11 @@ STOs unbox and configure new devices, repair or replace faulty ones, and maintai
 STOs enforce cybersecurity measures to protect the school’s digital environment.
 
 - **Content Filtering**:
-  - 🌐 Uses Symantec/Broadcom WebFilter to block unsafe sites.
+  - 🌐 Uses **Symantec/Broadcom WebFilter** to **block malicious/inappropriate websites**.
   - 🛠️ STOs troubleshoot blocks and report bypass attempts.
 
 - **Antivirus & Firewall**:
-  - 🛡️ Microsoft Defender for Endpoint on all devices.
+  - 🛡️ **Microsoft Defender for Endpoint** protects against malware threats.
   - 🛠️ STOs monitor alerts, isolate infections, and apply patches.
 
 - **User Education**:
@@ -135,8 +148,9 @@ STOs enforce cybersecurity measures to protect the school’s digital environmen
 
 - **Incident Response**:
   - 🚨 Isolate systems during breaches and report to the Department’s IT security team.
-  - 🛠️ Use Intune to wipe lost devices remotely.
-
+  - 🛠️ Use **Intune to remotely wipe lost or compromised devices**.
+  - 🔑 Enforce **multi-factor authentication (MFA)** and access controls.
+ 
 - **Department Policies & Compliance**:
   - 📜 Ensure adherence to MOE policies, cybersecurity standards, and DoE protocols.
   - 🔐 Enforce software licensing and restrict unauthorized applications.
@@ -172,8 +186,8 @@ STOs tackle a variety of issues daily, keeping the school operational.
 - **Software Installation & Compatibility**:
   - 💿 Install approved software and resolve conflicts with MOE standards.
 
-- **Major Incidents & Recoveries**:
-  - 🚒 Restore servers from backups or isolate systems during security breaches.
+- **Security Incidents**:
+  - 🚨 Handle breaches or run virus scans, coordinating with the ICT Service Centre as needed.
 
 STOs log issues and share knowledge to prevent repeats, maintaining composure amid urgent demands.
 
@@ -184,12 +198,12 @@ STOs log issues and share knowledge to prevent repeats, maintaining composure am
 STOs face unique challenges but adopt strategies to excel.
 
 - **Managing Workload**:
-  - 📋 Use ticket systems and prioritize urgent tasks (e.g., classroom outages).
-  - 🔄 Schedule maintenance with tools like Intune for efficiency.
+  - 🎫 Use **Services Catalogue Online (SCO) ticketing system** to track IT tasks and prioritize urgent issues.
+  - 🔄 Schedule **maintenance tasks efficiently** using tools like Intune.
 
 - **Budget Constraints**:
-  - 💰 Extend equipment life with repairs and plan cost-effective upgrades.
-  - 📊 Advise on purchases balancing cost and need.
+  - 💰 Extend hardware life through **repairs and proper lifecycle management**.
+  - 📊 Ensure accurate **asset tracking for budgeting purposes** via OneSchool.
 
 - **Continuous Learning**:
   - 📚 Complete trainings (e.g., Orange Card) and network with peers.
