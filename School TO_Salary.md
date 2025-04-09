@@ -1,4 +1,4 @@
-# Technical Stream
+# School Technical Stream
 
 | Classification Level | Pay Point | Salary ($ per fortnight) | Salary ($ per annum) |
 |----------------------|----------|------------------------|---------------------|
