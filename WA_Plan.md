@@ -13,7 +13,7 @@
 
 - **Current Visa**: Subclass 485 – Post-Study Work Stream  
 - **Expiry**: 15 February 2028  
-- **Extension**: Eligible for a 1-year extension (till Feb 2029) only if living/studying/working in a designated regional area (e.g., WA)  
+- **Extension**: Eligible for a 1-year extension (till Feb 2029) if living, studying or working in a designated regional area (e.g., WA, Gold Coast) for 2 years  
 - **No further 485 or student visas allowed**  
 - **No student visa conditions apply**
 
@@ -30,9 +30,11 @@
 
 ### Why Bricklaying?
 - Listed on **MLTSSL** = eligible for **subclass 189, 190, and 491**
-- High demand in WA (frequent invites even at low points)
-- Quicker pathways to PR via WA state nomination
-- Strong employment opportunities for JRP phase
+- Listed on **WA State Migration Priority Occupations List**
+- No job offer required for WA nomination (for construction occupations)
+- Quicker WA state nomination with monthly invitations
+- Paid work during Job Ready Program (JRP) with strong demand
+- Direct PR pathway (190) or 3-year to PR via 491 → 191
 
 ---
 
@@ -40,18 +42,18 @@
 
 | **Phase**                                 | **Target Start**     | **Duration / Processing Time**       | **Expected Completion**    |
 |------------------------------------------|-----------------------|--------------------------------------|-----------------------------|
-| Start Certificate III in Bricklaying     | May–July 2025         | 12 months                            | May–July 2026               |
-| Finish Certificate III                   | —                     | —                                    | May–June 2026               |
-| PSA (Provisional Skills Assessment)      | July 2026             | 4–8 weeks                            | August–September 2026       |
-| Register for Job Ready Program (JRP)     | August–Sept 2026      | 1–2 weeks to register                | Sept 2026 (registration complete) |
-| JRP Work Phase                           | Sept 2026             | **12 months** (min.) & 1725 hours    | Sept 2027                   |
-| TRA Workplace Assessment                 | Mar–June 2027         | Included during JRP (at ~6–9 months) | July 2027                   |
-| Apply for Final Skills Assessment        | Sept 2027             | 3–8 weeks                            | Oct 2027                    |
-| WA Nomination Application                | Oct 2027              | 1–3 weeks                            | Oct 2027                    |
-| SkillSelect Visa Invite (190/491)        | Oct 2027              | Same day to 1 business day after nomination | Oct 2027           |
-| Apply for Visa (190 / 491 / 189)         | **Before Feb 2028**   | 60-day window from invite            | Ideally by Nov–Dec 2027     |
-| Bridging Visa A (if needed)              | Feb 2028 onward       | Auto-activated after 485 expires     | N/A                         |
-| Visa Grant (PR)                          | Mid–Late 2028         | 6–9 months from application          | Aug–Dec 2028                |
+| Start Certificate III in Bricklaying     | May–July 2025         | 12–24 months                         | May–July 2026 or 2027       |
+| Finish Certificate III                   | —                     | —                                    | May–July 2026 or 2027       |
+| PSA (Provisional Skills Assessment)      | June–Aug 2026/27      | ~3 months                            | Aug–Oct 2026/27             |
+| Register for Job Ready Program (JRP)     | Sept 2026/27          | 1–2 weeks to register                | Sept 2026/27                |
+| JRP Work Phase                           | Sept 2026/27          | 12 months & 1725 hours               | Sept 2027/28                |
+| Workplace Assessment (JRWA)              | Mar–June 2027/28      | Mid-JRP (~6–9 months in)             | July 2027/28                |
+| Final Skills Assessment (JRFA)           | Sept 2027/28          | 3–8 weeks                            | Oct–Nov 2027/28             |
+| WA Nomination Application                | Oct 2027/28           | 1–3 weeks                            | Oct–Nov 2027/28             |
+| SkillSelect Invite (190/491)             | Oct–Nov 2027/28       | Within 24 hrs after nomination       | Oct–Nov 2027/28             |
+| Apply for Visa (190 / 491 / 189)         | Before Feb 2028       | 60-day window from invite            | Nov–Dec 2027/28             |
+| Bridging Visa A (if needed)              | Feb 2028 onward       | Auto-activated after 485 expiry      | N/A                         |
+| Visa Grant (PR or 491)                   | Mid–Late 2028         | 6–12 months from application         | Aug–Dec 2028                |
 
 ---
 
@@ -60,79 +62,75 @@
 ### 1. **Start Certificate III in Bricklaying (CPC33020)**
 - **When**: May–July 2025  
 - **Where**: TRA-approved RTO (non-CRICOS)  
-- **Duration**: 12 months  
+- **Duration**: 12–24 months  
 - **Requirements**:
-  - 360+ hours of practical placement (mandatory for TRA PSA)
-  - White Card training (construction safety)
-
-**Tuition**: $10,000–$15,000  
-**Extras**: Tools + PPE ~$500
+  - 360+ hours of vocational placement (mandatory for PSA)
+  - White Card training (construction safety unit)
+- **Tuition**: $20,000–$30,000 (total course + materials/tools)
 
 ---
 
 ### 2. **Apply for Provisional Skills Assessment (PSA)**
-- **When**: July–August 2026  
-- **Fee**: $300  
-- **Processing Time**: 4–8 weeks  
-- **Purpose**: Required to start the Job Ready Program (JRP)
+- **When**: Immediately after finishing Cert III  
+- **Fee**: $130  
+- **Processing Time**: ~3 months  
+- **Purpose**: Required to enter Job Ready Program (JRP)
 
 ---
 
 ### 3. **Register for Job Ready Program (JRP)**
-- **When**: Aug–Sept 2026  
-- **Fee**: $500 (Step 2)  
+- **When**: Sept 2026 or 2027  
+- **Fee**: $490  
 - **Requirements**:
-  - Job offer as a bricklayer  
-  - Paid work under TFN/ABN  
-  - Must start **after** JRP registration
+  - Paid job as a bricklayer (TFN or ABN)  
+  - Minimum 15 hours/week  
+  - Work must begin *after* JRP registration
 
 ---
 
 ### 4. **Complete 12-Month Job Ready Program (JRP)**
-- **Duration**: Sept 2026 – Sept 2027  
-- **Work**: 1725+ hours, minimum 12 months  
-- **Employer**: Must be eligible, provide payslips, supervision  
+- **Duration**: 12 months from registration  
+- **Work**: 1725+ paid hours  
+- **Employer**: Must be eligible, provide payslips, super, logbook  
 - **Assessment**:
-  - TRA Workplace Assessment around month 6–9  
-  - Fee: $2,000
+  - Workplace Assessment (JRWA) between month 6–9  
+  - Fee: $2,845
 
 ---
 
 ### 5. **Apply for Final Skills Assessment**
-- **When**: Sept 2027  
-- **Fee**: $150  
+- **When**: After 1725 hours completed  
+- **Fee**: $75  
 - **Processing Time**: 3–8 weeks  
-- **Outcome**: Final positive TRA skills assessment — now eligible for PR visas
+- **Outcome**: Positive final TRA assessment = eligible for PR visas
 
 ---
 
 ### 6. **Submit Expression of Interest (EOI) & WA Nomination**
-- **When**: Oct 2027  
+- **When**: Oct–Nov 2027/28  
 - **Platform**: SkillSelect  
 - **Nomination Fee**: Free  
-- **WA Streams**: General Stream Graduate / General Stream  
+- **Stream**: WA General Stream (Schedule 2) – no job offer required  
 - **Processing Time**: 1–3 weeks  
-- **Invite to Apply**: Within 24 hours of nomination
+- **Invite to Apply**: Within 24 hours of WA nomination
 
 ---
 
 ### 7. **Apply for Skilled Visa (190, 491 or 189)**
-- **Deadline**: Before 15 Feb 2028 (your 485 expiry)  
+- **Deadline**: Before 15 Feb 2028 (485 expiry)  
 - **Fees**:  
-  - 190: $4,640  
-  - 491: $4,640  
-  - 189: $4,640  
-- **Processing Time**:
-  - 190: 6–8 months  
-  - 491: 6–9 months  
-  - 189: 6–10 months (if high points)
+  - 190 / 491 / 189: ~$4,770 (main applicant)  
+- **Processing Time**:  
+  - 189: 6–10 months  
+  - 190: 6–9 months  
+  - 491: 6–12 months
 
 ---
 
 ### 8. **Bridging Visa A (BVA)**
-- Automatically granted after visa lodgement  
-- Activates only after 485 expires  
-- Full work and travel rights (BVB required for overseas travel)
+- **Granted automatically** after visa application is lodged  
+- **Activates** once 485 expires  
+- **Includes** full work rights (travel requires BVB: $185)
 
 ---
 
@@ -140,7 +138,7 @@
 - **Expected**: Aug–Dec 2028  
 - **PR if**:
   - 190 or 189 granted  
-  - OR 491 + 3 years in regional area + income met → subclass 191
+  - OR 491 + 3 years in regional area + $53,900/year → 191
 
 ---
 
@@ -148,50 +146,56 @@
 
 | Stage                               | Estimated Cost (AUD)     |
 |------------------------------------|---------------------------|
-| Certificate III in Bricklaying     | $10,000–$15,000           |
-| Tools, PPE, White Card             | $300–$600                 |
-| TRA PSA                            | $300                      |
-| JRP Registration                   | $500                      |
-| Workplace Assessment               | $2,000                    |
-| Final Skills Assessment            | $150                      |
-| Visa Application Fee               | $4,640                    |
-| **Total (excluding living costs)** | **~$17,890 – $23,190**    |
+| Certificate III in Bricklaying     | $20,000–$30,000           |
+| Tools, PPE, White Card             | $300–$800                 |
+| TRA PSA                            | $130                      |
+| JRP Registration                   | $490                      |
+| Workplace Assessment               | $2,845                    |
+| Final Skills Assessment            | $75                       |
+| Visa Application Fee               | $4,770                    |
+| Bridging Visa B (if needed)        | $185                      |
+| IELTS / PTE Test (if needed)       | ~$400                     |
+| Police + Medicals                  | ~$500                     |
+| **Total (excluding living costs)** | **~$29,000 – $39,000**    |
 
 ---
 
 ## 💼 Transition Back to IT (Post-PR)
 
-Once you’re granted PR, you can **freely return to IT**. No sponsorship needed.
+Once PR is granted, you're free to **return to your IT career** — no need to continue in bricklaying.
 
-### Use These Certifications:
-- **Administering Windows Server Hybrid Core Infrastructure (AZ-800)**
-- **Microsoft 365 Administrator (MS-102)**
-- **Microsoft Azure Administrator Associate**
-- **Cisco Certified Network Associate (CCNA)**
-- **Red Hat Certified System Administrator (RHCSA)**
-- **CompTIA Network+**
+### Suggested Certifications:
+- **Microsoft AZ-800 – Windows Server Hybrid Admin**
+- **Microsoft 365 Admin – MS-102**
+- **Azure Administrator Associate**
+- **CCNA (Cisco Certified Network Associate)**
+- **RHCSA (Red Hat Certified System Admin)**
+- **CompTIA Network+ or Security+ (optional)**
 
-### Tips to Re-Enter IT:
-1. Update your resume to show **PR and certifications**
-2. Apply for roles like:
-   - IT Support / Service Desk
-   - System Administrator
-   - Cloud Support Technician
-   - Network Operations Engineer
-3. Use job boards: **Seek, LinkedIn, GradConnection, Indeed**
-4. Join WA IT networking groups and attend local tech meetups
-5. Optional: TAFE refresher or short online upskilling (e.g. Security+, AWS)
+### How to Re-Enter IT:
+1. Update resume with PR status, IT degree & certs
+2. Target roles like:
+   - IT Support / Helpdesk (Level 1/2)
+   - Systems Administrator (Linux or Windows)
+   - Cloud Support Engineer (Azure/AWS)
+   - Junior Network Admin / Engineer
+3. Use Seek, LinkedIn, GradConnection, and local Perth IT recruiters
+4. Attend WA IT meetups (Cisco, Red Hat, Azure user groups)
+5. Optional: short TAFE or online refresher to sharpen recent skills
 
 ---
 
 ## ✅ Final Reminders
 
-- Only **JRP work done after registration counts**  
-- Visa invite comes **after WA nomination**, not before  
-- **You must lodge your visa before 15 Feb 2028** to stay onshore  
-- Prepare for **Bridging Visa B** if planning overseas travel post-485 expiry  
-- 491 → PR only after 3 years + income threshold (around $53,900/year)
+- Only **JRP work AFTER registration counts**  
+- You must **lodge visa before 15 Feb 2028** (your 485 expiry)  
+- 485 visa has **full work rights**; no need to apply for work visa  
+- **Bridging Visa B** ($185) needed for travel once on BVA  
+- 491 → 191 PR requires:
+  - 3 years in regional Australia  
+  - $53,900+ taxable income in 3 years  
+- Once PR is granted, you're **not tied** to bricklaying — you can work in IT
 
 ---
 
-> This plan is tailored for a Subclass 485 visa holder (no further student or graduate visas), and aligns with current TRA, WA, and Home Affairs migration pathways as of 2025.
+> This updated roadmap reflects all current (2025) policy by Home Affairs, WA State Migration, and TRA for skilled visas and trade occupations.
