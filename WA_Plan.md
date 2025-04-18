@@ -1,5 +1,5 @@
 # 🇦🇺 Permanent Residency (PR) Roadmap for Australia via Bricklaying  
-### and Transition Back into IT Career (Tailored for Subclass 485 Visa Holder – Expires Feb 2028)
+### (And Transition Back into IT Career)
 
 ---
 
