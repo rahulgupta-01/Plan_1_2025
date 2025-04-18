@@ -38,20 +38,20 @@
 
 ---
 
-## 📅 Updated Timeline Overview (with Processing Time Expectations)
+## 📅 Updated Timeline Overview (Corrected)
 
 | **Phase**                                 | **Target Start**     | **Duration / Processing Time**       | **Expected Completion**    |
 |------------------------------------------|-----------------------|--------------------------------------|-----------------------------|
-| Start Certificate III in Bricklaying     | May–July 2025         | 12–24 months                         | May–July 2026 or 2027       |
-| Finish Certificate III                   | —                     | —                                    | May–July 2026 or 2027       |
-| PSA (Provisional Skills Assessment)      | June–Aug 2026/27      | ~3 months                            | Aug–Oct 2026/27             |
-| Register for Job Ready Program (JRP)     | Sept 2026/27          | 1–2 weeks to register                | Sept 2026/27                |
-| JRP Work Phase                           | Sept 2026/27          | 12 months & 1725 hours               | Sept 2027/28                |
-| Workplace Assessment (JRWA)              | Mar–June 2027/28      | Mid-JRP (~6–9 months in)             | July 2027/28                |
-| Final Skills Assessment (JRFA)           | Sept 2027/28          | 3–8 weeks                            | Oct–Nov 2027/28             |
-| WA Nomination Application                | Oct 2027/28           | 1–3 weeks                            | Oct–Nov 2027/28             |
-| SkillSelect Invite (190/491)             | Oct–Nov 2027/28       | Within 24 hrs after nomination       | Oct–Nov 2027/28             |
-| Apply for Visa (190 / 491 / 189)         | Before Feb 2028       | 60-day window from invite            | Nov–Dec 2027/28             |
+| Start Certificate III in Bricklaying     | May–July 2025         | 12 months                            | May–July 2026               |
+| Finish Certificate III                   | —                     | —                                    | May–July 2026               |
+| PSA (Provisional Skills Assessment)      | July 2026             | ~3 months                            | Sept–Oct 2026               |
+| Register for Job Ready Program (JRP)     | Oct 2026              | 1–2 weeks to register                | Oct 2026                    |
+| JRP Work Phase                           | Oct 2026              | 12 months & 1725 hours               | Oct 2027                    |
+| Workplace Assessment (JRWA)              | Apr–July 2027         | Mid-JRP (~6–9 months in)             | July 2027                   |
+| Final Skills Assessment (JRFA)           | Oct 2027              | 3–8 weeks                            | Nov 2027                    |
+| WA Nomination Application                | Nov 2027              | 1–3 weeks                            | Nov 2027                    |
+| SkillSelect Invite (190/491)             | Nov 2027              | Within 24 hrs after nomination       | Nov 2027                    |
+| Apply for Visa (190 / 491 / 189)         | Before 15 Feb 2028    | 60-day window from invite            | Ideally by Dec 2027         |
 | Bridging Visa A (if needed)              | Feb 2028 onward       | Auto-activated after 485 expiry      | N/A                         |
 | Visa Grant (PR or 491)                   | Mid–Late 2028         | 6–12 months from application         | Aug–Dec 2028                |
 
@@ -62,7 +62,7 @@
 ### 1. **Start Certificate III in Bricklaying (CPC33020)**
 - **When**: May–July 2025  
 - **Where**: TRA-approved RTO (non-CRICOS)  
-- **Duration**: 12–24 months  
+- **Duration**: 12 months  
 - **Requirements**:
   - 360+ hours of vocational placement (mandatory for PSA)
   - White Card training (construction safety unit)
@@ -79,7 +79,7 @@
 ---
 
 ### 3. **Register for Job Ready Program (JRP)**
-- **When**: Sept 2026 or 2027  
+- **When**: Oct 2026  
 - **Fee**: $490  
 - **Requirements**:
   - Paid job as a bricklayer (TFN or ABN)  
@@ -89,7 +89,7 @@
 ---
 
 ### 4. **Complete 12-Month Job Ready Program (JRP)**
-- **Duration**: 12 months from registration  
+- **Duration**: Oct 2026 – Oct 2027  
 - **Work**: 1725+ paid hours  
 - **Employer**: Must be eligible, provide payslips, super, logbook  
 - **Assessment**:
@@ -99,7 +99,7 @@
 ---
 
 ### 5. **Apply for Final Skills Assessment**
-- **When**: After 1725 hours completed  
+- **When**: Oct 2027  
 - **Fee**: $75  
 - **Processing Time**: 3–8 weeks  
 - **Outcome**: Positive final TRA assessment = eligible for PR visas
@@ -107,7 +107,7 @@
 ---
 
 ### 6. **Submit Expression of Interest (EOI) & WA Nomination**
-- **When**: Oct–Nov 2027/28  
+- **When**: Nov 2027  
 - **Platform**: SkillSelect  
 - **Nomination Fee**: Free  
 - **Stream**: WA General Stream (Schedule 2) – no job offer required  
@@ -117,7 +117,7 @@
 ---
 
 ### 7. **Apply for Skilled Visa (190, 491 or 189)**
-- **Deadline**: Before 15 Feb 2028 (485 expiry)  
+- **Deadline**: Before 15 Feb 2028 (your 485 expiry)  
 - **Fees**:  
   - 190 / 491 / 189: ~$4,770 (main applicant)  
 - **Processing Time**:  
