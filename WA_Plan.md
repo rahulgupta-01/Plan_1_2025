@@ -12,8 +12,9 @@
 ## 🧾 Visa Background
 
 - **Current Visa**: Subclass 485 – Post-Study Work Stream  
-- **Expiry**: 15 February 2028  
-- **Extension**: Eligible for a 1-year extension (till Feb 2029) if living, studying or working in a designated regional area (e.g., WA, Gold Coast) for 2 years  
+- **Granted**: 15 February 2025  
+- **Expiry**: 15 February 2027  
+- **Extension**: Eligible for a 1-year extension (till 15 February 2028) due to study in a designated regional area (e.g., WA, Gold Coast)  
 - **No further 485 or student visas allowed**  
 - **No student visa conditions apply**
 
