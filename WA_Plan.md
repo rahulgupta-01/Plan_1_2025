@@ -157,7 +157,7 @@
 | Bridging Visa B (if needed)        | $185                      |
 | IELTS / PTE Test (if needed)       | ~$400                     |
 | Police + Medicals                  | ~$500                     |
-| **Total (excluding living costs)** | **~$19,000 – $29,000**    |
+| **Total (excluding living costs)** | **~$29,000**    |
 
 ---
 
