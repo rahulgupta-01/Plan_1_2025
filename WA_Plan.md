@@ -67,7 +67,7 @@
 - **Requirements**:
   - 360+ hours of vocational placement (mandatory for PSA)
   - White Card training (construction safety unit)
-- **Tuition**: $20,000–$30,000 (total course + materials/tools)
+- **Tuition**: $18,000 (total course + materials/tools)
 
 ---
 
@@ -147,7 +147,7 @@
 
 | Stage                               | Estimated Cost (AUD)     |
 |------------------------------------|---------------------------|
-| Certificate III in Bricklaying     | $20,000–$30,000           |
+| Certificate III in Bricklaying     | $18,000           |
 | Tools, PPE, White Card             | $300–$800                 |
 | TRA PSA                            | $130                      |
 | JRP Registration                   | $490                      |
@@ -157,7 +157,7 @@
 | Bridging Visa B (if needed)        | $185                      |
 | IELTS / PTE Test (if needed)       | ~$400                     |
 | Police + Medicals                  | ~$500                     |
-| **Total (excluding living costs)** | **~$29,000 – $39,000**    |
+| **Total (excluding living costs)** | **~$19,000 – $29,000**    |
 
 ---
 
