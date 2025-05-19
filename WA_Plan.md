@@ -30,173 +30,182 @@
 ## 🔨 Trade Selection: Bricklaying (ANZSCO 331111)
 
 ### Why Bricklaying?
-- Listed on **MLTSSL** = eligible for **subclass 189, 190, and 491**
+
+- On the **MLTSSL** = eligible for **subclass 189, 190, and 491**
 - Listed on **WA State Migration Priority Occupations List**
-- No job offer required for WA nomination (for construction occupations)
-- Quicker WA state nomination with monthly invitations
-- Paid work during Job Ready Program (JRP) with strong demand
-- Direct PR pathway (190) or 3-year to PR via 491 → 191
+- WA **General Stream (Schedule 2)** for construction occupations has:
+  - ❌ No job offer required
+  - ❌ No 1-year work experience required
+  - ✅ Monthly invitations & high priority ranking
+- Direct PR via 190 or 3-year pathway via 491 → 191
 
 ---
 
-## 📅 Updated Timeline Overview (Corrected)
+## 📈 Invitation Ranking – WA General Stream (Schedule 2)
+
+WA ranks EOIs based on:
+
+1. ✅ Residing in **Western Australia**
+2. ✅ Occupation in **priority industry** (e.g. **building and construction**)
+3. 🔢 **EOI points score**
+4. 📆 **EOI submission date**
+
+As a **bricklayer living in WA**, you are in the **top-ranked category** for invitations under General Stream Schedule 2.
+
+### 🔍 Current Trends:
+- Bricklayers are being invited at **~75 points**
+- You are targeting **95 points**, making you highly competitive
+
+---
+
+## 🧮 PR Points Breakdown (Target: 95)
+
+| Criteria                          | Points | Notes                                               |
+|----------------------------------|--------|-----------------------------------------------------|
+| Age (turning 25 after 18 May 2026)| 30     | Full age points after May 2026                      |
+| English (target 8 each band)     | 20     | Currently 10 points with 8/8/8/7, aim for 20        |
+| Work experience – outside Aus    | 0      |                                                     |
+| Work experience – in Australia   | 5      | Via JRP (if accepted as 1-year skilled experience)  |
+| Qualifications (Bachelor of IT)  | 15     | Recognised Australian degree                        |
+| Specialist education             | 0      | Not applicable                                      |
+| Australian Study Requirement     | 5      | Bachelor + Cert III meets this                     |
+| Community Language (NAATI Hindi) | 5      | Plan to give NAATI                                  |
+| Study in Regional Australia      | 5      | Gold Coast + Perth                                  |
+| Partner Skills (Single)          | 10     | Full points                                         |
+| Professional Year                | 0      | Not undertaken                                      |
+| **Total**                        | **95** | Target achieved with NAATI + English improvement    |
+
+---
+
+## 📅 Timeline Overview
 
 | **Phase**                                 | **Target Start**     | **Duration / Processing Time**       | **Expected Completion**    |
 |------------------------------------------|-----------------------|--------------------------------------|-----------------------------|
-| Start Certificate III in Bricklaying     | May–July 2025         | 12 months                            | May–July 2026               |
-| Finish Certificate III                   | —                     | —                                    | May–July 2026               |
-| PSA (Provisional Skills Assessment)      | July 2026             | ~3 months                            | Sept–Oct 2026               |
-| Register for Job Ready Program (JRP)     | Oct 2026              | 1–2 weeks to register                | Oct 2026                    |
-| JRP Work Phase                           | Oct 2026              | 12 months & 1725 hours               | Oct 2027                    |
-| Workplace Assessment (JRWA)              | Apr–July 2027         | Mid-JRP (~6–9 months in)             | July 2027                   |
-| Final Skills Assessment (JRFA)           | Oct 2027              | 3–8 weeks                            | Nov 2027                    |
-| WA Nomination Application                | Nov 2027              | 1–3 weeks                            | Nov 2027                    |
-| SkillSelect Invite (190/491)             | Nov 2027              | Within 24 hrs after nomination       | Nov 2027                    |
-| Apply for Visa (190 / 491 / 189)         | Before 15 Feb 2028    | 60-day window from invite            | Ideally by Dec 2027         |
-| Bridging Visa A (if needed)              | Feb 2028 onward       | Auto-activated after 485 expiry      | N/A                         |
+| Start Certificate III in Bricklaying     | 7 April 2025          | ~65 weeks (fast-track)               | 5 July 2026                 |
+| Apply for PSA                            | July 2026             | ~3 months                            | Sept–Oct 2026               |
+| Register for Job Ready Program (JRP)     | Oct 2026              | 1–2 weeks                            | Oct 2026                    |
+| JRP Work Phase                           | Oct 2026              | 12 months & 1725 paid hours          | Oct 2027                    |
+| Workplace Assessment (JRWA)              | Apr–July 2027         | Mid-JRP assessment                   | July 2027                   |
+| Final TRA Skills Assessment (JRFA)       | Oct 2027              | 3–8 weeks                            | Nov 2027                    |
+| WA Nomination Application                | Nov 2027              | ~28 working days                     | Nov–Dec 2027                |
+| SkillSelect Invite (190/491)             | Dec 2027              | Within 24 hours post-nomination      | Dec 2027                    |
+| Lodge Visa Application                   | Before 15 Feb 2028    | 60-day window                         | Ideally by Jan 2028         |
+| Bridging Visa A (if needed)              | Feb 2028 onward       | Activates post-485 expiry            | N/A                         |
 | Visa Grant (PR or 491)                   | Mid–Late 2028         | 6–12 months from application         | Aug–Dec 2028                |
 
 ---
 
-## 🪜 Full Step-by-Step Plan
+## 🪜 Step-by-Step Plan
 
-### 1. **Start Certificate III in Bricklaying (CPC33020)**
-- **When**: May–July 2025  
-- **Where**: TRA-approved RTO (non-CRICOS)  
-- **Duration**: 12 months  
+### 1. Certificate III in Bricklaying (CPC33020)
+- **RTO**: Skills Australia Institute (CRICOS 108138G)
+- **Delivery**: 65 weeks, fast-track (49–52 weeks actual)
+- **WBT**: ❌ Not required for PSA (post-July 2023 change)
+- **Fee**: $17,230 total + tools & PPE
+- **Includes**: White Card & CRICOS compliance
+
+### 2. Provisional Skills Assessment (PSA)
+- **When**: After Cert III is complete
+- **Fee**: $130
+- **Purpose**: Required for JRP registration
+- **No WBT or job experience required** for PSA
+
+### 3. Register for Job Ready Program (JRP)
+- **When**: Oct 2026
+- **Fee**: $490
 - **Requirements**:
-  - 360+ hours of vocational placement (mandatory for PSA)
-  - White Card training (construction safety unit)
-- **Tuition**: $18,000 (total course + materials/tools)
+  - Paid job (ABN or TFN accepted)
+  - Minimum 15 hrs/week
+  - Work must start **after** registration
+
+### 4. Complete 1725+ Paid Hours (JRP)
+- **Duration**: Oct 2026 – Oct 2027
+- **Assessment**: JRWA (Workplace Audit)
+- **Fee**: $2,845
+
+### 5. Final TRA Skills Assessment
+- **When**: Oct–Nov 2027
+- **Fee**: $75
+- **Outcome**: Full positive assessment for PR visa
+
+### 6. Submit EOI + WA Nomination (General Stream – Schedule 2)
+- **Platform**: SkillSelect
+- **No job offer or experience required**
+- **Bricklayer = priority occupation**
+- **WA resident = top EOI ranking**
+
+### 7. Apply for Visa (190 or 491)
+- **Fee**: ~$4,770 AUD (main applicant)
+- **Processing**:
+  - 190: ~6–9 months
+  - 491: ~6–12 months
+
+### 8. Bridging Visa A (BVA)
+- Automatically activates after 485 expiry if visa is lodged
+- Full work rights continue
+- BVB ($185) needed for travel
+
+### 9. Post-Visa Grant – WA Commitment
+- Live & work in WA for 2 years
+- Register visa grant with WA Migration
+- Complete surveys (if asked)
 
 ---
 
-### 2. **Apply for Provisional Skills Assessment (PSA)**
-- **When**: Immediately after finishing Cert III  
-- **Fee**: $130  
-- **Processing Time**: ~3 months  
-- **Purpose**: Required to enter Job Ready Program (JRP)
+## 💵 Estimated Cost Summary
 
----
-
-### 3. **Register for Job Ready Program (JRP)**
-- **When**: Oct 2026  
-- **Fee**: $490  
-- **Requirements**:
-  - Paid job as a bricklayer (TFN or ABN)  
-  - Minimum 15 hours/week  
-  - Work must begin *after* JRP registration
-
----
-
-### 4. **Complete 12-Month Job Ready Program (JRP)**
-- **Duration**: Oct 2026 – Oct 2027  
-- **Work**: 1725+ paid hours  
-- **Employer**: Must be eligible, provide payslips, super, logbook  
-- **Assessment**:
-  - Workplace Assessment (JRWA) between month 6–9  
-  - Fee: $2,845
-
----
-
-### 5. **Apply for Final Skills Assessment**
-- **When**: Oct 2027  
-- **Fee**: $75  
-- **Processing Time**: 3–8 weeks  
-- **Outcome**: Positive final TRA assessment = eligible for PR visas
-
----
-
-### 6. **Submit Expression of Interest (EOI) & WA Nomination**
-- **When**: Nov 2027  
-- **Platform**: SkillSelect  
-- **Nomination Fee**: Free  
-- **Stream**: WA General Stream (Schedule 2) – no job offer required  
-- **Processing Time**: 1–3 weeks  
-- **Invite to Apply**: Within 24 hours of WA nomination
-
----
-
-### 7. **Apply for Skilled Visa (190, 491 or 189)**
-- **Deadline**: Before 15 Feb 2028 (your 485 expiry)  
-- **Fees**:  
-  - 190 / 491 / 189: ~$4,770 (main applicant)  
-- **Processing Time**:  
-  - 189: 6–10 months  
-  - 190: 6–9 months  
-  - 491: 6–12 months
-
----
-
-### 8. **Bridging Visa A (BVA)**
-- **Granted automatically** after visa application is lodged  
-- **Activates** once 485 expires  
-- **Includes** full work rights (travel requires BVB: $185)
-
----
-
-### 9. **Visa Grant (PR or 491)**
-- **Expected**: Aug–Dec 2028  
-- **PR if**:
-  - 190 or 189 granted  
-  - OR 491 + 3 years in regional area + $53,900/year → 191
-
----
-
-## 💵 Cost Summary (Estimated)
-
-| Stage                               | Estimated Cost (AUD)     |
-|------------------------------------|---------------------------|
-| Certificate III in Bricklaying     | $18,000           |
-| Tools, PPE, White Card             | $300–$800                 |
-| TRA PSA                            | $130                      |
-| JRP Registration                   | $490                      |
-| Workplace Assessment               | $2,845                    |
-| Final Skills Assessment            | $75                       |
-| Visa Application Fee               | $4,770                    |
-| Bridging Visa B (if needed)        | $185                      |
-| IELTS / PTE Test (if needed)       | ~$400                     |
-| Police + Medicals                  | ~$500                     |
-| **Total (excluding living costs)** | **~$29,000**    |
+| Stage                          | Estimated AUD |
+|-------------------------------|----------------|
+| Certificate III Course         | $17,230        |
+| Tools, PPE, White Card         | $300–$800      |
+| TRA PSA                        | $130           |
+| JRP Registration               | $490           |
+| JRWA Assessment                | $2,845         |
+| Final Skills Assessment        | $75            |
+| Visa Application (190/491)     | $4,770         |
+| Bridging Visa B (if needed)    | $185           |
+| English Test (if needed)       | ~$400          |
+| Police + Medicals              | ~$500          |
+| **Total**                      | **~$27,000–$28,500** |
 
 ---
 
 ## 💼 Transition Back to IT (Post-PR)
 
-Once PR is granted, you're free to **return to your IT career** — no need to continue in bricklaying.
+Once PR is granted, you are **not tied to bricklaying** and can return to your IT field.
 
-### Suggested Certifications:
-- **Microsoft AZ-800 – Windows Server Hybrid Admin**
-- **Microsoft 365 Admin – MS-102**
-- **Azure Administrator Associate**
-- **CCNA (Cisco Certified Network Associate)**
-- **RHCSA (Red Hat Certified System Admin)**
-- **CompTIA Network+ or Security+ (optional)**
+### Certifications to Boost IT Profile:
+- Microsoft AZ-800 (Windows Server)
+- Microsoft 365 (MS-102)
+- Azure Administrator Associate
+- CCNA (Cisco)
+- RHCSA (Linux)
+- CompTIA Network+ / Security+ (optional)
 
-### How to Re-Enter IT:
-1. Update resume with PR status, IT degree & certs
-2. Target roles like:
-   - IT Support / Helpdesk (Level 1/2)
-   - Systems Administrator (Linux or Windows)
-   - Cloud Support Engineer (Azure/AWS)
-   - Junior Network Admin / Engineer
-3. Use Seek, LinkedIn, GradConnection, and local Perth IT recruiters
-4. Attend WA IT meetups (Cisco, Red Hat, Azure user groups)
-5. Optional: short TAFE or online refresher to sharpen recent skills
+### Strategy:
+1. Update CV with PR, IT degree, certifications
+2. Apply for roles like:
+   - IT Support / Helpdesk (L1/L2)
+   - Systems Admin
+   - Cloud Support (Azure/AWS)
+   - Junior Network Engineer
+3. Use Seek, LinkedIn, GradConnection
+4. Attend WA tech meetups & user groups
 
 ---
 
 ## ✅ Final Reminders
 
-- Only **JRP work AFTER registration counts**  
-- You must **lodge visa before 15 Feb 2028** (your 485 expiry)  
-- 485 visa has **full work rights**; no need to apply for work visa  
-- **Bridging Visa B** ($185) needed for travel once on BVA  
-- 491 → 191 PR requires:
-  - 3 years in regional Australia  
-  - $53,900+ taxable income in 3 years  
-- Once PR is granted, you're **not tied** to bricklaying — you can work in IT
+- PSA no longer requires WBT (post-July 2023)
+- Bricklayer is exempt from job offer/contract rules in WA
+- WA EOI ranking favours:
+  - WA residents
+  - Construction industry applicants
+- Lodge EOI early for best results
+- 491 → 191 requires 3 years regional + $53,900 income
+- Bridging Visa B needed for travel after 485 expiry
+- PR frees you to re-enter IT industry immediately
 
 ---
 
-> This updated roadmap reflects all current (2025) policy by Home Affairs, WA State Migration, and TRA for skilled visas and trade occupations.
+> This roadmap reflects all current policy (as of mid-2025) from Home Affairs, WA State Migration, and TRA. Double-check official sources before lodging.
