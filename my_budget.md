@@ -20,13 +20,13 @@ Here's a breakdown of my weekly expenses and savings goals while living and stud
 
 | **Category**       | **Weekly Cost (AUD)** | **Notes**                                      |
 |--------------------|-----------------------|------------------------------------------------|
-| 🛒 Groceries & Food| $150.00               | For home cooking and some dining out          |
-| 📱 Mobile & Internet| $9.23                | $40/month converted to weekly                 |
-| 🎥 Subscriptions   | $6.92                 | $30/month converted to weekly                 |
-| ✂️ Haircut         | $18.46                | $80/month converted to weekly                 |
-| 🧽 Car Wash        | $18.46                | $80/month converted to weekly                 |
-| 🎉 Entertainment   | $50.00                | Social activities, outings, etc.              |
-| ⚠️ Miscellaneous   | $50.00                | Buffer for minor/unknown expenses             |
+| 🛒 Groceries & Food| $150.00               | For home cooking and some dining out           |
+| 📱 Mobile & Internet| $9.23                | $40/month converted to weekly                  |
+| 🎥 Subscriptions   | $6.92                 | $30/month converted to weekly                  |
+| ✂️ Haircut         | $18.46                | $80/month converted to weekly                  |
+| 🧽 Car Wash        | $18.46                | $80/month converted to weekly                  |
+| 🎉 Entertainment   | $50.00                | Social activities, outings, etc.               |
+| ⚠️ Miscellaneous   | $50.00                | Buffer for minor/unknown expenses              |
 
 ---
 
@@ -47,8 +47,13 @@ Here's a breakdown of my weekly expenses and savings goals while living and stud
 
 ## **Personal Savings Strategy** 💡
 
-To build consistent savings, I transfer **$20 every day** (totalling **$140/week**) to my **NAB account**.  
-This helps me stay disciplined and grow my savings steadily throughout the year.
+To build consistent savings, I transfer **$20 every day** (totalling **$140/week**) to my **nab account**.  
+This helps me stay disciplined and grow my savings steadily throughout the year.  
+**Staying consistent with this small daily habit builds a powerful financial cushion over time.**
+
+- **$20/day = $140/week**  
+- **$140/week ≈ $607/month** (based on 4.33 weeks/month on average)  
+- **$140/week × 52 weeks = $7,280/year**
 
 ---
 
@@ -75,7 +80,6 @@ To avoid surprises during quarterly BAS or at tax time, I follow this strategy:
 - Since I use my **own car 100% for work**, I claim:
   - **Fuel, depreciation, loan interest, insurance, maintenance, registration**, etc.
   - I follow the **logbook method** to maximize deductions.
-- My estimated total business deductions: **~$26,325/year**.
 - I’m also working to **reduce my weekly expenses**, so I can **save more than $140/week** consistently.
 
 > *Tracking my expenses is the first step to financial freedom!* 🚀
