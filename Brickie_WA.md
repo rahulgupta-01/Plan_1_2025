@@ -104,6 +104,7 @@ As a **bricklayer living in WA**, I fall into the **top-ranked category** for in
 | Visa Grant (PR or 491)                   | Mid–Late 2028         | 6–12 months from application         | Aug–Dec 2028                |
 
 > 🔄 **Note**: While I am aiming to lodge my PR application before the expiry of my current 485 visa in **February 2028**, I will realistically have **additional time** due to the **processing time of my regional 485 extension**.  
+
 > Since the second 485 is granted **from the date of approval**, not backdated, it could give me **extra valid months** (e.g. if granted in July 2027, it expires in July 2028). This acts as a **safety net in case of unexpected delays** in my JRP or nomination process.
 
 ---
