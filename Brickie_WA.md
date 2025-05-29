@@ -70,15 +70,15 @@ As a **bricklayer living in WA**, I fall into the **top-ranked category** for in
 
 ## 🧮 PR Points Breakdown (Target: 95)
 
-| Criteria                          | Points | Notes                                               |
+| Criteria                          | Points | Notes                                              |
 |----------------------------------|--------|-----------------------------------------------------|
-| Age (turning 25 after 18 May 2026)| 30     | Full age points after May 2026                      |
+| Age (turning 25 after 18 May 2026)| 30     | Full age points after May 2026                     |
 | English (target 8 each band)     | 20     | Currently 10 points with 8/8/8/7, aim for 20        |
-| Work experience – outside Aus    | 0      |                                                     |
+| Work experience – outside Aus    | 0      | Not applicable                                      |
 | Work experience – in Australia   | 5      | Via JRP (if accepted as 1-year skilled experience)  |
 | Qualifications (Bachelor of IT)  | 15     | Recognised Australian degree                        |
 | Specialist education             | 0      | Not applicable                                      |
-| Australian Study Requirement     | 5      | Bachelor + Cert III meets this                     |
+| Australian Study Requirement     | 5      | Bachelor + Cert III meets this                      |
 | Community Language (NAATI Hindi) | 5      | Plan to give NAATI                                  |
 | Study in Regional Australia      | 5      | Gold Coast + Perth                                  |
 | Partner Skills (Single)          | 10     | Full points                                         |
@@ -89,7 +89,7 @@ As a **bricklayer living in WA**, I fall into the **top-ranked category** for in
 
 ## 📅 Timeline Overview
 
-| **Phase**                                 | **Target Start**     | **Duration / Processing Time**       | **Expected Completion**    |
+| **Phase**                                | **Target Start**     | **Duration / Processing Time**        | **Expected Completion**     |
 |------------------------------------------|-----------------------|--------------------------------------|-----------------------------|
 | Start Certificate III in Bricklaying     | 7 April 2025          | ~65 weeks (fast-track)               | 5 July 2026                 |
 | Apply for PSA                            | July 2026             | ~3 months                            | Sept–Oct 2026               |
