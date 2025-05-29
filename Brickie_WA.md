@@ -19,9 +19,13 @@
 - **No student visa conditions apply**
 
 > ### 📝 Important Clarification on Regional 485 Extension  
+
 > The **1-year regional extension** is granted **from the actual grant date**, **not backdated** to the expiry of my current 485 visa.  
+
 > For example, if my visa expires in **February 2027**, and the extension is granted in **July 2027**, it will be valid until **July 2028**.  
+
 > ✅ This gives me **extra buffer time** beyond my planned timeline — which can be very helpful in case of **delays with JRP or PR processing**.  
+
 > ℹ️ **Note**: Perth and Gold Coast have been classified as *regional areas* since **16 November 2019**, making them eligible for regional migration benefits such as the 485 extension.
 
 ---
