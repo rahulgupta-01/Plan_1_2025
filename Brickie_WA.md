@@ -5,7 +5,7 @@
 
 ## 🎯 Objective
 
-**Secure Permanent Residency (PR) in Australia via Bricklaying (ANZSCO 331111)** before your 485 visa expires on **15 February 2028**, and transition back into the IT sector after becoming a PR.
+**Secure Permanent Residency (PR) in Australia via Bricklaying (ANZSCO 331111)** before my 485 visa expires on **15 February 2028**, and transition back into the IT sector after becoming a PR.
 
 ---
 
@@ -18,12 +18,17 @@
 - **No further 485 or student visas allowed**  
 - **No student visa conditions apply**
 
+> ### 📝 Important Clarification on Regional 485 Extension  
+> The **1-year regional extension** is granted **from the actual grant date**, **not backdated** to the expiry of my current 485 visa.  
+> For example, if my visa expires in **February 2027**, and the extension is granted in **July 2027**, it will be valid until **July 2028**.  
+> ✅ This gives me **extra buffer time** beyond my planned timeline — which can be very helpful in case of **delays with JRP or PR processing**.
+
 ---
 
 ## ✅ Key Milestone Target
 
-> Lodge your **subclass 190, 491 or 189** visa application **before 15 February 2028**  
-> So that you receive a **Bridging Visa A** and can legally remain in Australia while your PR is processed.
+> Lodge my **subclass 190, 491 or 189** visa application **before 15 February 2028**  
+> So that I receive a **Bridging Visa A** and can legally remain in Australia while my PR is processed.
 
 ---
 
@@ -50,11 +55,11 @@ WA ranks EOIs based on:
 3. 🔢 **EOI points score**
 4. 📆 **EOI submission date**
 
-As a **bricklayer living in WA**, you are in the **top-ranked category** for invitations under General Stream Schedule 2.
+As a **bricklayer living in WA**, I fall into the **top-ranked category** for invitations under General Stream Schedule 2.
 
 ### 🔍 Current Trends:
 - Bricklayers are being invited at **~75 points**
-- You are targeting **95 points**, making you highly competitive
+- I am targeting **95 points**, which makes me highly competitive
 
 ---
 
@@ -89,9 +94,12 @@ As a **bricklayer living in WA**, you are in the **top-ranked category** for inv
 | Final TRA Skills Assessment (JRFA)       | Oct 2027              | 3–8 weeks                            | Nov 2027                    |
 | WA Nomination Application                | Nov 2027              | ~28 working days                     | Nov–Dec 2027                |
 | SkillSelect Invite (190/491)             | Dec 2027              | Within 24 hours post-nomination      | Dec 2027                    |
-| Lodge Visa Application                   | Before 15 Feb 2028    | 60-day window                         | Ideally by Jan 2028         |
+| Lodge Visa Application                   | Before 15 Feb 2028    | 60-day window                        | Ideally by Jan 2028         |
 | Bridging Visa A (if needed)              | Feb 2028 onward       | Activates post-485 expiry            | N/A                         |
 | Visa Grant (PR or 491)                   | Mid–Late 2028         | 6–12 months from application         | Aug–Dec 2028                |
+
+> 🔄 **Note**: While I am aiming to lodge my PR application before the expiry of my current 485 visa in **February 2028**, I will realistically have **additional time** due to the **processing time of my regional 485 extension**.  
+> Since the second 485 is granted **from the date of approval**, not backdated, it could give me **extra valid months** (e.g. if granted in July 2027, it expires in July 2028). This acts as a **safety net in case of unexpected delays** in my JRP or nomination process.
 
 ---
 
@@ -172,9 +180,9 @@ As a **bricklayer living in WA**, you are in the **top-ranked category** for inv
 
 ## 💼 Transition Back to IT (Post-PR)
 
-Once PR is granted, you are **not tied to bricklaying** and can return to your IT field.
+Once PR is granted, I am **not tied to bricklaying** and can return to my IT field.
 
-### Certifications to Boost IT Profile:
+### Certifications to Boost My IT Profile:
 - Microsoft AZ-800 (Windows Server)
 - Microsoft 365 (MS-102)
 - Azure Administrator Associate
@@ -204,8 +212,8 @@ Once PR is granted, you are **not tied to bricklaying** and can return to your I
 - Lodge EOI early for best results
 - 491 → 191 requires 3 years regional + $53,900 income
 - Bridging Visa B needed for travel after 485 expiry
-- PR frees you to re-enter IT industry immediately
+- PR frees me to re-enter IT industry immediately
 
 ---
 
-> This roadmap reflects all current policy (as of mid-2025) from Home Affairs, WA State Migration, and TRA. Double-check official sources before lodging.
+> This roadmap reflects all current policy (as of mid-2025) from Home Affairs, WA State Migration, and TRA. I will double-check official sources before lodging.
