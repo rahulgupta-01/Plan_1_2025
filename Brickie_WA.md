@@ -9,6 +9,18 @@
 
 ---
 
+## 👤 Background
+
+- 🎓 **Bachelor of Information Technology** (Major: Networks and Security) from **Griffith University, Gold Coast** – graduated **Nov 2024**
+- 💼 Interned as **Infrastructure Delivery Intern** at **Sunshine Coast Council** (Nov 2024 – Feb 2025), supporting:
+  - Microsoft 365, Active Directory, Azure
+  - RemedyForce ITSM, ITIL-based support, server environments
+- 👶 Worked as **OSHC Educator** (Jun 2023 – Sep 2024), showing adaptability and leadership
+- 🍕 Worked as **Domino’s Shift Runner** (Feb 2022 – Aug 2024), managing staff and troubleshooting store IT systems
+- 🧑‍💻 Provided hands-on support across Windows, iOS, printers, copiers, and mobile devices
+
+---
+
 ## 🧾 Visa Background
 
 - **Current Visa**: Subclass 485 – Post-Study Work Stream  
