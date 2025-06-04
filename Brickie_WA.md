@@ -30,7 +30,7 @@
 - **No further 485 or student visas allowed**  
 - **No student visa conditions apply**
 
-> ### 📝 Important Clarification on Regional 485 Extension  
+### 📝 Important Clarification on Regional 485 Extension  
 > The **1-year regional extension** is granted **from the actual grant date**, **not backdated** to the expiry of your current 485 visa.  
 >
 > For example, if your visa expires in **February 2027**, and the extension is granted in **July 2027**, it will be valid until **July 2028**.  
