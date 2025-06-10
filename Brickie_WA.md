@@ -13,10 +13,10 @@
 
 - 🎓 **Bachelor of Information Technology** (Major: Networks and Security) from **Griffith University, Gold Coast** – graduated **Nov 2024**
 - 💼 Interned as **Infrastructure Delivery Intern** at **Sunshine Coast Council** (Nov 2024 – Feb 2025), supporting:
-  - Microsoft 365, Active Directory, Azure
-  - RemedyForce ITSM, ITIL-based support, server environments
+ - Microsoft 365, Active Directory, Azure
+ - RemedyForce ITSM, ITIL-based support, server environments
 - 👶 Worked as **OSHC Educator** (Jun 2023 – Sep 2024), showing adaptability and leadership
-- 🍕 Worked as **Domino’s Shift Runner** (Feb 2022 – Aug 2024), managing staff and troubleshooting store IT systems
+- 🍕 Worked as **Domino's Shift Runner** (Feb 2022 – Aug 2024), managing staff and troubleshooting store IT systems
 - 🧑‍💻 Provided hands-on support across Windows, iOS, printers, copiers, and mobile devices
 
 ---
@@ -55,9 +55,9 @@
 - On the **MLTSSL** = eligible for **subclass 189, 190, and 491**  
 - Listed on **WA State Migration Priority Occupations List**  
 - WA **General Stream (Schedule 2)** for construction occupations has:  
-  - ❌ No job offer required  
-  - ❌ No 1-year work experience required  
-  - ✅ Monthly invitations & high priority ranking  
+ - ❌ No job offer required  
+ - ❌ No 1-year work experience required  
+ - ✅ Monthly invitations & high priority ranking  
 - Direct PR via 190 or 3-year pathway via 491 → 191
 
 ---
@@ -102,8 +102,8 @@ As a **bricklayer living in WA**, you fall into the **top-ranked category** for 
 | **Phase**                                | **Target Start**     | **Duration / Processing Time**               | **Expected Completion**     |
 |------------------------------------------|-----------------------|----------------------------------------------|-----------------------------|
 | Start Certificate III in Bricklaying     | 7 April 2025          | 65 weeks                                     | 5 July 2026                 |
-| Start Paid Bricklaying Work              | 6 July 2026           | Must be after course completion              | Ongoing                     |
 | Apply for PSA                            | 6 July 2026           | ~3 months                                     | October 2026                |
+| Start Paid Bricklaying Work              | 6 July 2026           | Must be after course completion              | Ongoing                     |
 | Register for Job Ready Program (JRP)     | October 2026          | 1–2 weeks                                    | October 2026                |
 | ⏪ Claim backdated paid work (JRP)        | From 6 July 2026      | Max [90 days](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines) before JRE application | Backdated to July 2026      |
 | JRP Work Phase                           | July 2026             | 12 months & 1725 paid hours                  | July 2027                   |
@@ -118,7 +118,7 @@ As a **bricklayer living in WA**, you fall into the **top-ranked category** for 
 > 📌 **Important Note on Timing**  
 > You **cannot start counting employment towards JRP** until you have **finished your qualification**. However, you **can start work before PSA is granted**, as long as the work is after Cert III completion.  
 >  
-> ✅ TRA allows you to **claim up to [90 days of continuous paid employment](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)** _before_ submitting your JRE application—but only if it’s:  
+> ✅ TRA allows you to **claim up to [90 days of continuous paid employment](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)** _before_ submitting your JRE application—but only if it's:  
 > - After you finish Cert III  
 > - Still employed at the time of JRE application  
 > - With the same employer (first one you register)  
@@ -137,46 +137,44 @@ As a **bricklayer living in WA**, you fall into the **top-ranked category** for 
 - **WBT**: ❌ Not required for PSA (post-July 2023 change)  
 - **Fee**: $17,230 total + tools & PPE  
 
-### 2. Start Paid Bricklaying Work  
-- **When**: From **6 July 2026** (immediately after finishing Cert III)  
-- ✅ Work must be paid, in nominated occupation, continuous  
-- ✅ You must still be working for the same employer when you submit JRE  
-- ✅ This work can later be backdated (up to **[90 days](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)**) for JRP if all conditions are met  
-- **You can register up to five employers** during JRP; if you change employer, you must register the new one within **14 days** so hours remain valid.  
-
-#### 📌 Example Timeline:
-- Cert III ends: **5 July 2026**  
-- Start work: **6 July 2026**  
-- Lodge PSA: **10 July 2026**  
-- PSA granted: **October 2026**  
-- JRE submission: **15 October 2026**  
-- ✅ You can claim the full **6 July – 15 October** period as part of your 1725 hours, because it:  
-  - Is within 90 days before JRE submission  
-  - Occurred after completing Cert III  
-  - You’re still employed with that first employer  
-
-### 3. Apply for Provisional Skills Assessment (PSA)
-- **When**: Immediately after completing Cert III (July 2026)  
+### 2. Apply for Provisional Skills Assessment (PSA)
+- **When**: Immediately after completing Cert III (6-10 July 2026)  
 - **Fee**: $130  
 - **Outcome**: Required to join the Job Ready Program  
 - ℹ️ Your PSA outcome remains valid for 3 years from date of issue—submit JRE within this period.
 
+### 3. Start Paid Bricklaying Work  
+- **When**: From **6 July 2026** (immediately after finishing Cert III)  
+- ✅ Work must be paid, in nominated occupation, continuous  
+- ✅ You must still be working for the same employer when you submit JRE  
+- ✅ This work can later be backdated (up to **[90 days](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)**) for JRP if all conditions are met  
+- **Maximum 5 employers** allowed during entire JRP; must complete **minimum 6 months full-time equivalent** with one employer  
+- **Critical**: Register any new employer **within 14 days** or those employment hours won't count toward your 1725 hours  
+
 ### 4. Register for Job Ready Program (JRP)
 - **When**: October 2026 (once PSA is granted)  
 - **Fee**: $490  
+- **Employer Documentation**: Single **Employment Verification Report (EVR)** only (combines verification + employer commitment)  
 - **Key Rules**:
-  - Must still be employed in your nominated occupation  
-  - Must register **first employer** (to claim backdating)  
-  - Can claim **up to [90 days](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)** of paid employment immediately before JRE submission  
-  - Provide **one payslip** from start of claimed period and **one recent payslip**  
-  - If you change employers later (up to **five** total), register the new one **within 14 days** of starting; otherwise, hours prior to registration won’t count  
+ - Must still be employed in your nominated occupation  
+ - Must register **first employer** (to claim backdating)  
+ - Can claim **up to [90 days](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines)** of paid employment immediately before JRE submission  
+ - Provide **three weeks of acceptable pay evidence** (including start date + recent payslip)  
+ - **Maximum 5 employers** throughout entire JRP  
+ - **Critical**: Register any employer change **within 14 days** or those hours won't count  
+ - **New employment period starts from registration date**, not actual work start date  
 
 ### 5. Complete JRP Work Phase (1725+ Paid Hours)
 - **Duration**: July 2026 – July 2027  
 - **Minimum**: 15 hrs/week (TFN or ABN accepted)  
 - **Mid-Point**: Workplace Assessment (JRWA) in **March 2027**  
 - **Fee**: $2,845  
-- **Employer Changes**: You may have up to **five employers** in JRP; each new employer must be registered within 14 days.  
+- **Employer Changes**: 
+ - Maximum **5 employers** total during JRP  
+ - Each new employer must be registered **within 14 days** of starting work  
+ - Must complete fresh **EVR + 3 weeks pay evidence** for each new employer  
+ - Failure to register within 14 days means those hours won't count toward 1725 total  
+ - Must complete **minimum 6 months full-time equivalent** with one employer  
 
 ### 6. Final TRA Skills Assessment (JRFA)
 - **When**: July 2027  
@@ -193,8 +191,8 @@ As a **bricklayer living in WA**, you fall into the **top-ranked category** for 
 - **When**: October 2027  
 - **Fee**: ~$4,770 AUD  
 - **Processing**:  
-  - 190: ~6–9 months  
-  - 491: ~6–12 months  
+ - 190: ~6–9 months  
+ - 491: ~6–12 months  
 
 ### 9. Bridging Visa A (BVA)
 - **Activates**: After 485 expiry in **February 2028** if PR visa not yet granted  
@@ -240,10 +238,10 @@ Once PR is granted, you are **not tied to bricklaying** and can return to the IT
 ### Strategy:
 1. Update CV with PR, IT degree, certifications  
 2. Apply for roles such as:  
-   - IT Support / Helpdesk (L1/L2)  
-   - Systems Administrator  
-   - Cloud Support (Azure/AWS)  
-   - Junior Network Engineer  
+  - IT Support / Helpdesk (L1/L2)  
+  - Systems Administrator  
+  - Cloud Support (Azure/AWS)  
+  - Junior Network Engineer  
 3. Use Seek, LinkedIn, GradConnection  
 4. Attend WA tech meetups & user groups  
 
@@ -254,12 +252,13 @@ Once PR is granted, you are **not tied to bricklaying** and can return to the IT
 - PSA no longer requires WBT (post-July 2023)  
 - **Start employment only after completing Cert III**, even if PSA outcome is still pending  
 - JRP allows **one-time 90-day backdating**—must meet all conditions (see [TRA guidelines](https://www.tradesrecognitionaustralia.gov.au/programs-job-ready-program/guidelines))  
-- You can have up to **five registered employers** during JRP—register any change within 14 days  
+- **Maximum 5 registered employers** during JRP—register any change **within 14 days or hours won't count**  
+- **Single EVR form** per employer (no separate registration forms since June 2022)  
 - WA EOI ranking favours:  
-  - WA residents  
-  - Construction occupations  
+ - WA residents  
+ - Construction occupations  
 - Lodge PR visa application before 485 expiry to secure Bridging Visa A  
 
 ---
 
-> This roadmap reflects all current policy (as of mid-2025) from Home Affairs, WA State Migration, and TRA. Always verify the latest guidelines before submission.
+> This roadmap reflects all current policy (as of April 2025) from Home Affairs, WA State Migration, and TRA. Always verify the latest guidelines before submission.
