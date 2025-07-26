@@ -47,7 +47,9 @@
 >
 > ✅ This gives you **extra buffer time** beyond your planned timeline—helpful if there are **delays with JRP or PR processing**.  
 >
-> ℹ️ **Note**: Perth and Gold Coast have been classified as _regional areas_ since **16 November 2019**, making them eligible for regional migration benefits such as the 485 extension.
+> ℹ️ **Note**:
+> Perth and Gold Coast have been classified as _regional areas_ since **16 November 2019**, making them eligible for regional migration benefits such as the 485 extension.
+> While broader post-study work right extensions ceased from July 2024, my research confirms that the specific 1-year regional extension for those who studied in designated regional areas like Gold Coast remains valid.
 
 ---
 
