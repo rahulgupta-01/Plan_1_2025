@@ -106,7 +106,7 @@ As a **bricklayer living in WA**, you fall into the **top-ranked category** for 
 | Work experience – outside Aus      | 0      | Not applicable                                       |
 | Work experience – in Australia     | 5      | Via JRP (1 year as bricklayer in Australia)         |
 | Qualifications (Bachelor of IT)    | 15     | Australian Bachelor degree counts for points         |
-| Australian Study Requirement       | 5      | Bachelor of IT meets 2-year Australian study         |
+| Australian Study Requirement       | 5      | Bachelor of IT meets 2-year Australian study. For these specific 5 points, the qualification is NOT required to be directly relevant to your nominated occupation (Bricklaying)         |
 | Community Language (NAATI Hindi)   | 5      | Plan to give NAATI                                   |
 | Study in Regional Australia        | 5      | Gold Coast (Bachelor) + Perth (Cert III)            |
 | Partner Skills (Single)            | 10     | Full points                                          |
