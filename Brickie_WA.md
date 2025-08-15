@@ -30,7 +30,7 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 - **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
 - **ImmiAccount** — Home Affairs online visa application portal → https://online.immi.gov.au/lusc/login
 - **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/accreditation-of-ite-programs
+- **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/understand-ite-program-accreditation
 - **LANTITE** — Literacy & Numeracy Test for Initial Teacher Education Students (ACER) → https://teacheredtest.acer.edu.au/
 - **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/services/certified-translators-interpreters/ccl/
 - **NPC** — National Police Check (via AFP) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
