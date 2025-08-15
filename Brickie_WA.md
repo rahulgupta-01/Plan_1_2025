@@ -26,7 +26,6 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 - **CRICOS** — Commonwealth Register of Institutions and Courses for Overseas Students → https://cricos.education.gov.au/
 - **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
 - **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **GOL** — Graduate Occupation List (WA State Nomination) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
 - **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
 - **ImmiAccount** — Home Affairs online visa application portal → https://online.immi.gov.au/lusc/login
 - **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
@@ -120,8 +119,7 @@ You must evidence:
 
 ## 🏛️ WA State Nomination (SNMP) — Quick Guide
 
-**Streams:** General (**WASMOL Schedules 1 & 2**) and Graduate (GOL).  
-**My target:** **General stream — WASMOL Schedule 2** for **241411** (eligible for **190** and **491**).
+**Chosen stream:** **General — WASMOL Schedule 2 only** (no Schedule 1 or Graduate stream).
 
 **Ranking (General stream):**
 1. **Residing in WA** (top priority)  
@@ -227,8 +225,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 - **Points:** ≥65 (project ~90)  
 - **Skills assessment:** **AITSL positive** — 241411  
 - **Occupation:** on **WASMOL Schedule 2** (General stream)  
-- **English:** at least **Competent** (claim **Superior** for points)  
-- *(Graduate stream users include WA campus/postcode details)*
+- **English:** at least **Competent** (claim **Superior** for points)
 
 ### Step 2: Documents (before invitation)
 - Identity + **WA residency** (lease/bank/insurance/driver’s renewal)  
@@ -319,4 +316,4 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 
 ---
 
-> ℹ️ This roadmap integrates AITSL/WA SNMP/TRBWA requirements we discussed, plus exact TRBWA rule points (processing times, qualifications, English, fit & proper, professional standards, final-year path, fees). Always re-check official pages before submission as policies can change.
+> ℹ️ This roadmap reflects **WASMOL Schedule 2 only** (no Schedule 1 or Graduate stream). Always re-check official pages before submission as policies can change.
