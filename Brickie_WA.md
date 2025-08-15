@@ -14,6 +14,36 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 
 ---
 
+## 🔤 Abbreviations (with official links)
+
+- **AITSL** — Australian Institute for Teaching & School Leadership → https://www.aitsl.edu.au/  
+- **TRBWA** — Teacher Registration Board of Western Australia → https://www.trb.wa.gov.au/  
+- **SNMP** — State Nominated Migration Program (WA) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program  
+- **WASMOL** — WA Skilled Migration Occupation List (see “Eligible occupations” on SNMP page) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program  
+- **GOL** — Graduate Occupation List (on SNMP page) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program  
+- **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect  
+- **ITA** — Invitation to Apply (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect  
+- **IMMI Account** — Online visa lodgement → https://online.immi.gov.au/lusc/login  
+- **IELTS Academic** → https://www.ielts.org/  
+- **PTE Academic** → https://www.pearsonpte.com/  
+- **NAATI CCL** — Community Language → https://www.naati.com.au/services/certified-translators-interpreters/ccl/  
+- **LANTITE** — Literacy & Numeracy Test (ACER) → https://teacheredtest.acer.edu.au/  
+- **WWCC (WA)** — Working With Children Check → https://workingwithchildren.wa.gov.au/  
+- **NPC (AFP)** — National Police Check → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks  
+- **ACIC** — Australian Criminal Intelligence Commission → https://www.acic.gov.au/  
+- **AIS International** — Overseas criminal history checks → https://www.aisintl.com.au/  
+- **ANZSCO** — Occupation classification → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations  
+- **BVA** — Bridging Visa A → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010  
+- **485** — Temporary Graduate visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485  
+- **189** — Skilled Independent → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189  
+- **190** — Skilled Nominated (State) → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190  
+- **491** — Skilled Work Regional (Provisional) → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491  
+- **191** — Permanent Residence (Skilled Regional) → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/permanent-residence-skilled-regional-191  
+- **SCU** — Southern Cross University (GradDip Secondary) → https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/  
+- **EA/Award** — Enterprise Agreements & Awards (Fair Work) → https://www.fairwork.gov.au/awards-and-agreements  
+
+---
+
 ## 👤 Background
 
 - **B.Information Technology (Networks & Security)** — Griffith University, Gold Coast — **Nov 2024**
@@ -35,7 +65,8 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 
 ### 485 Clarifications
 - Can study **GradDip Teaching (Secondary)** on the **485** (no Subclass 500 needed).  
-- The **one-year regional 485 extension** is **dated from grant**, not backdated — may add extra buffer if granted later.
+- The **one-year regional 485 extension** is **dated from grant**, not backdated — may add extra buffer if granted later.  
+- **My timing choice:** I will **apply for the 485 regional extension ~2 weeks before expiry (around 1 Feb 2027)** to **maximise the processing-time buffer** while remaining lawful on a **BVA** if needed.
 
 ---
 
@@ -76,15 +107,6 @@ You must evidence:
 
 **TRBWA processing goal:** ~**10 weeks**; can be longer if checks/translations/Direct Submission apply.  
 **TRBWA fees (AUD):** Provisional **$140** (AUS/NZ grads) / **$473** (overseas-qualified); Full **$178** / **$508**; Annual fee **$95**; Late annual **$59**; Renewal **$56**; Qualification Advice **$330**; Limited Registration (employer-paid) **$235**.
-
-**Useful TRBWA pages:**  
-- Processing times: https://www.trb.wa.gov.au/Teacher-Registration/Application-processing-times  
-- Qualifications: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/Qualifications  
-- English: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/English-language  
-- Fit & proper: https://www.trb.wa.gov.au/Professional-Conduct/Fit-and-proper-requirements  
-- Professional standards: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/Professional-standards  
-- Final-year students: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Final-year-students  
-- Fees: https://www.trb.wa.gov.au/Further-Information/Fees
 
 ---
 
@@ -157,7 +179,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 | **Assess/EOI** | **Nov–Dec 2026** | **Lodge AITSL** (241411) immediately; **TRBWA Provisional** (final-term/at completion); **EOIs**: **189 + WA-190 + WA-491** (on AITSL positive) | In the invitation pools early |
 | **Invite/visa** | **Jan–Mar 2027** | Accept best invitation (prefer **189/190**; **491** is safe backup) → **lodge visa** in **IMMI** (60 days) | Status secured pre-485 expiry |
 
-> **485 regional extension:** prepare to lodge **~3–6 months** before **15 Feb 2027** → buffer to **15 Feb 2028** if processing/invitations slip.
+> **485 regional extension timing:** I will **apply ~2 weeks before 15 Feb 2027** to **maximise processing buffer** while staying lawful (BVA if required).
 
 ---
 
@@ -185,7 +207,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
    → Maximises invitation chances. **190** needs a **WA contract**; **491** doesn’t.
 
 8) **Accept best invite → lodge visa (IMMI)**  
-   → Locks status. The **485 extension** is your safety net to **Feb 2028**.
+   → Locks status. The **485 extension** timing (~2 weeks pre-expiry) preserves maximum buffer to **Feb 2028**.
 
 ---
 
@@ -285,8 +307,8 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 - [ ] **EOIs lodged**: **189 + WA-190 + WA-491**  
 - [ ] **WA-190 contract** obtained (if pursuing 190) or **491** (no contract)  
 - [ ] **Visa lodged** within 60 days of ITA  
-- [ ] **485 regional extension** (if needed) lodged ~3–6 months before **15 Feb 2027**
+- [ ] **485 regional extension**: **apply ~2 weeks before 15 Feb 2027** to maximise buffer
 
 ---
 
-> ℹ️ This roadmap integrates AITSL/WA SNMP/TRBWA requirements we discussed, plus the exact TRBWA rules (processing times, qualifications, English, fit & proper, professional standards, final-year path, fees). Always re-check official pages before submission as policies can change.
+> ℹ️ This roadmap integrates AITSL/WA SNMP/TRBWA requirements we discussed, plus exact TRBWA rule points (processing times, qualifications, English, fit & proper, professional standards, final-year path, fees). Always re-check official pages before submission as policies can change.
