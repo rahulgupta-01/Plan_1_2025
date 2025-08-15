@@ -24,7 +24,7 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 - **ANZSCO** — Australian & New Zealand Standard Classification of Occupations → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations
 - **BVA** — Bridging Visa A → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010
 - **CRICOS** — Commonwealth Register of Institutions and Courses for Overseas Students → https://cricos.education.gov.au/
-- **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/awards-and-agreements/agreements
+- **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
 - **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
 - **GOL** — Graduate Occupation List (WA State Nomination) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
 - **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
@@ -32,7 +32,7 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 - **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
 - **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/understand-ite-program-accreditation
 - **LANTITE** — Literacy & Numeracy Test for Initial Teacher Education Students (ACER) → https://teacheredtest.acer.edu.au/
-- **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/services/certified-translators-interpreters/ccl/
+- **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/migration-assessments/ccl/
 - **NPC** — National Police Check (via AFP) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
 - **PTE (Academic)** — Pearson Test of English → https://www.pearsonpte.com/
 - **SCU** — Southern Cross University (GradDip Teaching – Secondary) → https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/
@@ -47,7 +47,7 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 - **189** — Skilled Independent visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189
 - **190** — Skilled Nominated (State) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
 - **491** — Skilled Work Regional (Provisional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
-- **191** — Permanent Residence (Skilled Regional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/permanent-residence-skilled-regional-191
+- **191** — https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional
 - **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
 
 ---
