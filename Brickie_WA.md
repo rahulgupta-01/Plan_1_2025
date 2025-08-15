@@ -14,43 +14,6 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 
 ---
 
-## 🔤 Abbreviations (with official links)
-
-- **ACER** — Australian Council for Educational Research (LANTITE test administrator) → https://www.acer.org/
-- **ACIC** — Australian Criminal Intelligence Commission (national police checks gateway) → https://www.acic.gov.au/
-- **ACECQA** — Australian Children’s Education & Care Quality Authority (ECE qualifications/approvals) → https://www.acecqa.gov.au/
-- **AFP** — Australian Federal Police (National Police Check) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
-- **AITSL** — Australian Institute for Teaching & School Leadership (teacher standards, skills assessment, ITE accreditation) → https://www.aitsl.edu.au/
-- **ANZSCO** — Australian & New Zealand Standard Classification of Occupations → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations
-- **BVA** — Bridging Visa A → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010
-- **CRICOS** — Commonwealth Register of Institutions and Courses for Overseas Students → https://cricos.education.gov.au/
-- **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
-- **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
-- **ImmiAccount** — Home Affairs online visa application portal → https://online.immi.gov.au/lusc/login
-- **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/understand-ite-program-accreditation
-- **LANTITE** — Literacy & Numeracy Test for Initial Teacher Education Students (ACER) → https://teacheredtest.acer.edu.au/
-- **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/migration-assessments/ccl/
-- **NPC** — National Police Check (via AFP) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
-- **PTE (Academic)** — Pearson Test of English → https://www.pearsonpte.com/
-- **SCU** — Southern Cross University (GradDip Teaching – Secondary) → https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/
-- **SNMP** — State Nominated Migration Program (WA) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
-- **TEQSA** — Tertiary Education Quality & Standards Agency (higher-ed regulator) → https://www.teqsa.gov.au/
-- **TRBWA** — Teacher Registration Board of Western Australia → https://www.trb.wa.gov.au/
-- **USI** — Unique Student Identifier (national student record) → https://www.usi.gov.au/
-- **WA** — Western Australia (State Government portal) → https://www.wa.gov.au/
-- **WASMOL** — WA Skilled Migration Occupation List → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
-- **WWCC (WA)** — Working With Children Check (Western Australia) → https://workingwithchildren.wa.gov.au/
-- **485** — Temporary Graduate visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485
-- **189** — Skilled Independent visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189
-- **190** — Skilled Nominated (State) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
-- **491** — Skilled Work Regional (Provisional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
-- **191** — https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional
-- **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
-
----
-
 ## 👤 Background
 
 - **B.Information Technology (Networks & Security)** — Griffith University, Gold Coast — **Nov 2024**
@@ -297,6 +260,43 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
   - Professional standards: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/Professional-standards  
   - Final-year students: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Final-year-students  
   - Fees: https://www.trb.wa.gov.au/Further-Information/Fees
+
+---
+
+## 🔤 Abbreviations (with official links)
+
+- **ACER** — Australian Council for Educational Research (LANTITE test administrator) → https://www.acer.org/
+- **ACIC** — Australian Criminal Intelligence Commission (national police checks gateway) → https://www.acic.gov.au/
+- **ACECQA** — Australian Children’s Education & Care Quality Authority (ECE qualifications/approvals) → https://www.acecqa.gov.au/
+- **AFP** — Australian Federal Police (National Police Check) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
+- **AITSL** — Australian Institute for Teaching & School Leadership (teacher standards, skills assessment, ITE accreditation) → https://www.aitsl.edu.au/
+- **ANZSCO** — Australian & New Zealand Standard Classification of Occupations → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations
+- **BVA** — Bridging Visa A → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010
+- **CRICOS** — Commonwealth Register of Institutions and Courses for Overseas Students → https://cricos.education.gov.au/
+- **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
+- **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
+- **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
+- **ImmiAccount** — Home Affairs online visa application portal → https://online.immi.gov.au/lusc/login
+- **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
+- **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/understand-ite-program-accreditation
+- **LANTITE** — Literacy & Numeracy Test for Initial Teacher Education Students (ACER) → https://teacheredtest.acer.edu.au/
+- **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/migration-assessments/ccl/
+- **NPC** — National Police Check (via AFP) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
+- **PTE (Academic)** — Pearson Test of English → https://www.pearsonpte.com/
+- **SCU** — Southern Cross University (GradDip Teaching – Secondary) → https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/
+- **SNMP** — State Nominated Migration Program (WA) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
+- **TEQSA** — Tertiary Education Quality & Standards Agency (higher-ed regulator) → https://www.teqsa.gov.au/
+- **TRBWA** — Teacher Registration Board of Western Australia → https://www.trb.wa.gov.au/
+- **USI** — Unique Student Identifier (national student record) → https://www.usi.gov.au/
+- **WA** — Western Australia (State Government portal) → https://www.wa.gov.au/
+- **WASMOL** — WA Skilled Migration Occupation List → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
+- **WWCC (WA)** — Working With Children Check (Western Australia) → https://workingwithchildren.wa.gov.au/
+- **485** — Temporary Graduate visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485
+- **189** — Skilled Independent visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189
+- **190** — Skilled Nominated (State) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
+- **491** — Skilled Work Regional (Provisional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
+- **191** — https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional
+- **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
 
 ---
 
