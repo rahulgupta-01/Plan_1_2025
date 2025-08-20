@@ -119,12 +119,14 @@ Graduates will be able to:
 | **Category**                          | **1. Single Teaching Area** <br>(Final slot = Elective)          | **2. Two Teaching Areas – Same Discipline** <br>(Final slot = EDUC6009) | **3. Two Teaching Areas – Different Disciplines** <br>(Final slot = C&P I – 2nd area) |
 | ------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Core Units (5)**                    | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | Same 5 as Single Area                                                   | Same 5 as Single Area                                                                  |
-| **C&P Units (Teaching Area Selections)** | FIRST C&P unit (1st area) <br> SECOND C&P unit (1st area)        | FIRST C&P unit (1st area) <br> SECOND C&P unit (1st area)               | FIRST C&P unit (1st area) <br> SECOND C&P unit (1st area) <br> FIRST C&P unit (2nd area) |
-| **Final Slot Rule (Pathway Summary)** | Elective                                                         | EDUC6009 – Education and Indigenous Australians                         | C&P I (second area)                                                                   |
+| **C&P Units (Teaching Area Selections)** | C&P I (1st area) <br> C&P II (1st area)                          | C&P I (1st area) <br> C&P II (1st area)                                 | C&P I (1st area) <br> C&P II (1st area) <br> C&P I (2nd area)                         |
+| **Final Slot Rule (Pathway Summary)** | Elective                                                         | EDUC6009 – Education and Indigenous Australians                         | Not Applicable                                                                         |
 | **Placement Units (0cp)**             | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                                  | TCHR5007 <br> TCHR5008                                                                 |
 | **Total Units**                       | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)                      | **10 units** <br>(8 credit-bearing + 2 placements)                                     |
 
-> The labels “FIRST Secondary Curriculum and Pedagogy unit” and “SECOND Secondary Curriculum and Pedagogy unit” are required selection slots for your **first** teaching area (C&P I and C&P II). The final slot depends on your approval pathway and is chosen from the options above.
+> The labels **C&P I** and **C&P II** are required selection slots for your **first teaching area**.  
+> The **final slot** depends on your approval pathway and is shown in the “Final Slot Rule” row of the table above.  
+> For the **Two Teaching Areas – Different Disciplines** pathway, the final slot is marked **Not Applicable** because the second teaching area is already included under the C&P Units row.
 
 ---
 
