@@ -49,7 +49,6 @@ Get an early start on your teaching career with the Graduate Diploma of Teaching
 - **Six-week unit structure**: shorter, immersive and interactive learning blocks.  
 - Encourages greater momentum, improved completion, higher satisfaction.  
 - Replaces traditional lectures with **active, discussion-based learning**.  
-- **On-campus**: lectures, tutorials, online activities, podcasts.  
 - **Online**: podcasts, video lectures, digital materials, workshops, discussion forums, virtual classes.  
 
 ---
@@ -78,9 +77,8 @@ Graduates will be able to:
 
 <a id="delivery"></a>
 ## 5. Delivery Mode (International – Online, Secondary)
-- 100% Online with required professional placements.  
+- **100% Online** with required professional placements.  
 - Accelerated six-week units across Terms 1–5 + Summer.  
-- Location options: Online, Gold Coast, Perth.  
 - Entry terms vary by unit availability (see progression tables).  
 
 ---
@@ -180,27 +178,43 @@ Graduates will be able to:
 - **C&P I for second teaching area** (two teaching areas in different disciplines)  
 - **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
 
+**Online C&P availability (2026) of Teaching areas that I am interested in**  
+
+**📘 Digital Technologies / Technologies and Design**  
+- **EDUC2006 – C&P I**  
+  International (Online): **Term 1 → 9 Mar – 17 Apr 2026 (Census 23 Mar)**  
+- **EDUC3020 – C&P II**  
+  International (Online): **Summer Term → 12 Jan – 20 Feb 2026 (Census 26 Jan)**  
+
+**📘 Mathematics**  
+- **EDUC2003 – C&P I**  
+  International (Online): **Term 1 → 9 Mar – 17 Apr 2026 (Census 23 Mar)**  
+  International (Online): **Term 5 → 26 Oct – 4 Dec 2026 (Census 9 Nov)**  
+- **EDUC3003 – C&P II**  
+  International (Online): **Summer Term → 12 Jan – 20 Feb 2026 (Census 26 Jan)**  
+  International (Online): **Term 3 → 6 Jul – 14 Aug 2026 (Census 20 Jul)**  
+
 ---
 
 <a id="course-progressions"></a>
 ### 📘 Course Progressions (Secondary) 
 
-| Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes | Expanded details                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **EDUC5012**                                                                                                                                                 | Education and Practice: Ways of Teaching and Learning  | Term 1, 3         | 12            | —     | Gold Coast – Term 1, 3; Online – Term 1, 3; Perth – Term 3. **Co-requisites:** TCHR5005 (Primary) **or** TCHR5007 (Secondary). **Enrolment:** Must pass before placement.                                                                            |
-| **TCHR5007**                                                                                                                                                 | Professional Experience I – Secondary                  | Dual Term 2, 3    | 0             | —     | Online – Dual Term 2, 3; Perth – Dual Term 3. **Co-requisite:** EDUC5012. **Anti-requisite:** EDUC5002.                                                                                                                                              |
-| **EDUC5003**                                                                                                                                                 | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4         | 12            | —     | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4.                                                                                                                                                                                           |
-| **EDUC3032**                                                                                                                                                 | Classroom Management                                   | Term 2, 4         | 12            | —     | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                           |
-| **TCHR5008**                                                                                                                                                 | Professional Experience II – Secondary                 | Dual Term 2, 3    | 0             | —     | Online – Dual Term 2, 3. **Pre-requisite:** TCHR5007. **Anti-requisite:** TCHR5002.                                                                                                                                                                   |
-| **EDUC3031**                                                                                                                                                 | Teaching Students from Diverse Backgrounds             | Summer Term, 3    | 12            | —     | Gold Coast – Summer / Term 3; Online – Summer / Term 3. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                               |
-| **EDUC5001**                                                                                                                                                 | Education and Change: The Lifelong Learner             | Term 3, 5         | 12            | —     | Gold Coast – Term 3, 5; Online – Term 3, 5; Perth – Term 3, 5. **Anti-requisite:** EDUC1004.                                                                                                                                                          |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
+| Unit code | Unit title | Available (terms) | Credit points | Notes | Expanded details |
+|-----------|------------|-------------------|---------------|-------|-----------------|
+| **EDUC5012** | Education and Practice: Ways of Teaching and Learning | Term 1, 3 | 12 | — | **Online – Term 1, 3.** Co-requisites: TCHR5005 (Primary) **or** TCHR5007 (Secondary). Enrolment: Must pass before placement. |
+| **TCHR5007** | Professional Experience I – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Co-requisite: EDUC5012. Anti-requisite: EDUC5002. |
+| **EDUC5003** | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4 | 12 | — | **Online – Term 2, 4.** |
+| **EDUC3032** | Classroom Management | Term 2, 4 | 12 | — | **Online – Term 2, 4.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004). |
+| **TCHR5008** | Professional Experience II – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Pre-requisite: TCHR5007. Anti-requisite: TCHR5002. |
+| **EDUC3031** | Teaching Students from Diverse Backgrounds | Summer Term, 3 | 12 | — | **Online – Summer / Term 3.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004). |
+| **EDUC5001** | Education and Change: The Lifelong Learner | Term 3, 5 | 12 | — | **Online – Term 3, 5.** Anti-requisite: EDUC1004. |
+| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**. |
 
 ---
 
 <a id="availability-fees"></a>
 ## 8. Availability & Fees
-**Locations**: Gold Coast, Perth, Online.  
+**Location**: **Online only**.  
 **Teaching periods**: Term 3 & Term 5 (main intakes).  
 **Annual Fees**: AUD $25,000 (approx. $3,125 per unit).  
 **CRICOS**: 117390J.  
@@ -211,8 +225,8 @@ Graduates will be able to:
 <a id="fees-scholarships"></a>
 ## 9. Fees & Scholarships (International)
 - **International tuition**: see above.  
-- **SSAF (Student Services and Amenities Fee):** compulsory, charged per unit. Supports on-campus/online services.  
-- **Other costs:** may include computers, software, field trips, uniforms, travel for practicum, vaccinations.  
+- **SSAF (Student Services and Amenities Fee):** compulsory, charged per unit. Supports online services.  
+- **Other costs:** may include computers, software, field trips, travel for practicum, vaccinations.  
 - **Scholarships:** SCU offers scholarships from a few hundred to several thousand AUD. Includes *Access initiative* for equitable tuition support.  
 
 ---
