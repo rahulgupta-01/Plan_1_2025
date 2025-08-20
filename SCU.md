@@ -3,6 +3,32 @@
 
 ---
 
+## Table of contents
+- [1. Course Overview](#overview)
+- [2. Understanding the Southern Cross Model](#sc-model)
+- [3. Learning Outcomes & Graduate Attributes](#learning-outcomes)
+- [4. Placements, Work Experience & Study Hours](#placements)
+- [5. Delivery Mode (International – Online, Secondary)](#delivery)
+- [6. Entry Requirements](#entry-reqs)
+- [7. Course Structure](#course-structure)
+  - [Read this first: how the 8 units are counted](#how-8-units)
+  - [The three approval pathways (final slot)](#pathways-summary)
+  - [Summary table of specialisation selections](#summary-table)
+  - [Schedule of Units (Secondary)](#schedule-of-units)
+    - [Compulsory units](#compulsory-units)
+    - [C&P I list – first teaching area](#cp-i-list)
+    - [C&P II list – first teaching area](#cp-ii-list)
+    - [Final requirement – choose one option](#final-requirement)
+  - [Course Progressions (Secondary)](#course-progressions)
+- [8. Availability & Fees](#availability-fees)
+- [9. Fees & Scholarships (International)](#fees-scholarships)
+- [10. Career Outcomes & Accreditation](#career-outcomes)
+- [11. Pathways](#pathways)
+- [12. SCU Academic Calendar](#academic-calendar)
+
+---
+
+<a id="overview"></a>
 ## 1. Course Overview
 Get an early start on your teaching career with the Graduate Diploma of Teaching. This course provides a flexible pathway for graduates of other disciplines who wish to become a teacher in either a primary or secondary school setting. The course develops evidence-based practice for a career where you can make a positive impact on the lives of children and young people.
 
@@ -18,6 +44,7 @@ Get an early start on your teaching career with the Graduate Diploma of Teaching
 
 ---
 
+<a id="sc-model"></a>
 ## 2. Understanding the Southern Cross Model
 - **Six-week unit structure**: shorter, immersive and interactive learning blocks.  
 - Encourages greater momentum, improved completion, higher satisfaction.  
@@ -27,6 +54,7 @@ Get an early start on your teaching career with the Graduate Diploma of Teaching
 
 ---
 
+<a id="learning-outcomes"></a>
 ## 3. Learning Outcomes & Graduate Attributes
 Graduates will be able to:  
 - **GA1: Intellectual rigour** – exercise critical analysis, problem solving, decision-making in education.  
@@ -39,6 +67,7 @@ Graduates will be able to:
 
 ---
 
+<a id="placements"></a>
 ## 4. Placements, Work Experience & Study Hours
 - **45 days of professional placement** in Australian primary/secondary schools.  
 - Experience includes both formal classroom and broader school contexts.  
@@ -47,6 +76,7 @@ Graduates will be able to:
 
 ---
 
+<a id="delivery"></a>
 ## 5. Delivery Mode (International – Online, Secondary)
 - 100% Online with required professional placements.  
 - Accelerated six-week units across Terms 1–5 + Summer.  
@@ -55,6 +85,7 @@ Graduates will be able to:
 
 ---
 
+<a id="entry-reqs"></a>
 ## 6. Entry Requirements
 ### Academic
 - Completed **undergraduate degree** in a relevant discipline.  
@@ -66,8 +97,10 @@ Graduates will be able to:
 
 ---
 
+<a id="course-structure"></a>
 ## 📘 7. Course Structure
 
+<a id="how-8-units"></a>
 ### Read this first: how the 8 units are counted
 - **Total academic units:** 8 × 12 credit points (**96cp**) plus two **0cp** placements (**TCHR5007**, **TCHR5008**).  
 - **Five core academic units** are fixed.  
@@ -76,17 +109,29 @@ Graduates will be able to:
   2) **SECOND Secondary Curriculum & Pedagogy (C&P) unit – C&P II (first teaching area)**  
   3) **Final slot (conditional):** **Elective** **OR** **C&P I (second teaching area)** **OR** **EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being**
 
+<a id="pathways-summary"></a>
 #### The three approval pathways (which option to take in the final slot)
 - **Single teaching area (one subject):** Final slot = **Elective**.  
 - **Two teaching areas in the same discipline (Science / HSIE / Technology & Applied Sciences):** Final slot = **EDUC6009**.  
 - **Two teaching areas in different disciplines (e.g., English + History):** Final slot = **C&P I (second teaching area)**.  
 
+<a id="summary-table"></a>
+#### Summary of specialisation selections
+
+| Your approval pathway            | Selection 1                  | Selection 2                  | Selection 3 (final slot)    |
+|----------------------------------|------------------------------|------------------------------|-----------------------------|
+| Single teaching area             | C&P I (1st area)             | C&P II (1st area)            | Elective                    |
+| Two areas (same discipline)      | C&P I (1st area)             | C&P II (1st area)            | EDUC6009                    |
+| Two areas (different disciplines)| C&P I (1st area)             | C&P II (1st area)            | C&P I (2nd area)            |
+
 > The labels “FIRST Secondary Curriculum and Pedagogy unit” and “SECOND Secondary Curriculum and Pedagogy unit” are required selection slots for your **first** teaching area (C&P I and C&P II). The final slot depends on your approval pathway and is chosen from the options above.
 
 ---
 
+<a id="schedule-of-units"></a>
 ### 📘 Schedule of Units (Secondary)
 
+<a id="compulsory-units"></a>
 #### Compulsory units (all students complete these)
 
 | Unit code | Unit title                                                     | Credit points |
@@ -99,6 +144,7 @@ Graduates will be able to:
 | TCHR5007 | Professional Experience I – Secondary                           | 0 (Professional experience placement) |
 | TCHR5008 | Professional Experience II – Secondary                          | 0 (Professional experience placement) |
 
+<a id="cp-i-list"></a>
 #### First secondary curriculum & pedagogy unit – choose one for your approved first teaching area (C&P I)
 
 | Unit code | Unit title                                                    | Credit points |
@@ -113,6 +159,7 @@ Graduates will be able to:
 | EDUC5009 | Performing Arts: Secondary Curriculum and Pedagogy I          | 12            |
 | TCHR2001 | English: Secondary Curriculum and Pedagogy I                  | 12            |
 
+<a id="cp-ii-list"></a>
 #### Second secondary curriculum & pedagogy unit – choose one corresponding to the same discipline (C&P II for your first area)
 
 | Unit code | Unit title                                                      | Credit points |
@@ -127,6 +174,7 @@ Graduates will be able to:
 | EDUC6016 | Performing Arts: Curriculum and Pedagogy II                     | 12            |
 | TCHR3002 | English: Secondary Curriculum and Pedagogy II                   | 12            |
 
+<a id="final-requirement"></a>
 #### Final requirement – choose one option
 - **University-wide elective** (single teaching area)  
 - **C&P I for second teaching area** (two teaching areas in different disciplines)  
@@ -134,6 +182,7 @@ Graduates will be able to:
 
 ---
 
+<a id="course-progressions"></a>
 ### 📘 Course Progressions (Secondary) 
 
 | Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes | Expanded details                                                                                                                                                                                                                                      |
@@ -145,10 +194,11 @@ Graduates will be able to:
 | **TCHR5008**                                                                                                                                                 | Professional Experience II – Secondary                 | Dual Term 2, 3    | 0             | —     | Online – Dual Term 2, 3. **Pre-requisite:** TCHR5007. **Anti-requisite:** TCHR5002.                                                                                                                                                                   |
 | **EDUC3031**                                                                                                                                                 | Teaching Students from Diverse Backgrounds             | Summer Term, 3    | 12            | —     | Gold Coast – Summer / Term 3; Online – Summer / Term 3. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                               |
 | **EDUC5001**                                                                                                                                                 | Education and Change: The Lifelong Learner             | Term 3, 5         | 12            | —     | Gold Coast – Term 3, 5; Online – Term 3, 5; Perth – Term 3, 5. **Anti-requisite:** EDUC1004.                                                                                                                                                          |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the C&P I list above)** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
+| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
 
 ---
 
+<a id="availability-fees"></a>
 ## 8. Availability & Fees
 **Locations**: Gold Coast, Perth, Online.  
 **Teaching periods**: Term 3 & Term 5 (main intakes).  
@@ -158,6 +208,7 @@ Graduates will be able to:
 
 ---
 
+<a id="fees-scholarships"></a>
 ## 9. Fees & Scholarships (International)
 - **International tuition**: see above.  
 - **SSAF (Student Services and Amenities Fee):** compulsory, charged per unit. Supports on-campus/online services.  
@@ -166,6 +217,7 @@ Graduates will be able to:
 
 ---
 
+<a id="career-outcomes"></a>
 ## 10. Career Outcomes & Accreditation
 - **Teacher Registration**: TRBWA (WA) provisional registration eligible.  
 - Accredited for Australian secondary teaching (except NSW NESA, requires articulation).  
@@ -173,12 +225,14 @@ Graduates will be able to:
 
 ---
 
+<a id="pathways"></a>
 ## 11. Pathways
 - Direct articulation into **Master of Teaching (Secondary)** at SCU.  
 - Credits (8 units) awarded towards the Master.  
 
 ---
 
+<a id="academic-calendar"></a>
 ## 12. SCU Academic Calendar
 
 ### 2025
