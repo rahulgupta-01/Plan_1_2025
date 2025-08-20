@@ -1,5 +1,5 @@
-# 🎓 Graduate Diploma of Teaching (Course Code: 1108004, Year 2025)  
-🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/2025/](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/2025/)
+# 🎓 Graduate Diploma of Teaching (Course Code: 1108004)  
+🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004)
 
 ---
 
