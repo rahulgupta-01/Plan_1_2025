@@ -68,6 +68,26 @@ Graduates will be able to:
 
 ## 📘 7. Course Structure
 
+### Read this first: how the 8 units are counted
+- **Total academic units:** 8 × 12 credit points (plus two **0cp** professional experience units: **TCHR5007**, **TCHR5008**).  
+- **Five core academic units** are fixed.  
+- **Three specialisation selections** are made using:
+  1) **FIRST Secondary Curriculum & Pedagogy (C&P) unit**  
+  2) **SECOND Secondary Curriculum & Pedagogy (C&P) unit**  
+  3) **Final slot:** **Elective** **OR** **C&P I** **OR** **EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** (as directed by your approval pathway and Note 2).
+
+#### The three approval pathways (which option to take in each slot)
+- **Single teaching area (one subject):**  
+  FIRST = C&P I (your subject) • SECOND = C&P II (your subject) • FINAL = **Elective**.
+- **Two teaching areas in the same discipline (e.g., Science/HSIE/Technology):**  
+  FIRST = C&P I • SECOND = C&P II (same discipline) • FINAL = **EDUC6009**.
+- **Two teaching areas in different disciplines (e.g., English + History):**  
+  FIRST = C&P I (area 1) • SECOND = C&P I (area 2) • FINAL = **Elective** (or another C&P I with approval under **Note 2**).
+
+> The labels “FIRST Secondary Curriculum and Pedagogy unit” and “SECOND Secondary Curriculum and Pedagogy unit” are required selection slots. The specific unit code you choose depends on your approved teaching area(s) and must be taken from the C&P lists in the **Schedule of Units**.
+
+---
+
 ### 📘 Course Progressions (Secondary) 
 
 | Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes      | Expanded details                                                                                                                                                                                                                                                                     |
@@ -82,7 +102,6 @@ Graduates will be able to:
 | **Elective OR** Secondary Curriculum and Pedagogy I unit (from list above) **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | —                                                      | —                 | —             | **Note 2** | Students approved for: (1) single teaching area – must take one elective; (2) two teaching areas in same discipline (Science, HSIE, Technology) – must take EDUC6009; (3) two teaching areas in different disciplines – must take a second Curriculum & Pedagogy unit.               |
 
 #### Notes
-
 * **Note 1** – This unit involves a professional experience placement.  
 * **Note 2** – If you are wanting to undertake additional Secondary Curriculum and Pedagogy units please contact: **[education.enquiry@scu.edu.au](mailto:education.enquiry@scu.edu.au)** to confirm your course progression plan.
 
