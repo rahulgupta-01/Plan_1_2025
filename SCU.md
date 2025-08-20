@@ -11,7 +11,7 @@
 - [5. Delivery Mode (International – Online, Secondary)](#delivery)
 - [6. Entry Requirements](#entry-reqs)
 - [7. Course Structure](#course-structure)
-  - [Read this first: how the 8 units are counted](#how-8-units)
+  - [How the 8 units are counted](#how-8-units)
   - [The three approval pathways (final slot)](#pathways-summary)
   - [Summary table of specialisation selections](#summary-table)
   - [Schedule of Units (Secondary)](#schedule-of-units)
@@ -101,7 +101,7 @@ Graduates will be able to:
 ## 📘 7. Course Structure
 
 <a id="how-8-units"></a>
-### Read this first: how the 8 units are counted
+### How the 8 units are counted
 - **Total academic units:** 8 × 12 credit points (**96cp**) plus two **0cp** placements (**TCHR5007**, **TCHR5008**).  
 - **Five core academic units** are fixed.  
 - **Three specialisation selections** are always made as follows:  
