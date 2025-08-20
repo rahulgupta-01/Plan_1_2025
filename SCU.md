@@ -89,70 +89,63 @@ Graduates will be able to:
 
 #### Compulsory units (all students complete these)
 
-| Unit code | Unit title                                                     | Notes |
-|----------|-----------------------------------------------------------------|------|
-| EDUC5012 | Education and Practice: Ways of Teaching and Learning           | —    |
-| EDUC5003 | Teaching and Learning Literacy and Numeracy in Context          | —    |
-| EDUC3032 | Classroom Management                                            | —    |
-| EDUC3031 | Teaching Students from Diverse Backgrounds                      | —    |
-| EDUC5001 | Education and Change: The Lifelong Learner                      | —    |
-| TCHR5007 | Professional Experience I – Secondary                           | Note 1 |
-| TCHR5008 | Professional Experience II – Secondary                          | Note 1 |
+| Unit code | Unit title                                                     | Credit points |
+|----------|-----------------------------------------------------------------|---------------|
+| EDUC5012 | Education and Practice: Ways of Teaching and Learning           | 12            |
+| EDUC5003 | Teaching and Learning Literacy and Numeracy in Context          | 12            |
+| EDUC3032 | Classroom Management                                            | 12            |
+| EDUC3031 | Teaching Students from Diverse Backgrounds                      | 12            |
+| EDUC5001 | Education and Change: The Lifelong Learner                      | 12            |
+| TCHR5007 | Professional Experience I – Secondary                           | 0 (Professional experience placement) |
+| TCHR5008 | Professional Experience II – Secondary                          | 0 (Professional experience placement) |
 
 #### First secondary curriculum & pedagogy unit – choose one for your approved first teaching area (C&P I)
 
-| Unit code | Unit title                                                    |
-|----------|---------------------------------------------------------------|
-| EDUC2002 | PDHPE: Secondary Curriculum and Pedagogy I                    |
-| EDUC2003 | Mathematics: Secondary Curriculum and Pedagogy I              |
-| EDUC2004 | Science: Secondary Curriculum and Pedagogy I                  |
-| EDUC2006 | Technologies and Design: Secondary Curriculum and Pedagogy I  |
-| EDUC2019 | HSIE: Secondary Curriculum and Pedagogy I                     |
-| EDUC5007 | Music: Secondary Curriculum and Pedagogy I                    |
-| EDUC5008 | Visual Arts: Secondary Curriculum and Pedagogy I              |
-| EDUC5009 | Performing Arts: Secondary Curriculum and Pedagogy I          |
-| TCHR2001 | English: Secondary Curriculum and Pedagogy I                  |
+| Unit code | Unit title                                                    | Credit points |
+|----------|----------------------------------------------------------------|---------------|
+| EDUC2002 | PDHPE: Secondary Curriculum and Pedagogy I                    | 12            |
+| EDUC2003 | Mathematics: Secondary Curriculum and Pedagogy I              | 12            |
+| EDUC2004 | Science: Secondary Curriculum and Pedagogy I                  | 12            |
+| EDUC2006 | Technologies and Design: Secondary Curriculum and Pedagogy I  | 12            |
+| EDUC2019 | HSIE: Secondary Curriculum and Pedagogy I                     | 12            |
+| EDUC5007 | Music: Secondary Curriculum and Pedagogy I                    | 12            |
+| EDUC5008 | Visual Arts: Secondary Curriculum and Pedagogy I              | 12            |
+| EDUC5009 | Performing Arts: Secondary Curriculum and Pedagogy I          | 12            |
+| TCHR2001 | English: Secondary Curriculum and Pedagogy I                  | 12            |
 
 #### Second secondary curriculum & pedagogy unit – choose one corresponding to the same discipline (C&P II for your first area)
 
-| Unit code | Unit title                                                      |
-|----------|-----------------------------------------------------------------|
-| EDUC3005 | PDHPE: Secondary Curriculum and Pedagogy II                     |
-| EDUC3003 | Mathematics: Secondary Curriculum and Pedagogy II               |
-| EDUC3004 | Science: Secondary Curriculum and Pedagogy II                   |
-| EDUC3020 | Technologies and Design: Secondary Curriculum and Pedagogy II   |
-| EDUC3019 | HSIE: Secondary Curriculum and Pedagogy II                      |
-| EDUC6014 | Music: Secondary Curriculum and Pedagogy II                     |
-| EDUC6015 | Visual Arts: Secondary Curriculum and Pedagogy II               |
-| EDUC6016 | Performing Arts: Curriculum and Pedagogy II                     |
-| TCHR3002 | English: Secondary Curriculum and Pedagogy II                   |
+| Unit code | Unit title                                                      | Credit points |
+|----------|------------------------------------------------------------------|---------------|
+| EDUC3005 | PDHPE: Secondary Curriculum and Pedagogy II                     | 12            |
+| EDUC3003 | Mathematics: Secondary Curriculum and Pedagogy II               | 12            |
+| EDUC3004 | Science: Secondary Curriculum and Pedagogy II                   | 12            |
+| EDUC3020 | Technologies and Design: Secondary Curriculum and Pedagogy II   | 12            |
+| EDUC3019 | HSIE: Secondary Curriculum and Pedagogy II                      | 12            |
+| EDUC6014 | Music: Secondary Curriculum and Pedagogy II                     | 12            |
+| EDUC6015 | Visual Arts: Secondary Curriculum and Pedagogy II               | 12            |
+| EDUC6016 | Performing Arts: Curriculum and Pedagogy II                     | 12            |
+| TCHR3002 | English: Secondary Curriculum and Pedagogy II                   | 12            |
 
 #### Final requirement – choose one option
 - **University-wide elective** (single teaching area)  
 - **C&P I for second teaching area** (two teaching areas in different disciplines)  
 - **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
 
-#### Schedule Notes
-* **Note 1** – Units marked Note 1 involve a professional experience placement (0 credit points).
-
 ---
 
 ### 📘 Course Progressions (Secondary) 
 
-| Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes      | Expanded details                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **EDUC5012**                                                                                                                                                 | Education and Practice: Ways of Teaching and Learning  | Term 1, 3         | 12            | —          | Gold Coast – Term 1, 3; Online – Term 1, 3; Perth – Term 3. **Co-requisites:** TCHR5005 (Primary) **or** TCHR5007 (Secondary). **Enrolment:** Must pass before placement.                                                                            |
-| **TCHR5007**                                                                                                                                                 | Professional Experience I – Secondary                  | Dual Term 2, 3    | 0             | **Note 1** | Online – Dual Term 2, 3; Perth – Dual Term 3. **Co-requisite:** EDUC5012. **Anti-requisite:** EDUC5002.                                                                                                                                              |
-| **EDUC5003**                                                                                                                                                 | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4         | 12            | —          | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4.                                                                                                                                                                                           |
-| **EDUC3032**                                                                                                                                                 | Classroom Management                                   | Term 2, 4         | 12            | —          | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                           |
-| **TCHR5008**                                                                                                                                                 | Professional Experience II – Secondary                 | Dual Term 2, 3    | 0             | **Note 1** | Online – Dual Term 2, 3. **Pre-requisite:** TCHR5007. **Anti-requisite:** TCHR5002.                                                                                                                                                                   |
-| **EDUC3031**                                                                                                                                                 | Teaching Students from Diverse Backgrounds             | Summer Term, 3    | 12            | —          | Gold Coast – Summer / Term 3; Online – Summer / Term 3. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                               |
-| **EDUC5001**                                                                                                                                                 | Education and Change: The Lifelong Learner             | Term 3, 5         | 12            | —          | Gold Coast – Term 3, 5; Online – Term 3, 5; Perth – Term 3, 5. **Anti-requisite:** EDUC1004.                                                                                                                                                          |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the C&P I list above)** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | **Note 2** | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
-
-#### Notes
-* **Note 1** – This unit involves a professional experience placement.  
-* **Note 2** – If you wish to undertake additional Secondary Curriculum & Pedagogy units, contact **[education.enquiry@scu.edu.au](mailto:education.enquiry@scu.edu.au)** to confirm your progression plan.
+| Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes | Expanded details                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **EDUC5012**                                                                                                                                                 | Education and Practice: Ways of Teaching and Learning  | Term 1, 3         | 12            | —     | Gold Coast – Term 1, 3; Online – Term 1, 3; Perth – Term 3. **Co-requisites:** TCHR5005 (Primary) **or** TCHR5007 (Secondary). **Enrolment:** Must pass before placement.                                                                            |
+| **TCHR5007**                                                                                                                                                 | Professional Experience I – Secondary                  | Dual Term 2, 3    | 0             | —     | Online – Dual Term 2, 3; Perth – Dual Term 3. **Co-requisite:** EDUC5012. **Anti-requisite:** EDUC5002.                                                                                                                                              |
+| **EDUC5003**                                                                                                                                                 | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4         | 12            | —     | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4.                                                                                                                                                                                           |
+| **EDUC3032**                                                                                                                                                 | Classroom Management                                   | Term 2, 4         | 12            | —     | Gold Coast – Term 2, 4; Online – Term 2, 4; Perth – Term 4. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                           |
+| **TCHR5008**                                                                                                                                                 | Professional Experience II – Secondary                 | Dual Term 2, 3    | 0             | —     | Online – Dual Term 2, 3. **Pre-requisite:** TCHR5007. **Anti-requisite:** TCHR5002.                                                                                                                                                                   |
+| **EDUC3031**                                                                                                                                                 | Teaching Students from Diverse Backgrounds             | Summer Term, 3    | 12            | —     | Gold Coast – Summer / Term 3; Online – Summer / Term 3. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                               |
+| **EDUC5001**                                                                                                                                                 | Education and Change: The Lifelong Learner             | Term 3, 5         | 12            | —     | Gold Coast – Term 3, 5; Online – Term 3, 5; Perth – Term 3, 5. **Anti-requisite:** EDUC1004.                                                                                                                                                          |
+| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the C&P I list above)** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
 
 ---
 
