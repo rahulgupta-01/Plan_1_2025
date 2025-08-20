@@ -116,13 +116,13 @@ Graduates will be able to:
 <a id="summary-table"></a>
 #### Summary of specialisation selections
 
-| **Category**                          | **Single Teaching Area**           | **Two Teaching Areas – <br>Same Discipline** | **Two Teaching Areas – <br>Different Disciplines** <br>|
-| ------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Core Units (5)**                    | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | Same 5 as Single Area                                                   | Same 5 as Single Area                                                                  |
-| **C&P Units (Teaching Area Selections)** | C&P I (1st area) <br> C&P II (1st area)                          | C&P I (1st area) <br> C&P II (1st area)                                 | C&P I (1st area) <br> C&P II (1st area) <br> C&P I (2nd area)                         |
-| **Final Slot** | Elective                                                         | EDUC6009                         | Not Applicable                                                                         |
-| **Placement Units (0cp)**             | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                                  | TCHR5007 <br> TCHR5008                                                                 |
-| **Total Units**                       | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)                      | **10 units** <br>(8 credit-bearing + 2 placements)                                     |
+| **Category**                              | **Single Teaching Area**                                         | **Two Teaching Areas – <br>Same Discipline**                     | **Two Teaching Areas – <br>Different Disciplines**          |
+| ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Core Units (5)**                        | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 |
+| **C\&P Units (Teaching Area Selections)** | C\&P I (1st area) <br> C\&P II (1st area)                        | C\&P I (1st area) <br> C\&P II (1st area)                        | C\&P I (1st area) <br> C\&P II (1st area) <br> C\&P I (2nd area) |
+| **Final Slot**                            | Elective                                                         | EDUC6009                                                         | Not Applicable                                                   |
+| **Placement Units (0cp)**                 | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                           |
+| **Total Units**                           | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)               |
 
 ---
 
