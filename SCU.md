@@ -116,7 +116,7 @@ Graduates will be able to:
 <a id="summary-table"></a>
 #### Summary of specialisation selections
 
-| **Category**                          | **1. Single Teaching Area**           | **2. Two Teaching Areas – <br>Same Discipline** | **3. Two Teaching Areas – <br>Different Disciplines** <br>|
+| **Category**                          | **Single Teaching Area**           | **Two Teaching Areas – <br>Same Discipline** | **Two Teaching Areas – <br>Different Disciplines** <br>|
 | ------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Core Units (5)**                    | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | Same 5 as Single Area                                                   | Same 5 as Single Area                                                                  |
 | **C&P Units (Teaching Area Selections)** | C&P I (1st area) <br> C&P II (1st area)                          | C&P I (1st area) <br> C&P II (1st area)                                 | C&P I (1st area) <br> C&P II (1st area) <br> C&P I (2nd area)                         |
