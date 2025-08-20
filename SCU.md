@@ -85,6 +85,58 @@ Graduates will be able to:
 
 ---
 
+### 📘 Schedule of Units (Secondary)
+
+#### Compulsory units (all students complete these)
+
+| Unit code | Unit title                                                     | Notes |
+|----------|-----------------------------------------------------------------|------|
+| EDUC5012 | Education and Practice: Ways of Teaching and Learning           | —    |
+| EDUC5003 | Teaching and Learning Literacy and Numeracy in Context          | —    |
+| EDUC3032 | Classroom Management                                            | —    |
+| EDUC3031 | Teaching Students from Diverse Backgrounds                      | —    |
+| EDUC5001 | Education and Change: The Lifelong Learner                      | —    |
+| TCHR5007 | Professional Experience I – Secondary                           | Note 1 |
+| TCHR5008 | Professional Experience II – Secondary                          | Note 1 |
+
+#### First secondary curriculum & pedagogy unit – choose one for your approved first teaching area (C&P I)
+
+| Unit code | Unit title                                                    |
+|----------|---------------------------------------------------------------|
+| EDUC2002 | PDHPE: Secondary Curriculum and Pedagogy I                    |
+| EDUC2003 | Mathematics: Secondary Curriculum and Pedagogy I              |
+| EDUC2004 | Science: Secondary Curriculum and Pedagogy I                  |
+| EDUC2006 | Technologies and Design: Secondary Curriculum and Pedagogy I  |
+| EDUC2019 | HSIE: Secondary Curriculum and Pedagogy I                     |
+| EDUC5007 | Music: Secondary Curriculum and Pedagogy I                    |
+| EDUC5008 | Visual Arts: Secondary Curriculum and Pedagogy I              |
+| EDUC5009 | Performing Arts: Secondary Curriculum and Pedagogy I          |
+| TCHR2001 | English: Secondary Curriculum and Pedagogy I                  |
+
+#### Second secondary curriculum & pedagogy unit – choose one corresponding to the same discipline (C&P II for your first area)
+
+| Unit code | Unit title                                                      |
+|----------|-----------------------------------------------------------------|
+| EDUC3005 | PDHPE: Secondary Curriculum and Pedagogy II                     |
+| EDUC3003 | Mathematics: Secondary Curriculum and Pedagogy II               |
+| EDUC3004 | Science: Secondary Curriculum and Pedagogy II                   |
+| EDUC3020 | Technologies and Design: Secondary Curriculum and Pedagogy II   |
+| EDUC3019 | HSIE: Secondary Curriculum and Pedagogy II                      |
+| EDUC6014 | Music: Secondary Curriculum and Pedagogy II                     |
+| EDUC6015 | Visual Arts: Secondary Curriculum and Pedagogy II               |
+| EDUC6016 | Performing Arts: Curriculum and Pedagogy II                     |
+| TCHR3002 | English: Secondary Curriculum and Pedagogy II                   |
+
+#### Final requirement – choose one option
+- **University-wide elective** (single teaching area)  
+- **C&P I for second teaching area** (two teaching areas in different disciplines)  
+- **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
+
+#### Schedule Notes
+* **Note 1** – Units marked Note 1 involve a professional experience placement (0 credit points).
+
+---
+
 ### 📘 Course Progressions (Secondary) 
 
 | Unit code                                                                                                                                                    | Unit title                                             | Available (terms) | Credit points | Notes      | Expanded details                                                                                                                                                                                                                                      |
@@ -96,40 +148,11 @@ Graduates will be able to:
 | **TCHR5008**                                                                                                                                                 | Professional Experience II – Secondary                 | Dual Term 2, 3    | 0             | **Note 1** | Online – Dual Term 2, 3. **Pre-requisite:** TCHR5007. **Anti-requisite:** TCHR5002.                                                                                                                                                                   |
 | **EDUC3031**                                                                                                                                                 | Teaching Students from Diverse Backgrounds             | Summer Term, 3    | 12            | —          | Gold Coast – Summer / Term 3; Online – Summer / Term 3. **Pre-requisites:** 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004).                                                                                               |
 | **EDUC5001**                                                                                                                                                 | Education and Change: The Lifelong Learner             | Term 3, 5         | 12            | —          | Gold Coast – Term 3, 5; Online – Term 3, 5; Perth – Term 3, 5. **Anti-requisite:** EDUC1004.                                                                                                                                                          |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit (from list above) **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | —                  | —                 | —             | **Note 2** | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
+| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the C&P I list above)** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | **Note 2** | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**.                                                                                   |
 
 #### Notes
 * **Note 1** – This unit involves a professional experience placement.  
 * **Note 2** – If you wish to undertake additional Secondary Curriculum & Pedagogy units, contact **[education.enquiry@scu.edu.au](mailto:education.enquiry@scu.edu.au)** to confirm your progression plan.
-
----
-
-### 📘 Schedule of Units (Secondary)
-
-| Unit code                                                                                                              | Unit title                                                         | Notes |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----- |
-| **Compulsory units** (all students complete these):                                                                    |                                                                    |       |
-| EDUC5012                                                                                                               | Education and Practice: Ways of Teaching and Learning              | —     |
-| EDUC5003                                                                                                               | Teaching and Learning Literacy and Numeracy in Context             | —     |
-| EDUC3032                                                                                                               | Classroom Management                                               | —     |
-| EDUC3031                                                                                                               | Teaching Students from Diverse Backgrounds                         | —     |
-| EDUC5001                                                                                                               | Education and Change: The Lifelong Learner                         | —     |
-| TCHR5007                                                                                                               | Professional Experience I – Secondary                              | Note 1|
-| TCHR5008                                                                                                               | Professional Experience II – Secondary                             | Note 1|
-
-**First secondary curriculum & pedagogy unit – choose one for your approved first teaching area (C&P I):**  
-EDUC2002 • EDUC2003 • EDUC2004 • EDUC2006 • EDUC2019 • EDUC5007 • EDUC5008 • EDUC5009 • TCHR2001
-
-**Second secondary curriculum & pedagogy unit – choose one corresponding to the same discipline (C&P II for your first area):**  
-EDUC3005 • EDUC3003 • EDUC3004 • EDUC3020 • EDUC3019 • EDUC6014 • EDUC6015 • EDUC6016 • TCHR3002
-
-**Final requirement – choose one option:**  
-- **University-wide elective** (single teaching area)  
-- **C&P I for second teaching area** (two teaching areas in different disciplines)  
-- **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
-
-#### Schedule Notes
-* **Note 1** – Units marked Note 1 involve a professional experience placement (0 credit points).
 
 ---
 
