@@ -178,6 +178,8 @@ Graduates will be able to:
 - **C&P I for second teaching area** (two teaching areas in different disciplines)  
 - **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
 
+---
+
 **Online C&P availability (2026) of Teaching areas that I am interested in**  
 
 **📘 Digital Technologies / Technologies and Design**  
