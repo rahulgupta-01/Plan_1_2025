@@ -185,16 +185,24 @@ Graduates will be able to:
 **📘 Digital Technologies / Technologies and Design**  
 - **EDUC2006 – C&P I**  
   International (Online): **Term 1 → 9 Mar – 17 Apr 2026 (Census 23 Mar)**  
+  **Requisites (EDUC2006):** Prerequisites: 96 Credit points in a Bachelor of Education course OR admission to the 1207286 - Master of Teaching OR 1209001 - Master of Teaching OR 1108004 - Graduate Diploma of Teaching.   
+  **Enrolment information:** Students MUST complete this unit prior to enrolling in their first Professional Experience unit. It is recommended that students have completed at least 2 Technology teaching (subject) area units prior to enrolling in this unit.  
 - **EDUC3020 – C&P II**  
   International (Online): **Summer Term → 12 Jan – 20 Feb 2026 (Census 26 Jan)**  
+  **Requisites (EDUC3020):** Prerequisites: EDUC2006 - Technologies and Design: Secondary Curriculum and Pedagogy I AND TCHR2009 - Professional Experience I - Secondary OR TCHR5007 - Professional Experience I - Secondary.   
+  **Enrolment information:** All students must have completed the curriculum and pedagogy II unit/s for their teaching area/s prior to their final professional placement.  
 
 **📘 Mathematics**  
 - **EDUC2003 – C&P I**  
   International (Online): **Term 1 → 9 Mar – 17 Apr 2026 (Census 23 Mar)**  
   International (Online): **Term 5 → 26 Oct – 4 Dec 2026 (Census 9 Nov)**  
+  **Requisites (EDUC2003):** Prerequisites: 96 Credit points in a Bachelor of Education course OR admission to the 1207286 - Master of Teaching OR 1209001 - Master of Teaching OR 1108004 - Graduate Diploma of Teaching.  
+  **Enrolment information:** Students MUST complete at least one Secondary Curriculum and Pedagogy I unit in their chosen Secondary Subject Teaching area before enrolling in their first Professional Experience unit. It is recommended that students have completed at least 2 Mathematics teaching (subject) area units prior to enrolling in this unit.  
 - **EDUC3003 – C&P II**  
   International (Online): **Summer Term → 12 Jan – 20 Feb 2026 (Census 26 Jan)**  
   International (Online): **Term 3 → 6 Jul – 14 Aug 2026 (Census 20 Jul)**  
+  **Requisites (EDUC3003):** Prerequisites: EDUC2003 - Mathematics: Secondary Curriculum and Pedagogy I AND TCHR2009 - Professional Experience I - Secondary OR TCHR5007 - Professional Experience I - Secondary.   
+  **Enrolment information:** All students must have completed the curriculum and pedagogy II unit/s for their teaching area/s prior to their final professional placement.  
 
 ---
 
