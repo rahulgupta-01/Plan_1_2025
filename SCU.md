@@ -1,4 +1,4 @@
-# 🎓 Graduate Diploma of Teaching (Course Code: 1108004)  
+# 🎓 Graduate Diploma of Teaching (Course Code: `1108004`)  
 🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004)
 
 ---
@@ -11,16 +11,16 @@
 - [5. Delivery Mode (International – Online, Secondary)](#delivery)
 - [6. Entry Requirements](#entry-reqs)
 - [7. Course Structure](#course-structure)
-  - [How the 8 units are counted](#how-8-units)
-  - [The three approval pathways (final slot)](#pathways-summary)
-  - [Summary table of specialisation selections](#summary-table)
-  - [Schedule of Units (Secondary)](#schedule-of-units)
-    - [Compulsory units](#compulsory-units)
-    - [C&P I list – first teaching area](#cp-i-list)
-    - [C&P II list – first teaching area](#cp-ii-list)
-    - [Final requirement – choose one option](#final-requirement)
-  - [My Study Plan (Term 5, 2025 Intake)](#my-study-plan)
-  - [Course Progressions (Secondary)](#course-progressions)
+  - [How the 8 units are counted](#how-8-units)
+  - [The three approval pathways (final slot)](#pathways-summary)
+  - [Summary table of specialisation selections](#summary-table)
+  - [Schedule of Units (Secondary)](#schedule-of-units)
+    - [Compulsory units](#compulsory-units)
+    - [C&P I list – first teaching area](#cp-i-list)
+    - [C&P II list – first teaching area](#cp-ii-list)
+    - [Final requirement – choose one option](#final-requirement)
+  - [My Study Plan (Term 5, 2025 Intake)](#my-study-plan)
+  - [Course Progressions (Secondary)](#course-progressions)
 - [8. Availability & Fees](#availability-fees)
 - [9. Fees & Scholarships (International)](#fees-scholarships)
 - [10. Career Outcomes & Accreditation](#career-outcomes)
@@ -71,7 +71,7 @@ Graduates will be able to:  
 - **45 days of professional placement** in Australian primary/secondary schools.  
 - Experience includes both formal classroom and broader school contexts.  
 - Pre-requisites: **Working with Children Check** and other regulatory clearances.  
-- Placement is mandatory (see TCHR5007 & TCHR5008).  
+- Placement is mandatory (see `TCHR5007` & `TCHR5008`).  
 
 ---
 
@@ -100,17 +100,17 @@ Graduates will be able to:  
 
 <a id="how-8-units"></a>
 ### How the 8 units are counted
-- **Total academic units:** 8 × 12 credit points (**96cp**) plus two **0cp** placements (**TCHR5007**, **TCHR5008**).  
+- **Total academic units:** 8 × 12 credit points (**96cp**) plus two **0cp** placements (`TCHR5007`, `TCHR5008`).  
 - **Five core academic units** are fixed.  
 - **Three specialisation selections** are always made as follows:  
   1) **FIRST Secondary Curriculum & Pedagogy (C&P) unit – C&P I (first teaching area)**  
   2) **SECOND Secondary Curriculum & Pedagogy (C&P) unit – C&P II (first teaching area)**  
-  3) **Final slot (conditional):** **Elective** **OR** **C&P I (second teaching area)** **OR** **EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being**
+  3) **Final slot (conditional):** **Elective** **OR** **C&P I (second teaching area)** **OR** `EDUC6009` – Education and Indigenous Australians: Ways of Knowing and Being
 
 <a id="pathways-summary"></a>
 #### The three approval pathways (which option to take in the final slot)
 - **Single teaching area (one subject):** Final slot = **Elective**.  
-- **Two teaching areas in the same discipline (Science / HSIE / Technology & Applied Sciences):** Final slot = **EDUC6009**.  
+- **Two teaching areas in the same discipline (Science / HSIE / Technology & Applied Sciences):** Final slot = `EDUC6009`.  
 - **Two teaching areas in different disciplines (e.g., English + History):** Final slot = **C&P I (second teaching area)**.  
 
 <a id="summary-table"></a>
@@ -118,10 +118,10 @@ Graduates will be able to:  
 
 | **Category**                              | **Single Teaching Area**                                         | **Two Teaching Areas – <br>Same Discipline**                     | **Two Teaching Areas – <br>Different Disciplines**          |
 | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Core Units (5)**                        | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 | EDUC5012 <br> EDUC5003 <br> EDUC3032 <br> EDUC3031 <br> EDUC5001 |
+| **Core Units (5)**                        | `EDUC5012` <br> `EDUC5003` <br> `EDUC3032` <br> `EDUC3031` <br> `EDUC5001` | `EDUC5012` <br> `EDUC5003` <br> `EDUC3032` <br> `EDUC3031` <br> `EDUC5001` | `EDUC5012` <br> `EDUC5003` <br> `EDUC3032` <br> `EDUC3031` <br> `EDUC5001` |
 | **C\&P Units (Teaching Area Selections)** | C\&P I (1st area) <br> C\&P II (1st area)                        | C\&P I (1st area) <br> C\&P II (1st area)                        | C\&P I (1st area) <br> C\&P II (1st area) <br> C\&P I (2nd area) |
-| **Final Slot**                            | Elective                                                         | EDUC6009                                                         | Not Applicable                                                   |
-| **Placement Units (0cp)**                 | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                           | TCHR5007 <br> TCHR5008                                           |
+| **Final Slot**                            | Elective                                                         | `EDUC6009`                                                        | Not Applicable                                                   |
+| **Placement Units (0cp)**                 | `TCHR5007` <br> `TCHR5008`                                           | `TCHR5007` <br> `TCHR5008`                                           | `TCHR5007` <br> `TCHR5008`                                           |
 | **Total Units**                           | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)               | **10 units** <br>(8 credit-bearing + 2 placements)               |
 
 ---
@@ -134,49 +134,49 @@ Graduates will be able to:  
 
 | Unit code | Unit title                                                     | Credit points |
 |----------|-----------------------------------------------------------------|---------------|
-| EDUC5012 | Education and Practice: Ways of Teaching and Learning           | 12            |
-| EDUC5003 | Teaching and Learning Literacy and Numeracy in Context          | 12            |
-| EDUC3032 | Classroom Management                                            | 12            |
-| EDUC3031 | Teaching Students from Diverse Backgrounds                      | 12            |
-| EDUC5001 | Education and Change: The Lifelong Learner                      | 12            |
-| TCHR5007 | Professional Experience I – Secondary                           | 0 (Professional experience placement) |
-| TCHR5008 | Professional Experience II – Secondary                          | 0 (Professional experience placement) |
+| `EDUC5012` | Education and Practice: Ways of Teaching and Learning           | 12            |
+| `EDUC5003` | Teaching and Learning Literacy and Numeracy in Context          | 12            |
+| `EDUC3032` | Classroom Management                                            | 12            |
+| `EDUC3031` | Teaching Students from Diverse Backgrounds                      | 12            |
+| `EDUC5001` | Education and Change: The Lifelong Learner                      | 12            |
+| `TCHR5007` | Professional Experience I – Secondary                           | 0 (Professional experience placement) |
+| `TCHR5008` | Professional Experience II – Secondary                          | 0 (Professional experience placement) |
 
 <a id="cp-i-list"></a>
 #### First secondary curriculum & pedagogy unit – choose one for your approved first teaching area (C&P I)
 
 | Unit code | Unit title                                                    | Credit points |
 |----------|----------------------------------------------------------------|---------------|
-| EDUC2002 | PDHPE: Secondary Curriculum and Pedagogy I                    | 12            |
-| EDUC2003 | Mathematics: Secondary Curriculum and Pedagogy I              | 12            |
-| EDUC2004 | Science: Secondary Curriculum and Pedagogy I                  | 12            |
-| EDUC2006 | Technologies and Design: Secondary Curriculum and Pedagogy I  | 12            |
-| EDUC2019 | HSIE: Secondary Curriculum and Pedagogy I                     | 12            |
-| EDUC5007 | Music: Secondary Curriculum and Pedagogy I                    | 12            |
-| EDUC5008 | Visual Arts: Secondary Curriculum and Pedagogy I              | 12            |
-| EDUC5009 | Performing Arts: Secondary Curriculum and Pedagogy I          | 12            |
-| TCHR2001 | English: Secondary Curriculum and Pedagogy I                  | 12            |
+| `EDUC2002` | PDHPE: Secondary Curriculum and Pedagogy I                    | 12            |
+| `EDUC2003` | Mathematics: Secondary Curriculum and Pedagogy I              | 12            |
+| `EDUC2004` | Science: Secondary Curriculum and Pedagogy I                  | 12            |
+| `EDUC2006` | Technologies and Design: Secondary Curriculum and Pedagogy I  | 12            |
+| `EDUC2019` | HSIE: Secondary Curriculum and Pedagogy I                     | 12            |
+| `EDUC5007` | Music: Secondary Curriculum and Pedagogy I                    | 12            |
+| `EDUC5008` | Visual Arts: Secondary Curriculum and Pedagogy I              | 12            |
+| `EDUC5009` | Performing Arts: Secondary Curriculum and Pedagogy I          | 12            |
+| `TCHR2001` | English: Secondary Curriculum and Pedagogy I                  | 12            |
 
 <a id="cp-ii-list"></a>
 #### Second secondary curriculum & pedagogy unit – choose one corresponding to the same discipline (C&P II for your first area)
 
 | Unit code | Unit title                                                      | Credit points |
 |----------|------------------------------------------------------------------|---------------|
-| EDUC3005 | PDHPE: Secondary Curriculum and Pedagogy II                     | 12            |
-| EDUC3003 | Mathematics: Secondary Curriculum and Pedagogy II               | 12            |
-| EDUC3004 | Science: Secondary Curriculum and Pedagogy II                   | 12            |
-| EDUC3020 | Technologies and Design: Secondary Curriculum and Pedagogy II   | 12            |
-| EDUC3019 | HSIE: Secondary Curriculum and Pedagogy II                      | 12            |
-| EDUC6014 | Music: Secondary Curriculum and Pedagogy II                     | 12            |
-| EDUC6015 | Visual Arts: Secondary Curriculum and Pedagogy II               | 12            |
-| EDUC6016 | Performing Arts: Curriculum and Pedagogy II                     | 12            |
-| TCHR3002 | English: Secondary Curriculum and Pedagogy II                   | 12            |
+| `EDUC3005` | PDHPE: Secondary Curriculum and Pedagogy II                     | 12            |
+| `EDUC3003` | Mathematics: Secondary Curriculum and Pedagogy II               | 12            |
+| `EDUC3004` | Science: Secondary Curriculum and Pedagogy II                   | 12            |
+| `EDUC3020` | Technologies and Design: Secondary Curriculum and Pedagogy II   | 12            |
+| `EDUC3019` | HSIE: Secondary Curriculum and Pedagogy II                      | 12            |
+| `EDUC6014` | Music: Secondary Curriculum and Pedagogy II                     | 12            |
+| `EDUC6015` | Visual Arts: Secondary Curriculum and Pedagogy II               | 12            |
+| `EDUC6016` | Performing Arts: Curriculum and Pedagogy II                     | 12            |
+| `TCHR3002` | English: Secondary Curriculum and Pedagogy II                   | 12            |
 
 <a id="final-requirement"></a>
 #### Final requirement – choose one option
 - **University-wide elective** (single teaching area)  
 - **C&P I for second teaching area** (two teaching areas in different disciplines)  
-- **EDUC6009** *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
+- `EDUC6009` *Education and Indigenous Australians: Ways of Knowing and Being* (two teaching areas in the same discipline)
 
 <a id="my-study-plan"></a>
 ### 📅 My Study Plan (Term 5, 2025 Intake)
@@ -197,14 +197,14 @@ Graduates will be able to:  
 
 | Unit code | Unit title | Available (terms) | Credit points | Notes | Expanded details |
 |-----------|------------|-------------------|---------------|-------|-----------------|
-| **EDUC5012** | Education and Practice: Ways of Teaching and Learning | Term 1, 3 | 12 | — | **Online – Term 1, 3.** Co-requisites: TCHR5005 (Primary) **or** TCHR5007 (Secondary). Enrolment: Must pass before placement. |
-| **TCHR5007** | Professional Experience I – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Co-requisite: EDUC5012. Anti-requisite: EDUC5002. |
-| **EDUC5003** | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4 | 12 | — | **Online – Term 2, 4.** |
-| **EDUC3032** | Classroom Management | Term 2, 4 | 12 | — | **Online – Term 2, 4.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004). |
-| **TCHR5008** | Professional Experience II – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Pre-requisite: TCHR5007. Anti-requisite: TCHR5002. |
-| **EDUC3031** | Teaching Students from Diverse Backgrounds | Summer Term, 3 | 12 | — | **Online – Summer / Term 3.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (1209001) or GradDipTeach (1108004). |
-| **EDUC5001** | Education and Change: The Lifelong Learner | Term 3, 5 | 12 | — | **Online – Term 3, 5.** Anti-requisite: EDUC1004. |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR EDUC6009 – Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → **EDUC6009**; Two areas (different disciplines) → **C&P I (second teaching area)**. |
+| `EDUC5012` | Education and Practice: Ways of Teaching and Learning | Term 1, 3 | 12 | — | **Online – Term 1, 3.** Co-requisites: `TCHR5005` (Primary) **or** `TCHR5007` (Secondary). Enrolment: Must pass before placement. |
+| `TCHR5007` | Professional Experience I – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Co-requisite: `EDUC5012`. Anti-requisite: `EDUC5002`. |
+| `EDUC5003` | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4 | 12 | — | **Online – Term 2, 4.** |
+| `EDUC3032` | Classroom Management | Term 2, 4 | 12 | — | **Online – Term 2, 4.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (`1209001`) or GradDipTeach (`1108004`). |
+| `TCHR5008` | Professional Experience II – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Pre-requisite: `TCHR5007`. Anti-requisite: `TCHR5002`. |
+| `EDUC3031` | Teaching Students from Diverse Backgrounds | Summer Term, 3 | 12 | — | **Online – Summer / Term 3.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (`1209001`) or GradDipTeach (`1108004`). |
+| `EDUC5001` | Education and Change: The Lifelong Learner | Term 3, 5 | 12 | — | **Online – Term 3, 5.** Anti-requisite: `EDUC1004`. |
+| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR** `EDUC6009` **– Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → `EDUC6009`; Two areas (different disciplines) → **C&P I (second teaching area)**. |
 
 ---
 
@@ -213,7 +213,7 @@ Graduates will be able to:  
 **Location**: **Online only**.  
 **Teaching periods**: Term 3 & Term 5 (main intakes).  
 **Annual Fees**: AUD $25,000 (approx. $3,125 per unit).  
-**CRICOS**: 117390J.  
+**CRICOS**: `117390J`.  
 *Fees subject to annual increase. OSHC and non-tuition costs apply (textbooks, stationery, excursions).*  
 
 ---
