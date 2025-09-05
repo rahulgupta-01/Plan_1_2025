@@ -78,7 +78,7 @@ Graduates will be able to:  
 
 <a id="delivery"></a>
 ## 5. Delivery Mode (International – Online, Secondary)
-- **100% Online** with required professional placements.  
+- **Mostly Online** apart from required professional placements.  
 - Accelerated six-week units across Terms 1–5 + Summer.  
 - Entry terms vary by unit availability (see progression tables).  
 
