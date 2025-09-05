@@ -88,7 +88,7 @@ Graduates will be able to:  
 ## 6. Entry Requirements
 ### Academic
 - Completed **undergraduate degree** in a relevant discipline.  
-- Must support teaching in **two secondary areas**.  
+- subject content for **one or two approved teaching areas** (as assessed by SCU).  
 
 ### English
 - **IELTS Academic 7.0 overall, no band <7.0.**  
