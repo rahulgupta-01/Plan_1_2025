@@ -214,7 +214,6 @@ Graduates will be able to:  
 
 <a id="availability-fees"></a> 
 ## 8. Availability & Fees
-
 - **Location**: **Online**.  
 - **Teaching periods**: Term 3 & Term 5 (main intakes).  
 - **Indicative Total Course Fee**: **AUD $25,833.33**.  
