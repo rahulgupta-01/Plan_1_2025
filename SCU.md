@@ -103,10 +103,13 @@ Graduates will be able to:  
 ### How the 8 units are counted
 - **Total academic units:** 8 × 12 credit points (**96cp**) plus two **0cp** placements (`TCHR5007`, `TCHR5008`).  
 - **Five core academic units** are fixed.  
-- **Three specialisation selections** are always made as follows:  
-  1) **FIRST Secondary Curriculum & Pedagogy (C&P) unit – C&P I (first teaching area)**  
-  2) **SECOND Secondary Curriculum & Pedagogy (C&P) unit – C&P II (first teaching area)**  
-  3) **Final slot (conditional):** **Elective** **OR** **C&P I (second teaching area)** **OR** `EDUC6009` – Education and Indigenous Australians: Ways of Knowing and Being
+- **Three specialisation selections** are always made as follows:
+  1.  **FIRST** Secondary Curriculum & Pedagogy (C&P) unit – C&P I (first teaching area)
+  2.  **SECOND** Secondary Curriculum & Pedagogy (C&P) unit – C&P II (first teaching area)
+  3.  **Final slot (conditional):** Choose **one** of the following options:
+      - **Elective**
+      - **C&P I** (for a second teaching area)
+      - `EDUC6009` – Education and Indigenous Australians: Ways of Knowing and Being
 
 <a id="pathways-summary"></a>
 #### The three approval pathways (which option to take in the final slot)
