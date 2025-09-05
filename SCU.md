@@ -187,7 +187,7 @@ Graduates will be able to:  
 | Term | Teaching Dates | Census Date | Unit Code & Name | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | Term 5 2025 | 27 Oct – 5 Dec | 10 Nov | `EDUC5001`: Education and Change: The Lifelong Learner<br>`Elective`: Elective | |
-| Summer Term 2026 | 12 Jan – 20 Feb | 26 Jan | `EDUC3020`: Technologies and Design: Secondary C&P II | Prerequisite waiver approved |
+| Summer Term 2026 | 12 Jan – 20 Feb | 26 Jan | `EDUC3020`: Technologies and Design: Secondary C&P II | `TCHR5007` Prerequisite waiver approved |
 | Term 1 2026 | 9 Mar – 17 Apr | 23 Mar | `EDUC5012`: Education and Practice: Ways of Teaching and Learning<br>`EDUC2006`: Technologies and Design: Secondary C&P I | |
 | Dual Term 2 2026 | 9 Mar – 12 Jun | 6 Apr | `TCHR5007`: Professional Experience I - Secondary | Placement 1 |
 | Term 2 2026 | 4 May – 12 Jun | 18 May | `EDUC5003`: Teaching and Learning Literacy and Numeracy in Context<br>`EDUC3032`: Classroom Management | |
