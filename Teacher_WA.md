@@ -107,7 +107,7 @@ You must evidence:
 | Criteria                               | Points | Notes |
 |----------------------------------------|--------|-------|
 | **Age (25–32)**                        | 30     | I turn 25 after **18 May 2026** → full age points |
-| **English (Superior)**                 | 20     | 8 each in IELTS or equivalent in PTE. <br>Backup: lodge EOIs with Proficient (10 pts) to enter pools early, then update later. |
+| **English (Superior)**                 | 20     | 8 each in IELTS or equivalent in PTE |
 | **Qualification**                      | 15     | Australian Bachelor (B.IT). *GradDip is required for AITSL, not for migration points.* |
 | **Australian Study Requirement**       | 5      | 2+ academic years in Australia (Bachelor) |
 | **Regional Study**                     | 5      | Gold Coast + Perth count as regional |
