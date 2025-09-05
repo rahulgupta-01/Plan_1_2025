@@ -1,4 +1,4 @@
-# 🎓 Graduate Diploma of Teaching (Course Code: `1108004`, CRICOS: `117390J`)  
+# 🎓 Graduate Diploma of Teaching <br>(Course Code: `1108004`, CRICOS: `117390J`)  
 🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004)
 
 ---
