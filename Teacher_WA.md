@@ -2,7 +2,7 @@
 
 **ANZSCO:** **241411 — Secondary School Teacher**  
 **Teaching area:** **Digital Technologies / ICT**  
-**Base:** **Perth, Western Australia**  
+**Location** **Perth, Western Australia**  
 **Last reviewed:** Sep 2025
 
 ---
