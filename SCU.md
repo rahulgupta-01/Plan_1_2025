@@ -1,4 +1,4 @@
-# 🎓 Graduate Diploma of Teaching <br>(Course Code: `1108004`, CRICOS: `117390J`)  
+# 🎓 Graduate Diploma of Teaching <br>(Course Code: `1108004`, [CRICOS: `117390J`](https://cricos.education.gov.au/Course/CourseDetails.aspx?CourseId=117390))  
 🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004)
 
 ---
@@ -218,7 +218,7 @@ Graduates will be able to:  
 - **Teaching periods**: Term 3 & Term 5 (main intakes).  
 - **Indicative Total Course Fee**: **AUD $25,833.33**.  
 - **Estimated Fee per Study Period**: **AUD $4,305.56**.  
-- **CRICOS**: `117390J`. University's CRICOS Provider Code is `01241G`.  
+- [**CRICOS**: `117390J`](https://cricos.education.gov.au/Course/CourseDetails.aspx?CourseId=117390). [University's CRICOS Provider Code is `01241G`](https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderID=1177).  
 
 *Fees are indicative, reviewed annually, and subject to increase. Additional non-tuition costs apply (e.g., textbooks, stationery, excursions), for which the university recommends budgeting up to **$2,000 AUD per year**.*  
 
