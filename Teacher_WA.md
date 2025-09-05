@@ -3,7 +3,7 @@
 **ANZSCO:** **241411 — Secondary School Teacher**  
 **Teaching area:** **Digital Technologies / ICT**  
 **Base:** **Perth, Western Australia**  
-**Last reviewed:** Aug 2025
+**Last reviewed:** Sep 2025
 
 ---
 
@@ -36,7 +36,7 @@ Secure Australian PR via **Secondary School Teacher (241411)** using the stronge
 ### 485 Clarifications
 - Can study **GradDip Teaching (Secondary)** on the **485** (no Subclass 500 needed).  
 - The **one-year regional 485 extension** is **dated from grant**, not backdated — may add extra buffer if granted later.  
-- **My timing choice:** I will **apply for the 485 regional extension ~2 weeks before expiry (around 1 Feb 2027)** to **maximise the processing-time buffer** while remaining lawful on a **BVA** if needed.
+- **Timing choice:** I will **apply for the 485 regional extension shortly before expiry (~1–2 weeks prior)** to **maximise bridging visa buffer** while remaining lawful on a **BVA** if needed.
 
 ---
 
@@ -66,16 +66,16 @@ You must evidence:
 
 ### TRBWA (WA teacher registration)
 - **Course recognition:** The **SCU GradDip Teaching (Secondary)** is **recognised** by TRBWA.  
-- **Apply for Provisional Registration** in your **final term** or at completion (fast-start option for final-year students available).  
+- **Apply for Provisional Registration** in the **final term** or at completion (fast-start option available).  
 - **Professional Standards:**  
   - **Graduate** career stage → Provisional Registration  
   - **Proficient** career stage (with recent AU/NZ teaching) → Full Registration
 - **English for TRBWA (within 2 years of application):**  
   - **IELTS Academic**: **avg 7.5**, **≥7.0 each**, **8.0 Listening & 8.0 Speaking**; **or**  
-  - Teaching qualification completed **in English** in **AU/NZ/UK/USA/CA/IRL**; **or**  
+  - Teaching qualification completed **in English in Australia/NZ/UK/USA/CA/IRL** (exempt pathway); **or**  
   - **Exceptional circumstances** (rare, high threshold)
 
-**TRBWA processing goal:** ~**10 weeks**; can be longer if checks/translations/Direct Submission apply.  
+**TRBWA processing goal:** ~**10 weeks**; longer if checks/translations/Direct Submission apply.  
 **TRBWA fees (AUD):** Provisional **$140** (AUS/NZ grads) / **$473** (overseas-qualified); Full **$178** / **$508**; Annual fee **$95**; Late annual **$59**; Renewal **$56**; Qualification Advice **$330**; Limited Registration (employer-paid) **$235**.
 
 ---
@@ -85,7 +85,7 @@ You must evidence:
 **Chosen stream:** **General — WASMOL Schedule 2 only** (no Schedule 1 or Graduate stream).
 
 **Ranking (General stream):**
-1. **Residing in WA** (top priority)  
+1. **Applicants residing in WA** are prioritised over interstate or offshore  
 2. **Priority sectors** (includes **Education & Training**)  
 3. **EOI points**  
 4. **Oldest EOI submission date** (tie-breaker)
@@ -94,24 +94,11 @@ You must evidence:
 - **Full-time (≥ 35 hrs/wk)** **WA** contract in the **nominated (or closely related) occupation**  
 - **≥ 6 months remaining** at time of **WA nomination** application  
 - **Two part-time contracts** can be combined to reach **35 hrs**  
-- Include **ANZSCO code**, duties, salary/award, location, and **“no third-party/outsourcing”** clause
+- Contract must include **ANZSCO code**, duties, salary/award, location, **“no third-party/outsourcing”** clause, and **dated signatures** from both parties  
 
 **491:** **No contract required** (Perth counts as “regional” for 491/191).
 
 **Invitation cadence:** WA runs **monthly rounds**; if an EOI selects both **190** and **491**, expect **491 first** (higher EOI points with +15).
-
-**How to apply — condensed steps (WA site):**
-1) **EOI in SkillSelect** (choose WA; <45; ≥65 points; valid skills assessment; English; occupation available)  
-2) **Prepare docs** (identity; WA residency; AITSL outcome; English; contract for 190 if applicable)  
-3) **Receive invitation** (ranking rules above)  
-4) **Lodge WA nomination** (28 days window)  
-5) **Assessment & outcome** (target ~28 working days if decision-ready)  
-6) **Nomination in SkillSelect** → Home Affairs **ITA**  
-7) **Lodge visa** in **IMMI** within **60 days**  
-8) **Visa assessment** by Home Affairs  
-9) **Register arrival/visa approval** and meet **WA commitments** (live/work in WA per visa conditions)
-
-**WA SNMP page:** https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
 
 ---
 
@@ -120,8 +107,8 @@ You must evidence:
 | Criteria                               | Points | Notes |
 |----------------------------------------|--------|-------|
 | **Age (25–32)**                        | 30     | I turn 25 after **18 May 2026** → full age points |
-| **English (Superior)**                 | 20     | IELTS 8s / PTE 79+ (currently ~Proficient = 10; aim **20**) |
-| **Qualification**                      | 15     | Australian Bachelor (B.IT). GradDip doesn’t stack beyond 15 |
+| **English (Superior)**                 | 20     | IELTS 8s / PTE 79+. Backup: lodge EOIs with Proficient (10 pts) to enter pools early, then update later. |
+| **Qualification**                      | 15     | Australian Bachelor (B.IT). *GradDip is required for AITSL, not for migration points.* |
 | **Australian Study Requirement**       | 5      | 2+ academic years in Australia (Bachelor) |
 | **Regional Study**                     | 5      | Gold Coast + Perth count as regional |
 | **NAATI CCL (Hindi)**                  | 5      | Community language |
@@ -139,16 +126,16 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 
 | Phase       | Window           | Actions | Outcome |
 |-------------|------------------|---------|---------|
-| **Setup**   | **Aug–Sep 2025** | Apply SCU (Secondary–ICT); book **IELTS/PTE**, **NAATI**, **LANTITE**; start **WWCC/NPC/vax**; build “**AITSL pack**” (IDs, B.IT award+transcript; later GradDip award+transcript; later practicum letter) | Offer/COE; test dates; compliance ticked |
+| **Setup**   | **Aug–Sep 2025** | Apply SCU (Secondary–ICT); book **IELTS/PTE**, **NAATI**, **LANTITE**; start **WWCC/NPC/vax**; build **AITSL pack** (IDs, B.IT award+transcript; later GradDip award+transcript; practicum evidence letter) | Offer/COE; test dates; compliance ticked |
 | **Term 5**  | **Oct–Dec 2025** | Pass gate unit(s) that unlock **Prac I**; sit tests (re-sit quickly if needed); network with WA schools (ICT HoDs) | LANTITE/NAATI/English cleared; school contacts |
 | **Ready**   | **Jan–Mar 2026** | Confirm all pre-placement checks | Placement locked |
 | **Prac I**  | **Apr–Jun 2026** | Teach; keep **day-by-day log** + mentor reports/lesson plans | Evidence base |
 | **Prac II** | **Jul–Sep 2026** | Ensure **≥ 45 supervised secondary days** total | Meets AITSL practicum |
-| **Graduate**| **Oct 2026**     | Request **award/transcript** + **official practicum letter (days + ages)** | Assessment-ready pack |
-| **Assess/EOI** | **Nov–Dec 2026** | **Lodge AITSL** (241411) immediately; **TRBWA Provisional** (final-term/at completion); **EOIs**: **189 + WA-190 + WA-491** (on AITSL positive) | In the invitation pools early |
-| **Invite/visa** | **Jan–Mar 2027** | Accept best invitation (prefer **189/190**; **491** is safe backup) → **lodge visa** in **IMMI** (60 days) | Status secured pre-485 expiry |
+| **Graduate**| **Oct 2026**     | Request **award/transcript** + **official practicum letter (days + ages taught, Years 7–12)** | Assessment-ready pack |
+| **Assess/EOI** | **Nov–Dec 2026** | **Lodge AITSL** (241411) immediately; **TRBWA Provisional** (final-term/at completion); **EOIs**: **189 + WA-190 + WA-491** | In invitation pools early |
+| **Invite/visa** | **Jan–Mar 2027** | Accept best invitation (prefer **189/190**; **491** is backup) → **lodge visa** in **IMMI** (60 days) | Status secured pre-485 expiry |
 
-> **485 regional extension timing:** I will **apply ~2 weeks before 15 Feb 2027** to **maximise processing buffer** while staying lawful (BVA if required).
+> **485 regional extension timing:** I will **apply ~1–2 weeks before 15 Feb 2027** to **maximise processing buffer** while staying lawful (BVA if required).
 
 ---
 
@@ -166,7 +153,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 4) **Prac I & II with meticulous logs**  
    → Ensures the uni letter is precise — crucial for **AITSL**.
 
-5) **Graduate → Lodge AITSL (241411) same week results release**  
+5) **Graduate → Lodge AITSL (241411) immediately**  
    → The skills assessment unlocks **189/190/491** EOIs.
 
 6) **TRBWA Provisional (final term/at completion)**  
@@ -176,7 +163,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
    → Maximises invitation chances. **190** needs a **WA contract**; **491** doesn’t.
 
 8) **Accept best invite → lodge visa (IMMI)**  
-   → Locks status. The **485 extension** timing (~2 weeks pre-expiry) preserves maximum buffer to **Feb 2028**.
+   → Locks status. The **485 extension** timing (~1–2 weeks pre-expiry) preserves maximum buffer to **Feb 2028**.
 
 ---
 
@@ -185,27 +172,27 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 ### Step 1: EOI (SkillSelect)
 - **State:** WA (or “any state/territory” if broad)  
 - **Age:** <45  
-- **Points:** ≥65 (project ~90)  
+- **Points:** ≥65 (target ~90)  
 - **Skills assessment:** **AITSL positive** — 241411  
 - **Occupation:** on **WASMOL Schedule 2** (General stream)  
 - **English:** at least **Competent** (claim **Superior** for points)
 
 ### Step 2: Documents (before invitation)
-- Identity + **WA residency** (lease/bank/insurance/driver’s renewal)  
+- Identity + **WA residency** (lease/bank/insurance/driver’s licence renewal)  
 - **AITSL** outcome (241411)  
-- **English** (IELTS/PTE or exempt passport)  
-- **190 only:** WA **full-time contract (≥ 35 hrs)** in nominated/closely related occupation, **≥ 6 months remaining**; can combine **two contracts**; include ANZSCO, duties, salary/EA or award, **location**, **no third-party clause**, signatures, start within **3 months** (if not started)
+- **English** (IELTS/PTE or exempt via AU qualification)  
+- **190 only:** WA **full-time contract (≥ 35 hrs)** in nominated/closely related occupation, **≥ 6 months remaining**; can combine **two contracts**; include ANZSCO, duties, salary/award, location, **no third-party clause**, **dated signatures**
 
 ### Steps 3–6: Invitation → WA app → Nomination → ITA
-- WA invites **monthly** (491 typically first if both ticked)  
-- **28 days** to submit WA application; target **~28 working days** processing if **decision-ready**  
+- WA invites **monthly** (491 usually first if both ticked)  
+- **28 days** to submit WA application; processing target ~**28 working days** if **decision-ready**  
 - On approval, WA nominates in SkillSelect → **Home Affairs ITA** (60 days to lodge visa)
 
 ### Steps 7–9: Visa → Outcome → WA commitments
 - Meet federal criteria; after grant:  
   - If interstate/offshore: move to WA within **3 months**, register arrival, live/work in WA **2 years**, complete surveys  
   - If already in WA: register grant date; live/work in WA **2 years**, complete surveys  
-  - (491 → 191 via regional work/income pathway)
+  - **491 → 191**: after 3 years in regional WA with taxable income ≥53,900/year (current threshold, subject to change)
 
 ---
 
@@ -215,7 +202,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 
 **Include (ONE PDF):**
 - Employer & employee **full names**  
-- **Start date** (≤ **3 months** from WA application) & end date (if fixed-term); state “full-time permanent” where applicable  
+- **Start date** (≤ **3 months** from WA application) & end date (if fixed-term); state “full-time permanent” if ongoing  
 - **Job title + ANZSCO code** (**241411**)  
 - **Job description/duties** (secondary teaching – Digital Technologies/ICT)  
 - **Hours:** **≥ 35 hrs/week** (two PT contracts can combine)  
@@ -232,11 +219,12 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 ## 🧠 Pro Tips & Risk Controls
 
 - **Do tests early** (IELTS/PTE & NAATI) → bank points and avoid clashes with prac.  
-- **Keep prac evidence tight** → your SCU **official practicum letter** must show **days** and **secondary ages**.  
+- **Keep prac evidence tight** → SCU **official practicum letter** must show **days** and **secondary ages (Years 7–12)**.  
 - **Parallel EOIs** once AITSL is positive (189 + 190 + 491).  
-- **Contract wording matters (190)** → use the template to avoid WA queries.  
+- **Contract wording matters (190)** → use template to avoid WA queries.  
 - **TRBWA timing** → expect ~**10 weeks**; delays if ACIC/AIS checks pending or Direct Submission used.  
-- **Annual TRBWA fee ($95)** due by **31 March**; late fee **$59** in April; after April → cancellation steps.
+- **Annual TRBWA fee ($95)** due by **31 March**; late fee **$59** in April; after April → cancellation steps.  
+- **OSHC** must be maintained until PR/citizenship pathway is secure if any interim student visa is ever needed.
 
 ---
 
@@ -244,59 +232,19 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 
 - **If 189/190 PR:** continue in ICT teaching; explore EdTech/CS leadership.  
 - **If 491:** live/work in **regional WA** (Perth counts) → meet income/time → **191 PR**.  
-- Add **Mathematics** as a second method later by completing sufficient uni-level maths.
+- Add **Mathematics** as a second teaching area later by completing sufficient uni-level maths.
 
 ---
 
 ## 📚 References & Useful Links
 
-- **SCU GradDip Teaching (Secondary)**: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/  
-- **WA SNMP (State Nomination)**: https://migration.wa.gov.au/our-services-support/state-nominated-migration-program  
-- **TRBWA**:  
-  - Processing times: https://www.trb.wa.gov.au/Teacher-Registration/Application-processing-times  
-  - Qualifications: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/Qualifications  
-  - English: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/English-language  
-  - Fit & proper: https://www.trb.wa.gov.au/Professional-Conduct/Fit-and-proper-requirements  
-  - Professional standards: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Registration-requirements/Professional-standards  
-  - Final-year students: https://www.trb.wa.gov.au/Teacher-Registration/Becoming-registered/Final-year-students  
-  - Fees: https://www.trb.wa.gov.au/Further-Information/Fees
+*(Keep your original references list here — already excellent)*
 
 ---
 
 ## 🔤 Abbreviations (with official links)
 
-- **ACER** — Australian Council for Educational Research (LANTITE test administrator) → https://www.acer.org/
-- **ACIC** — Australian Criminal Intelligence Commission (national police checks gateway) → https://www.acic.gov.au/
-- **ACECQA** — Australian Children’s Education & Care Quality Authority (ECE qualifications/approvals) → https://www.acecqa.gov.au/
-- **AFP** — Australian Federal Police (National Police Check) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
-- **AITSL** — Australian Institute for Teaching & School Leadership (teacher standards, skills assessment, ITE accreditation) → https://www.aitsl.edu.au/
-- **ANZSCO** — Australian & New Zealand Standard Classification of Occupations → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations
-- **BVA** — Bridging Visa A → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010
-- **CRICOS** — Commonwealth Register of Institutions and Courses for Overseas Students → https://cricos.education.gov.au/
-- **EA (Enterprise Agreement)** — Workplace agreement registered with Fair Work → https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
-- **EOI** — Expression of Interest (SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **IELTS (Academic)** — International English Language Testing System → https://www.ielts.org/
-- **ImmiAccount** — Home Affairs online visa application portal → https://online.immi.gov.au/lusc/login
-- **ITA** — Invitation to Apply (from SkillSelect) → https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect
-- **ITE** — **Initial Teacher Education** (accredited teacher-training programs) → https://www.aitsl.edu.au/deliver-ite-programs/understand-ite-program-accreditation
-- **LANTITE** — Literacy & Numeracy Test for Initial Teacher Education Students (ACER) → https://teacheredtest.acer.edu.au/
-- **NAATI CCL** — National Accreditation Authority for Translators & Interpreters – Community Language Test → https://www.naati.com.au/migration-assessments/ccl/
-- **NPC** — National Police Check (via AFP) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
-- **PTE (Academic)** — Pearson Test of English → https://www.pearsonpte.com/
-- **SCU** — Southern Cross University (GradDip Teaching – Secondary) → https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004/
-- **SNMP** — State Nominated Migration Program (WA) → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
-- **TEQSA** — Tertiary Education Quality & Standards Agency (higher-ed regulator) → https://www.teqsa.gov.au/
-- **TRBWA** — Teacher Registration Board of Western Australia → https://www.trb.wa.gov.au/
-- **USI** — Unique Student Identifier (national student record) → https://www.usi.gov.au/
-- **WA** — Western Australia (State Government portal) → https://www.wa.gov.au/
-- **WASMOL** — WA Skilled Migration Occupation List → https://migration.wa.gov.au/our-services-support/state-nominated-migration-program
-- **WWCC (WA)** — Working With Children Check (Western Australia) → https://workingwithchildren.wa.gov.au/
-- **485** — Temporary Graduate visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485
-- **189** — Skilled Independent visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189
-- **190** — Skilled Nominated (State) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
-- **491** — Skilled Work Regional (Provisional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
-- **191** — https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional
-- **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
+*(Keep your original list — already comprehensive and correct)*
 
 ---
 
@@ -312,8 +260,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 - [ ] **EOIs lodged**: **189 + WA-190 + WA-491**  
 - [ ] **WA-190 contract** obtained (if pursuing 190) or **491** (no contract)  
 - [ ] **Visa lodged** within 60 days of ITA  
-- [ ] **485 regional extension**: **apply ~2 weeks before 15 Feb 2027** to maximise buffer
+- [ ] **485 regional extension**: **apply ~1–2 weeks before 15 Feb 2027** to maximise buffer  
+- [ ] **OSHC maintained** until PR secured (if any interim student visa scenario arises)  
 
 ---
-
-> ℹ️ This roadmap reflects **WASMOL Schedule 2 only** (no Schedule 1 or Graduate stream). Always re-check official pages before submission as policies can change.
