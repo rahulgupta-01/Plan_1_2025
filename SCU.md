@@ -1,3 +1,6 @@
+<!-- This document is live at https://github.com/rahulgupta-01/Plan_1_2025/blob/main/SCU.md -->
+
+
 # 🎓 Graduate Diploma of Teaching <br>(Course Code: `1108004`, [CRICOS: `117390J`](https://cricos.education.gov.au/Course/CourseDetails.aspx?CourseId=117390))  
 🔗 Official page: [https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004](https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-1108004)
 
