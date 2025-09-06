@@ -1,4 +1,4 @@
-<!-- This document can be edited at https://github.com/rahulgupta-01/Plan_1_2025/edit/main/Teacher_WA.md -->
+<!-- This document is live at https://github.com/rahulgupta-01/Plan_1_2025/blob/main/Teacher_WA.md -->
 
 # 🇦🇺 Permanent Residency (PR) Roadmap — **Secondary School Teacher (ICT)**
 
