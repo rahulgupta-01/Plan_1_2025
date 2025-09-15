@@ -277,7 +277,7 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 
 - **ACER** — Australian Council for Educational Research (LANTITE test administrator) → https://www.acer.org/
 - **ACIC** — Australian Criminal Intelligence Commission (national police checks gateway) → https://www.acic.gov.au/
-- **ACECQA** — Australian Children’s Education & Care Quality Authority (ECE qualifications/approvals) → https://www.acecqa.gov.au/
+- **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
 - **AFP** — Australian Federal Police (National Police Check) → https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks
 - **AITSL** — Australian Institute for Teaching & School Leadership (teacher standards, skills assessment, ITE accreditation) → https://www.aitsl.edu.au/
 - **ANZSCO** — Australian & New Zealand Standard Classification of Occupations → https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations
@@ -306,7 +306,6 @@ Course: https://www.scu.edu.au/study/courses/graduate-diploma-of-teaching-110800
 - **190** — Skilled Nominated (State) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
 - **491** — Skilled Work Regional (Provisional) visa → https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
 - **191** — https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional
-- **AIS International** — Provider used by TRBWA for some overseas criminal history checks → https://www.aisintl.com.au/
 
 ---
 
