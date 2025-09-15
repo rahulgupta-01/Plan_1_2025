@@ -104,6 +104,26 @@ You must evidence:
 
 ---
 
+## 📊 Secondary School Teacher (241411) Invitation History
+
+| Invitation Round                     | General Stream (Schedule 2) |   | Graduate Stream (Higher Education) |   |
+|--------------------------------------|-----------------------------|---|------------------------------------|---|
+|                                      | **EOI Points Score**        | **EOI Submission Date** | **EOI Points Score** | **EOI Submission Date** |
+| 15 August 2024                       | 100                         | 29/11/2023              | 85                   | 17/01/2024              |
+| 13 September 2024                    | 90                          | 25/06/2024              | 80                   | 10/07/2024              |
+| 17 October 2024                      | 85                          | 18/03/2024              | 80                   | 06/10/2024              |
+| 20 November 2024 (Priority Occupations) | 80                        | 20/02/2024              | 70                   | 03/02/2024              |
+| 22 November 2024                     | Not Invited                 | -                       | Not Invited          | -                       |
+| 13 December 2024                     | 70                          | 02/09/2024              | 65                   | 23/09/2024              |
+| 19 February 2025                     | 75                          | 03/01/2025              | 80                   | 17/08/2024              |
+| 27 March 2025 (Priority Occupations) | 70                          | 23/02/2025              | 65                   | 20/11/2024              |
+| 28 March 2025 (Non-Priority Occupations) | Not Invited              | -                       | Not Invited          | -                       |
+| 08 May 2025                          | Not Invited                 | -                       | Not Invited          | -                       |
+| 09 June 2025                         | Not Invited                 | -                       | Not Invited          | -                       |
+| 20 June 2025 (Non-Priority Occupations) | Not Invited               | -                       | Not Invited          | -                       |
+
+---
+
 ## 📈 PR Points Plan (Target ≈ **90**)
 
 | Criteria                               | Points | Notes |
