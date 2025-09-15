@@ -85,7 +85,7 @@ You must evidence:
 ## 🏛️ WA State Nomination (SNMP) — Quick Guide
 
 **Chosen stream:** **General — WASMOL Schedule 2 only** 
-- *Note:* I am not eligible for Schedule 1 (as Teaching Occupations are not a part of WASMOL Schedule 2) or Graduate stream (as I have not undertaken the required minimum of two years of full-time study in Western Australia to be considered a graduate under this pathway).
+- *Note:* I am not eligible for Schedule 1 (as Teaching Occupations are not a part of WASMOL Schedule 1) or Graduate stream (as I have not undertaken the required minimum of two years of full-time study in Western Australia to be considered a graduate under this pathway).
 
 **Ranking (General stream):**
 1. **Applicants residing in WA** are prioritised over interstate or offshore  
