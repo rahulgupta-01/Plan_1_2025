@@ -84,7 +84,8 @@ You must evidence:
 
 ## 🏛️ WA State Nomination (SNMP) — Quick Guide
 
-**Chosen stream:** **General — WASMOL Schedule 2 only** (no Schedule 1 or Graduate stream).
+**Chosen stream:** **General — WASMOL Schedule 2 only** 
+- *Note:* I am not eligible for Schedule 1 (as Teaching Occupations are not a part of WASMOL Schedule 2) or Graduate stream (as I have not undertaken the required minimum of two years of full-time study in Western Australia to be considered a graduate under this pathway).
 
 **Ranking (General stream):**
 1. **Applicants residing in WA** are prioritised over interstate or offshore  
@@ -106,7 +107,7 @@ You must evidence:
 
 ## 📊 Secondary School Teacher (241411) Invitation History
 
-| Invitation Round                     | General Stream (Schedule 2) |   | Graduate Stream (Higher Education) |   |
+| Invitation Round                     | General Stream (Schedule 2) |   | Graduate Stream (I'm not eligible for this pathway) |   |
 |--------------------------------------|-----------------------------|---|------------------------------------|---|
 |                                      | **EOI Points Score**        | **EOI Submission Date** | **EOI Points Score** | **EOI Submission Date** |
 | 15 August 2024                       | 100                         | 29/11/2023              | 85                   | 17/01/2024              |
