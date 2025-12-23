@@ -187,15 +187,16 @@ Graduates will be able to:  
 
 <a id="my-study-plan"></a>
 ### 📅 My Study Plan (Term 5, 2025 Intake)
-| Term | Teaching Dates | Census Date | Unit Code & Name | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| Term 5 2025 | 27 Oct – 5 Dec | 10 Nov | `EDUC5001`: Education and Change: The Lifelong Learner<br>`Elective`: Elective | |
-| Summer Term 2026 | 12 Jan – 20 Feb | 26 Jan | `EDUC3020`: Technologies and Design: Secondary C&P II | `TCHR5007` Prerequisite waiver approved |
-| Term 1 2026 | 9 Mar – 17 Apr | 23 Mar | `EDUC5012`: Education and Practice: Ways of Teaching and Learning<br>`EDUC2006`: Technologies and Design: Secondary C&P I | |
-| Dual Term 2 2026 | 9 Mar – 12 Jun | 6 Apr | `TCHR5007`: Professional Experience I - Secondary | Placement 1 |
-| Term 2 2026 | 4 May – 12 Jun | 18 May | `EDUC5003`: Teaching and Learning Literacy and Numeracy in Context<br>`EDUC3032`: Classroom Management | |
-| Term 3 2026 | 6 Jul – 14 Aug | 20 Jul | `EDUC3031`: Teaching Students from Diverse Backgrounds | |
-| Dual Term 3 2026 | 6 Jul – 9 Oct | 3 Aug | `TCHR5008`: Professional Experience II - Secondary | Placement 2 |
+
+| Term | Teaching Dates | Census Date | **Tuition Due Date (Fee)** | Unit Code & Name | Notes |
+| :--- | :------------- | :---------- | :------------------------- | :--------------- | :---- |
+| **Term 5 2025** | 27 Oct – 5 Dec 2025 | 10 Nov 2025 | 26 Oct 2026 (**$6,593.20**) | `EDUC5001` – Education and Change: The Lifelong Learner<br>`Elective` – University-wide elective | 2 academic units |
+| **Summer Term 2026** | 12 Jan – 20 Feb 2026 | 26 Jan 2026 | 12 Jan 2026 (**$3,296.60**) | `EDUC3020` – Technologies and Design: Secondary Curriculum & Pedagogy II | `TCHR5007` prerequisite waiver approved |
+| **Term 1 2026** | 9 Mar – 17 Apr 2026 | 23 Mar 2026 | 9 Mar 2026 (**$6,593.20**) | `EDUC5012` – Education and Practice: Ways of Teaching and Learning<br>`EDUC2006` – Technologies and Design: Secondary Curriculum & Pedagogy I | 2 academic units |
+| **Dual Term 2 2026** | 9 Mar – 12 Jun 2026 | 6 Apr 2026 | 9 Mar 2026 (**$0.00**) | `TCHR5007` – Professional Experience I (Secondary) | Placement 1 (no tuition fee) |
+| **Term 2 2026** | 4 May – 12 Jun 2026 | 18 May 2026 | 4 May 2026 (**$6,593.20**) | `EDUC5003` – Teaching and Learning Literacy and Numeracy in Context<br>`EDUC3032` – Classroom Management | 2 academic units |
+| **Term 3 2026** | 6 Jul – 14 Aug 2026 | 20 Jul 2026 | 6 Jul 2026 (**$3,296.60**) | `EDUC3031` – Teaching Students from Diverse Backgrounds | 1 academic unit |
+| **Dual Term 3 2026** | 6 Jul – 9 Oct 2026 | 3 Aug 2026 | 6 Jul 2026 (**$0.00**) | `TCHR5008` – Professional Experience II (Secondary) | Placement 2 (no tuition fee) |
 
 ---
 
