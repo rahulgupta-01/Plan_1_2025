@@ -23,7 +23,6 @@
     - [C&P II list – first teaching area](#cp-ii-list)
     - [Final requirement – choose one option](#final-requirement)
   - [My Study Plan (Term 5, 2025 Intake)](#my-study-plan)
-  - [Course Progressions (Secondary)](#course-progressions)
 - [8. Availability & Fees](#availability-fees)
 - [9. Fees & Scholarships (International)](#fees-scholarships)
 - [10. Career Outcomes & Accreditation](#career-outcomes)
@@ -197,22 +196,6 @@ Graduates will be able to:  
 | **Term 2 2026** | 4 May – 12 Jun 2026 | 18 May 2026 | 4 May 2026 (**$6,593.20**) | `EDUC5003` – Teaching and Learning Literacy and Numeracy in Context<br>`EDUC3032` – Classroom Management | 2 academic units |
 | **Term 3 2026** | 6 Jul – 14 Aug 2026 | 20 Jul 2026 | 6 Jul 2026 (**$3,296.60**) | `EDUC3031` – Teaching Students from Diverse Backgrounds | 1 academic unit |
 | **Dual Term 3 2026** | 6 Jul – 9 Oct 2026 | 3 Aug 2026 | 6 Jul 2026 (**$0.00**) | `TCHR5008` – Professional Experience II (Secondary) | Placement 2 (no tuition fee) |
-
----
-
-<a id="course-progressions"></a>
-### 📘 Course Progressions (Secondary) 
-
-| Unit code | Unit title | Available (terms) | Credit points | Notes | Expanded details |
-|-----------|------------|-------------------|---------------|-------|-----------------|
-| `EDUC5012` | Education and Practice: Ways of Teaching and Learning | Term 1, 3 | 12 | — | **Online – Term 1, 3.** Co-requisites: `TCHR5005` (Primary) **or** `TCHR5007` (Secondary). Enrolment: Must pass before placement. |
-| `TCHR5007` | Professional Experience I – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Co-requisite: `EDUC5012`. Anti-requisite: `EDUC5002`. |
-| `EDUC5003` | Teaching and Learning Literacy and Numeracy in Context | Term 2, 4 | 12 | — | **Online – Term 2, 4.** |
-| `EDUC3032` | Classroom Management | Term 2, 4 | 12 | — | **Online – Term 2, 4.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (`1209001`) or GradDipTeach (`1108004`). |
-| `TCHR5008` | Professional Experience II – Secondary | Dual Term 2, 3 | 0 | — | **Online – Dual Term 2, 3.** Pre-requisite: `TCHR5007`. Anti-requisite: `TCHR5002`. |
-| `EDUC3031` | Teaching Students from Diverse Backgrounds | Summer Term, 3 | 12 | — | **Online – Summer / Term 3.** Pre-requisites: 96cp B.Ed **or** admission to M.Teach (`1209001`) or GradDipTeach (`1108004`). |
-| `EDUC5001` | Education and Change: The Lifelong Learner | Term 3, 5 | 12 | — | **Online – Term 3, 5.** Anti-requisite: `EDUC1004`. |
-| **Elective OR** Secondary Curriculum and Pedagogy I unit **(from the [C&P I list above](#cp-i-list))** **OR** `EDUC6009` **– Education and Indigenous Australians: Ways of Knowing and Being** | — | — | — | — | **Final slot rule:** Single area → **Elective**; Two areas (same discipline) → `EDUC6009`; Two areas (different disciplines) → **C&P I (second teaching area)**. |
 
 ---
 
