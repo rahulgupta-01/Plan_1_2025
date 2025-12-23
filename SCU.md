@@ -220,8 +220,7 @@ Graduates will be able to:  
 ## 8. Availability & Fees
 - **Location**: **Online**.  
 - **Teaching periods**: Term 3 & Term 5 (main intakes).  
-- **Indicative Total Course Fee**: **AUD $25,833.33**.  
-- **Estimated Fee per Study Period**: **AUD $4,305.56**.  
+- **Indicative Total Course Fee**: **A$26,120.80**.  
 - [**CRICOS**: `117390J`](https://cricos.education.gov.au/Course/CourseDetails.aspx?CourseId=117390). [University's CRICOS Provider Code is `01241G`](https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderID=1177).  
 
 *Fees are indicative, reviewed annually, and subject to increase. Additional non-tuition costs apply (e.g., textbooks, stationery, excursions), for which the university recommends budgeting up to **$2,000 AUD per year**.*  
@@ -230,8 +229,7 @@ Graduates will be able to:  
 
 <a id="fees-scholarships"></a>
 ## 9. Fees & Scholarships (International)
-- **Initial Deposit**: An initial deposit of **$6,250.00 AUD** is required to accept the offer. This includes a **$2,000.00 AUD non-refundable deposit**.  
-- **SSAF (Student Services and Amenities Fee):** This is a compulsory fee. The maximum payable amount is **$364.80 AUD for 2025** and **$373.00 AUD for 2026**.  
+- **Initial Deposit**: An initial deposit of **$6,250.00 AUD** is required to accept the offer. This includes a **$2,000.00 AUD non-refundable deposit**.    
 - **Scholarships:** SCU offers various scholarships. Any scholarship awarded will be processed by the university after classes commence.  
 
 ---
