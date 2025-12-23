@@ -190,7 +190,7 @@ Graduates will be able to:  
 
 | Term | Teaching Dates | Census Date | **Tuition Due Date (Fee)** | Unit Code & Name | Notes |
 | :--- | :------------- | :---------- | :------------------------- | :--------------- | :---- |
-| **Term 5 2025** | 27 Oct – 5 Dec 2025 | 10 Nov 2025 | 26 Oct 2026 (**$6,593.20**) | `EDUC5001` – Education and Change: The Lifelong Learner<br>`Elective` – University-wide elective | 2 academic units |
+| **Term 5 2025** | 27 Oct – 5 Dec 2025 | 10 Nov 2025 | **27 Oct 2025 ($6,341.20)** | `EDUC5001` – Education and Change: The Lifelong Learner<br>`Elective` – University-wide elective | 2 academic units (old rate) |
 | **Summer Term 2026** | 12 Jan – 20 Feb 2026 | 26 Jan 2026 | 12 Jan 2026 (**$3,296.60**) | `EDUC3020` – Technologies and Design: Secondary Curriculum & Pedagogy II | `TCHR5007` prerequisite waiver approved |
 | **Term 1 2026** | 9 Mar – 17 Apr 2026 | 23 Mar 2026 | 9 Mar 2026 (**$6,593.20**) | `EDUC5012` – Education and Practice: Ways of Teaching and Learning<br>`EDUC2006` – Technologies and Design: Secondary Curriculum & Pedagogy I | 2 academic units |
 | **Dual Term 2 2026** | 9 Mar – 12 Jun 2026 | 6 Apr 2026 | 9 Mar 2026 (**$0.00**) | `TCHR5007` – Professional Experience I (Secondary) | Placement 1 (no tuition fee) |
