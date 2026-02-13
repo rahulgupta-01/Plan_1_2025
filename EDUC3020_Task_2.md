@@ -1,5 +1,5 @@
 # EDUC3020  
-## Technologies and Design: Secondary Curriculum and Pedagogies  
+## Technologies and Design: Secondary Curriculum and Pedagogies II  
 ### Assessment Task 2
 
 **Submission date:** Sunday by 11.59pm on 22nd Feb  
