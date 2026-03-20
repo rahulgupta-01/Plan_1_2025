@@ -9,7 +9,7 @@ Assessment 1
 Poster
 
 ### Due Date
-11:59 pm Friday 27 March 2026 AEST/AEDT (Week 3)
+08:59 pm Friday 27 March 2026 AWST (Week 3)
 
 ### Length
 1000 words +/- 10% (rationale) 3-minute voice-over
