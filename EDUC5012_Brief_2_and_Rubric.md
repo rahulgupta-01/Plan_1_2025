@@ -1,7 +1,3 @@
-You’re right — I cut it off. Here’s the **full text with formatting fixed only**, with the wording kept the same as provided. 
-
----
-
 # Assessment 2 Brief and Rubric
 
 ## Assessment details
