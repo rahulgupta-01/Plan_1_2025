@@ -1,224 +1,407 @@
-# EDUC2006  
-## Technologies and Design: Secondary Curriculum and Pedagogies  
+Assessment details 
+Unit Code Title​ 
 
-## Assessment Task 1  
+ EDUC2006
 
-**Submission date:** Sunday 29nd of March by 11.59pm  
-**Task Weighting:** 40%  
-**Word limit:** 1500  
+Assessment Type 
 
----
+ Unit of Work
 
-# THE TASK – What do I need to do?
+Due Date 
 
-## INTRODUCTION
+Week 6 ,Monday, 20/04/26, 11:59 pm AEST 
 
-For your students, your Technologies classroom could become a place where all students feel safe, equal and valued. This reflection encourages an analysis of differentiation strategies to showcase how teachers can intentionally utilise strategies for inclusion to encourage positive behaviour, and influence success in the classroom.
+Weight 
 
-Write a reflection that critically discusses strategies for: inclusion, differentiation or classroom routines. Your reflection must reference modalities of adjustments; **CONTENT, PROCESS, PRODUCT or LEARNING ENVIRONMENT**, linking examples of your own (future/current) teaching to illustrate your approach with further references to support.
+60% 
 
----
+Length / Duration 
 
-## THE TASK
+Approx. 2000 words (copied curriculum content excluded from word count)
 
-In this assessment, you will reference two modalities of adjustments (two of: content, process, product or learning environment), and justify how they could be utilised to differentiate teaching outcomes. You will need to justify using research/data to SHOW how adjustments would suit diverse learners to achieve success in your specific subject.
+Individual / Group 
 
-### Suggested structure:
+Individual
 
-1. **Introduction:** Curriculum context and scope, what you teach/subject, and specifics that should be known for this reflection; e.g., students' year level.
-2. **Differentiation Adjustment 1:** Quick overview of the modality of adjustment, what you are teaching (exact outcomes), instructional details (how you are teaching it), reflection on how this adjustment meets the needs of diverse learners, justification of why this strategy best suits learning for students AND include links to research to enhance your writing.
-3. **Differentiation Adjustment 2:** Quick overview of the modality of adjustment, what you are teaching (exact outcomes), instructional details (how you are teaching it), reflection on how this adjustment meets the needs of diverse learners, justification of why this strategy best suits learning for students AND include links to research to enhance your writing.
-4. **Conclusion:** Wrap up your reflection by referring back to your chosen strategies and points made (not new ones) and linking to the introduction.
+Unit Learning Outcomes (ULOS) 
 
----
+ULO1, ULO2, ULO3, ULO4
 
-## As part of your writing:
 
-- You are writing a reflection; therefore you should use first person and write about what you would do in the classroom using future tense.
-- Use structured paragraphs and write a formal conclusion.
-- Source 4 additional references that support your writing (articles, podcasts, peer reviewed research).
-- Illustrate what your classroom will be like with specific examples linked to your curriculum.
-- Include reference to students’ needs such as (but not limited to): numeracy and literacy supports, identified learning needs (NCCD), cultural and linguistic diversity.
 
----
+Task overview
+Create a unit of work and complementary lesson plan and lesson materials suitable for Years 7-10 curriculum/syllabus/outcomes from the State in which you intend to teach in, and the context area/subject is your choice. Before you start let your tutor know which state and subject you will be writing for and check the curriculum documentation you are referencing is correct.
 
-# PREPARATION – Checklist on how to approach this task
+Create a unit of work and lesson materials suitable for Years 7-10 curriculum/syllabus/outcomes from the State in which you intend to teach in, and the context area/subject is your choice. Before you start let your tutor know which state and subject you will be writing for and check the curriculum documentation you are referencing is correct.
 
-- Read the following SCU lib guide to support your reflective writing:  
-  https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/reflective_writing.pdf  
+By creating a unit of work you are practicing formulating sequences of strategies and learning activities that are aligned to curriculum. This will also provide you with a unit of work you can use when you start teaching.
 
-- Access:  
-  https://education.nsw.gov.au/teaching-and-learning/professional-learning/teacher-quality-and-accreditation/strong-start-great-teachers/refining-practice/differentiating-learning  
 
-- Watch the following videos:  
-  https://www.youtube.com/watch?v=CyndTjP_Utk&list=PLp5PwTABmlC-CxxPWl6qonRQSyecZMMn-&index=26  
-  https://youtu.be/ornsytb0NrI  
 
-- Draft your work using the suggested structure.
-- Write and refine, checking the rubric and ensuring you are completing required parts of the task.
+Part 1: Unit of work: First four weeks of a termly plan
 
----
+•	Use the template provided include: unit title, outcomes, context/specialisation, general capabilities and cross-curriculum priorities
 
-# What knowledge and skills do I need to demonstrate in this task?
+•	Each of the weekly sections in the unit of work should include lesson activities (3 lessons per week)  and links to resources (only one resource required for submission)
 
-Critically discuss pedagogical approaches to teaching 7–10 Technologies subjects including the management of appropriate resources and WH&S relevant to Technologies (including those that support literacy and numeracy) and the integration of ICT.
+Assessment outcomes
 
----
+•	Your unit of work and lesson materials must demonstrate clear alignment between curriculum outcomes, learning activities, teaching strategies and assessment approaches so that learning progresses logically across the sequence of lessons and supports cumulative knowledge development over time. [CC 2.1.1 (A)] [CC 2.1.2 (A)] [CC 2.1.3 (A)]
 
-# SUBMISSION INSTRUCTIONS – How do I submit this task?
+•	Your planning should demonstrate the use of evidence-informed teaching practices, including explicit instruction, clear sequencing of content, modelling of new knowledge or skills, opportunities for retrieval and review of prior learning, and scaffolding that supports students to move from guided practice toward independent application. [CC 2.2.1 (A)] [CC 2.2.2 (A)] [CC 2.2.3 (A)] [CC 2.2.4 (A)] [CC 2.2.5 (A)] [CC 2.2.6 (A)]
 
-Submission of your document is to be via TURNITIN. The submission link can be found in the Assessment Tasks and Submission Tab in BlackBoard.
+•	Your unit should also demonstrate how literacy and numeracy are intentionally incorporated within Technologies learning activities so that students develop discipline-specific reading, writing, interpretation and quantitative reasoning skills. [CC 2.4.1 (A)] [CC 2.4.2 (A)] [CC 2.4.3 (A)] [CC 2.5.1 (A)] [CC 2.5.2 (A)] [CC 2.5.3 (A)] [CC 2.5.4 (A)]
+
+•	Your unit plan should clearly demonstrate how learning outcomes, lesson activities and assessment opportunities are aligned with curriculum expectations and designed to support progressive development of knowledge and skills. [CC 2.1.1 (A)]
+
+•	The weekly learning sequence should demonstrate how new knowledge is introduced, revisited and strengthened through opportunities for practice and consolidation across the four weeks of learning. [CC 2.1.2 (A)]
+
+•	The structure of the learning sequence should show logical sequencing of tasks and increasing complexity so that students build understanding progressively toward mastery. [CC 2.1.3 (A)]
+
+•	The unit plan should also show where literacy practices such as reading technical information, interpreting diagrams or communicating design ideas are integrated within the Technologies learning context. [CC 2.4.1 (A)] [CC 2.4.2 (A)] [CC 2.4.3 (A)]
+
+•	Where relevant, the unit should also include opportunities for students to engage with numeracy concepts such as measurement, estimation, calculation, data interpretation or quantitative reasoning relevant to Technologies contexts. [CC 2.5.1 (A)] [CC 2.5.2 (A)]
+
+
+
+Part 2: Lesson Materials
+
+•	One (55min) lesson plan using template provided
+
+•	One teaching resource should be created, eg: Doc, Canva, PPT
+
+•	These two items MUST be linked, and can be from any part of the unit
+
+Assessment outcomes
+
+•	The lesson plan must demonstrate explicit teaching strategies including clear explanation of concepts, structured sequencing of learning activities, and careful presentation of information to support student understanding. [CC 2.2.1 (A)] [CC 2.2.2 (A)] [CC 2.2.3 (A)]
+
+•	The lesson materials should include modelling or demonstration of key knowledge, processes or skills so that students can observe expert thinking or practice before attempting the task themselves. [CC 2.2.4 (A)]
+
+•	The lesson materials should include opportunities for students to recall, practise or apply previously learned knowledge as part of the learning process. [CC 2.2.5 (A)]
+
+•	The lesson materials should demonstrate how teaching and scaffolding support students to gradually move toward independent completion of learning tasks. [CC 2.2.6 (A)]
+
+•	Your lesson materials should also demonstrate how literacy and numeracy learning opportunities are embedded within Technologies learning tasks. [CC 2.4.1 (A)] [CC 2.4.2 (A)] [CC 2.4.3 (A)] [CC 2.5.3 (A)] [CC 2.5.4 (A)]
+
+✅ Assignment Checklist
+
+☐ 1️⃣ Choose your curriculum (State, subject, year level – tell your tutor)
+
+☐ 2️⃣ Check the curriculum outcomes you will include
+
+☐ 3️⃣ Fill in the Unit Overview
+
+☐ 4️⃣ Plan the 4 weeks of teaching
+
+☐ 5️⃣ Include key learning supports
+
+☐ 6️⃣ Create one lesson plan (55 min)
+
+☐ 7️⃣ Create one teaching resource
+
+☐ 8️⃣ Link the lesson and resource
+
+☐ 9️⃣ Add links, resources and references
+
+☐ 🔟 Use APA referencing if required
+
+☐ ✅ Final check
+
+Deliverables & submissions
+
+
+✅ Submit in the ONE document - 
+
+Unit of work (4 weeks)
+One lesson plan (55 min)
+One teaching resource
+To begin the submission process,  submit ONE document (word not PDF) is to be done via TURNITIN. The submission link can be found in the Assessment Tasks and Submission Tab on BlackBoard. Make a page break between your three sections – submit ONE FILE only 
 
 It is YOUR responsibility to ensure that you have submitted the correct file and the FINAL version of your assessment for marking BEFORE the due date/time.
 
-After you have followed the TurnItIn submission process you will receive an email. CHECK YOUR STUDENT EMAIL AND KEEP A COPY OF THIS. If you do not receive this email, this means that your assessment has not been properly submitted.
+After you have followed the TurnItin submission process you will receive an email. CHECK YOUR STUDENT EMAIL AND KEEP A COPY OF THIS. If you do not receive this email, this   means that your assessment has not been properly submitted.
 
-If you have any difficulty submitting your assignment, please contact Technology Services and make sure that you log a job with them so you have evidence of your attempted submission. To avoid any last-minute problems, make sure you submit well before 11.59pm on the required date of submission.
+If you have any difficulty submitting your assessment, please contact Technology Services and  make sure that you log a job with them so you have evidence of your attempted submission. To avoid any last-minute problems, make sure you submit well before 11.59pm.
+
+Referencing
+You are to use the [APA 7th] style for citations and textbook referencing. For additional guidance, refer to the SCU Library referencing guides.
+
+
+---------------
+
+
+Another phrasing of the same thing above:
+
+EDUC2006
+Technologies and Design:
+Secondary Curriculum and
+Pedagogies
+Assessment Task
+2
+Submission date
+Week 6 ,Monday,
+20/04/26, 11:59
+pm AEST
+Task Weighting
+60%
+Approx. 2000
+words (copied
+curriculum
+content
+excluded from
+word count)
+THE TASK - What do I need to do?
+Create a unit of work and lesson materials suitable for Years 7-10 curriculum/syllabus/outcomes from the State in
+which you intend to teach in, and the context area/subject is your choice. Before you start let your tutor know which
+state and subject you will be writing for and check the curriculum documentation you are referencing is correct.
+By creating a unit of work you are practicing formulating sequences of strategies and learning activities that are aligned to
+curriculum. This will also provide you with a unit of work you can use when you start teaching.
+Part 1: Unit of work: First four weeks of a termly plan
+• Use the template provided include: unit title, outcomes, context/specialisation, general capabilities and cross-
+curriculum priorities
+• Each of the weekly sections in the unit of work should include lesson activities and links to resources (only one
+resource required for submission)
+Assessment outcomes
+• Your unit of work and lesson materials must demonstrate clear alignment between curriculum outcomes, learning
+activities, teaching strategies and assessment approaches so that learning progresses logically across the
+sequence of lessons and supports cumulative knowledge development over time. [CC 2.1.1 (A)] [CC 2.1.2 (A)] [CC
+2.1.3 (A)]
+• Your planning should demonstrate the use of evidence-informed teaching practices, including explicit instruction,
+clear sequencing of content, modelling of new knowledge or skills, opportunities for retrieval and review of prior
+learning, and scaffolding that supports students to move from guided practice toward independent application.
+[CC 2.2.1 (A)] [CC 2.2.2 (A)] [CC 2.2.3 (A)] [CC 2.2.4 (A)] [CC 2.2.5 (A)] [CC 2.2.6 (A)]
+• Your unit should also demonstrate how literacy and numeracy are intentionally incorporated within Technologies
+learning activities so that students develop discipline-specific reading, writing, interpretation and quantitative
+reasoning skills. [CC 2.4.1 (A)] [CC 2.4.2 (A)] [CC 2.4.3 (A)] [CC 2.5.1 (A)] [CC 2.5.2 (A)] [CC 2.5.3 (A)] [CC 2.5.4 (A)]
+• Your unit plan should clearly demonstrate how learning outcomes, lesson activities and assessment opportunities
+are aligned with curriculum expectations and designed to support progressive development of knowledge and
+skills. [CC 2.1.1 (A)]
+• The weekly learning sequence should demonstrate how new knowledge is introduced, revisited and strengthened
+through opportunities for practice and consolidation across the four weeks of learning. [CC 2.1.2 (A)]
+• The structure of the learning sequence should show logical sequencing of tasks and increasing complexity so that
+students build understanding progressively toward mastery. [CC 2.1.3 (A)]
+• The unit plan should also show where literacy practices such as reading technical information, interpreting
+diagrams or communicating design ideas are integrated within the Technologies learning context. [CC 2.4.1 (A)]
+[CC 2.4.2 (A)] [CC 2.4.3 (A)]
+2
+• Where relevant, the unit should also include opportunities for students to engage with numeracy concepts such
+as measurement, estimation, calculation, data interpretation or quantitative reasoning relevant to Technologies
+contexts. [CC 2.5.1 (A)] [CC 2.5.2 (A)]
+Part 2: Lesson Materials
+• One (55min) lesson plan using template provided
+• One teaching resource should be created, eg: Doc, Canva, PPT
+• These two items MUST be linked, and can be from any part of the unit
+Assessment outcomes
+• The lesson plan must demonstrate explicit teaching strategies including clear explanation of concepts, structured
+sequencing of learning activities, and careful presentation of information to support student understanding. [CC
+2.2.1 (A)] [CC 2.2.2 (A)] [CC 2.2.3 (A)]
+• The lesson materials should include modelling or demonstration of key knowledge, processes or skills so that
+students can observe expert thinking or practice before attempting the task themselves. [CC 2.2.4 (A)]
+• The lesson materials should include opportunities for students to recall, practise or apply previously learned
+knowledge as part of the learning process. [CC 2.2.5 (A)]
+• The lesson materials should demonstrate how teaching and scaffolding support students to gradually move
+toward independent completion of learning tasks. [CC 2.2.6 (A)
+• Your lesson materials should also demonstrate how literacy and numeracy learning opportunities are embedded
+within Technologies learning tasks. [CC 2.4.1 (A)] [CC 2.4.2 (A)] [CC 2.4.3 (A)] [CC 2.5.3 (A)] [CC 2.5.4 (A)]
+PREPARATION – Checklist on how to approach this task
+Choose your curriculum (State, subject, year level - tell your Tutor)
+Check the curriculum outcomes you will be teaching
+Fill in Unit Overview
+Plan the 4 Weeks of teaching, each week should include: Lesson activities and Teaching strategies and resource
+link
+Ensure you have included Literacy & Numeracy and oportuntiies for differentiation and adjustment
+Create One Lesson Plan (55 min)
+Create One Teaching Resource
+Link the Lesson & Resource (show clearly where it is used)
+Links, resources and references to be hyperlinked and embedded in both the unit plan and lesson plans
+APA referencing to be used when and if required (eg for a textbook)
+Final Check
+What knowledge and skills do I need to demonstrate in this task?
+1. demonstrate a sound understanding of the role, rationale and content of the Technologies curriculum including opportunities to support
+literacy and numeracy
+2. critically discuss pedagogical approaches to teaching 7-10 Technologies subjects including the management and use of appropriate resources
+and WH&S relevant to Technologies (including those to support literacy and numeracy) and the integration of ICT
+3. develop teaching strategies for access and inclusivity in the classroom including those required to meet the needs of Aboriginal and Torres
+Strait Islander students, NESB students, students with special needs and the literacy and numeracy needs of students
+3
+4. develop project-based programs, units of work and lesson plans for sequential learning that encourage creativity and innovation and include
+literacy and numeracy learning combined with design fair, reliable and valid assessment tasks both for learning and of learning.
+SUBMISSION INSTRUCTIONS – How do I submit this task?
+Submission of ONE document (word not PDF) is to be done via TURNITIN. The submission link can be found in the Assessment Tasks and
+Submission Tab on BlackBoard.
+Make a page break between your three sections – submit ONE FILE only Submission of your document is to be via TURNITIN.
+The submission link can be found in the Assessment Tasks and Submission Tab in BlackBoard.
+It is YOUR responsibility to ensure that you have submitted the correct file and the FINAL version of your assessment for marking BEFORE the
+due date/time.
+After you have followed the TurnItin submission process you will receive an email. CHECK YOUR STUDENT EMAIL AND KEEP A COPY OF THIS. If you
+do not receive this email, this means that your assessment has not been properly submitted.
+If you have any difficulty submitting your assignment, please contact Technology Services and make sure that you log a job with them so you have
+evidence of your attempted submission. To avoid any last-minute problems, make sure you submit well before 11.59pm on the required date of
+submission.
+
+
+
+# **Rubric**
 
 ---
 
-# ACADEMIC INTEGRITY – How do I ensure my work has academic integrity?
+## **Designs learning experiences that engages students and encourages creativity and innovation (25%)**
 
-GenAI may not be used for this assessment.
+**HD+**
+The design of the learning experiences in the unit/lesson plan is comprehensive. They are extremely engaging and encourage high levels of participation and active engagement. Sequencing of activities is exceptionally well considered and clearly demonstrates explicit teaching practices including modelling, retrieval, scaffolding and guided-to-independent learning with strong logical progression across the learning sequence.
 
-Generative Artificial Intelligence (GenAI) tools, such as ChatGPT, may not be used for this Assessment Task. You are required to demonstrate that you have met the unit’s skills and knowledge without the support of GenAI. If you use GenAI tools in your assessment task, it may result in an academic integrity breach against you as described in the Student Academic and Non-Academic Misconduct Rules, Section 3.
+**HD**
+The design of the learning experiences in the unit/lesson plan is detailed. They are very engaging and encourage high levels of participation and active engagement. Sequencing of activities is very well considered with clear evidence of explicit instruction, modelling and logical instructional steps that support student understanding and progression of learning.
 
-For any written work where you use or refer to a source of information or image that is not your own, APA 7th referencing protocols must be used. Refer to the following source if you are unsure:
-https://libguides.scu.edu.au/apa/about-apa  
+**D**
+The design of the learning experiences in the unit/lesson plan is good – routines for learning may/not be present. They are at times engaging. Activities are mostly sequenced well with evidence of explicit teaching strategies and structured learning progression.
 
-Your written document should be checked through TURNITIN before submission to check for Academic Integrity. The link for Turnitin can be found in the Assessment Tasks and Submission area on BlackBoard. You will receive a similarity report. The percentage of similarity should ideally be below 10%, but must be less than 15%. Make referencing adjustments required to bring similarity below 10% before submission.
+**C**
+Designed learning experiences. They are at times engaging/mostly teacher centric. Routines for learning may/not be present and evidence of explicit teaching practices such as explanation, modelling, guided practice or scaffolding is limited or inconsistent. Learning activities demonstrate some sequencing of learning and progression of understanding.
 
----
+**P**
+Did not design any learning experiences and/or none were engaging. Routines for learning not be present and no evidence of explicit teaching strategies or sequencing of learning.
 
-# LATE SUBMISSION / EXTENSION – What do I need to know/do?
+**MF**
+No evidence provided/ or no attempt.
 
-If you need to apply for special consideration you may do so using:  
-https://www.scu.edu.au/current-students/student-administration/special-consideration/
+**F**
+Incomplete unit plan.
 
-According to SCU Policy, penalties apply for late submissions.  
-https://policies.scu.edu.au/view.current.php?id=00255  
-
----
-
-# RESOURCES – What resources will I need?
-
-- Writing a proposal  
-- Writing paragraphs  
-- Learning Zone  
-- APA 7 Referencing  
-- Academic Integrity Module  
-- Academic Integrity  
+**N/A**
+No Attempt/ unauthorised use of AI
 
 ---
 
-# Task 1 Marking Rubric
+## **Demonstrates an understanding of curriculum and syllabus documents (10%)**
 
-## 1. Understanding & Justification of Strategies (40%)
+**HD+**
+Outstanding understanding of curriculum and syllabus requirements is evident in both the unit of work and the lesson plans with clear alignment between outcomes, lesson activities, and the assessment task across the learning sequence.
 
-**HD+**  
-Provides an excellent explanation of highly appropriate adjustments that are clearly linked to specific syllabus outcomes. Demonstrates a very strong justification supported by four or more credible references that are well integrated into the writing.
+**HD**
+Thorough understanding of curriculum and syllabus requirements is evident in both the unit of work and the lesson plans with clear links between outcomes and planned learning experiences across the sequence of lessons.
 
-**HD**  
-Provides a comprehensive explanation of both adjustments, explicitly linked to syllabus outcomes. Demonstrates strong justification supported by four or more credible references integrated into the writing.
+**D**
+Good understanding of curriculum and syllabus requirements is evident in both the unit of work and the lesson plans with most activities aligned to the intended learning outcomes.
 
-**D**  
-Provides a clear explanation of both adjustments with syllabus links. Justification is supported by three to four references.
+**C**
+An understanding of curriculum and syllabus requirements is evident. Some errors in presentation of information or inclusion of incorrect information or limited alignment between outcomes and lesson activities. Learning activities show basic alignment between curriculum outcomes and planned learning experiences.
 
-**C**  
-Provides an adequate explanation with some syllabus links. Justification is supported by two to three references.
+**P**
+Little or no understanding of curriculum and syllabus requirements is evident.
 
-**P**  
-Provides a basic explanation with minimal syllabus links. Justification is supported by one to two references.
+**MF**
+No evidence provided/ or no attempt.
 
-**MF**  
-Provides a basic explanation with minimal syllabus links. Justification is inadequate or too weak even though supported by one to two references.
+**F**
+Incomplete sections and/or incorrect references to curriculum.
 
-**F**  
-Adjustments are unclear or unrelated to the syllabus. No justification or references provided.
-
-**N/A**  
-No attempt or unauthorised use of AI.
+**N/A**
+No Attempt/ unauthorised use of AI or the work of others
 
 ---
 
-## 2. Instructional Examples & Classroom Illustration (40%)
+## **Caters for learner diversity (5%)**
 
-**HD+**  
-Provides two or more highly detailed instructional examples per appropriate adjustment. Clearly shows classroom implementation and strong relevance for diverse learners (e.g., numeracy and literacy supports, NCCD, cultural diversity) within a junior class context.
+**HD+**
+Diversity of learners is included to an exemplary standard. This is evident in your inclusion of one or more the following: Aboriginal and Torres Strait Islander students, NESB students, students with special needs with explicit differentiation strategies embedded within lesson activities and clear scaffolding supporting progression toward independent learning.
 
-**HD**  
-Provides two or more detailed instructional examples per strategy. Clearly shows classroom implementation and adjustments for diverse learners (e.g., numeracy and literacy supports, NCCD, cultural diversity).
+**HD**
+Diversity of learners is included to a very high standard. This is evident in your inclusion of one or more the following: Aboriginal and Torres Strait Islander students, NESB students, students with special needs with clear strategies supporting participation and learning.
 
-**D**  
-Provides at least one detailed example per strategy. Shows classroom implementation and some adjustments for diverse learners.
+**D**
+Diversity of learners is included. This is evident in your inclusion of one or more the following: Aboriginal and Torres Strait Islander students, NESB students, students with special needs with some strategies supporting learning needs.
 
-**C**  
-Provides general examples with adequate detail. Mentions adjustments, though clarity could be improved to better illustrate implementation for diverse learners.
+**C**
+Diversity of learners is included. This is evident in your inclusion of one or more the following: Aboriginal and Torres Strait Islander students, NESB students, students with special needs but strategies are limited or not clearly embedded in learning activities. Some evidence of scaffolding or adjustment to support different learners may be present.
 
-**P**  
-Provides general examples with basic details and minimal mention of adjustments for diverse learners.
+**P**
+Strategies to support student diversity are not included.
 
-**MF**  
-Provides general examples with limited details and inadequate mention of adjustments for diverse learners.
+**MF**
+No evidence provided/ or no attempt.
 
-**F**  
-Provides vague or incomplete examples. No clear adjustments. No examples provided.
+**F**
+No clear structure; significantly outside word limit.
 
-**N/A**  
-No attempt or unauthorised use of AI or the work of others.
-
----
-
-## 3. Structure & Proposal Format (10%)
-
-**HD+**  
-Follows the exact required structure (introduction, two adjustments, conclusion). Writing is very concise, logical, clear, and very close to the word limit.
-
-**HD**  
-Follows proposal structure (introduction, two adjustments, conclusion). Writing is concise, logical, clear, and close to the word limit.
-
-**D**  
-Follows proposal structure. Writing is logical and within word limits +/- 5%.
-
-**C**  
-Mostly follows structure, with minor lapses in flow or clarity. Within 10% +/- word limit.
-
-**P**  
-Structure is evident but inconsistent. Exceeds or falls short of word limit by 20%.
-
-**MF**  
-Limited structure. Exceeds or falls short of word limit by 30%.
-
-**F**  
-No clear structure. Significantly outside word limit.
-
-**N/A**  
-No attempt or unauthorised use of AI or the work of others.
+**N/A**
+No Attempt/ unauthorised use of AI or the work of others
 
 ---
 
-## 4. Academic Writing & Referencing (10%)
+## **Quality of resourcing (10%)**
 
-**HD+**  
-APA 7th referencing accurate throughout. All sources cited correctly in-text and in the reference list.
+**HD+**
+Lesson plan and resource demonstrate an exemplary standard of organisation, teaching resources and consideration of practical implications (such as WHS) with materials that strongly support modelling, explanation, guided practice and independent student application.
 
-**HD**  
-APA 7th referencing accurate throughout. All sources cited correctly in-text and most of the reference list.
+**HD**
+Plans demonstrate a very high standard of organisation, teaching resources and consideration of practical implications (such as WHS) with resources that support clear teaching and learning.
 
-**D**  
-APA 7th referencing mostly accurate throughout. Most sources cited correctly in-text and in the reference list.
+**D**
+Plan/resource demonstrates a high standard of organisation, teaching resources and consideration of practical implications (such as WHS) with appropriate learning materials that support teaching and learning activities.
 
-**C**  
-A few minor errors in APA referencing. Sources mostly cited correctly.
+**C**
+Plan/resource demonstrates organisation, teaching resources and consideration of practical implications (such as WHS) but resources may be limited in supporting explicit teaching or student practice.
 
-**P**  
-A number of minor errors or one major error in APA referencing. Sources mostly cited correctly.
+**P**
+Plan/resource does not demonstrate organisation, teaching resources or consideration of practical implications (such as WHS).
 
-**MF**  
-Several APA errors. Incomplete citations.
+**MF**
+Limited attempt with teaching resource and/or plans.
 
-**F**  
-Attempted APA referencing but inaccurate or incomplete.
+**F**
+Incomplete section, provides minimal or no evidence of differentiation.
 
-**N/A**  
-No referencing provided.
+**N/A**
+No Attempt/ unauthorised use of AI or the work of others
+
+---
+
+## **Numeracy and Literacy (5%)**
+
+**HD+**
+Strategies to support numeracy and literacy learning are outstanding and are provided through a variety of activities that are explicitly taught, modelled and applied within the Technologies learning context and clearly support student understanding and application.
+
+**HD**
+Strategies to support numeracy and literacy learning are contextual and relevant and are provided through a variety of activities that support student understanding and application.
+
+**D**
+Strategies to support numeracy and literacy learning are very good and are provided through one or more activities that link to the learning focus and support student understanding.
+
+**C**
+Strategies to support numeracy or literacy learning are evident and/or limited to only one activity. Literacy or numeracy learning opportunities are included within the learning activities.
+
+**P**
+Strategies to support numeracy and/or literacy learning are not included.
+
+**MF**
+No evidence provided/ or no attempt.
+
+**F**
+Submitted presentation does not meet academic standards. Attempted APA referencing but inaccurate or incomplete.
+
+**N/A**
+No referencing provided
+
+---
+
+## **Quality of writing and referencing (5%)**
+
+**HD+**
+Outstanding presentation and professional use of templates. Consistently correct spelling and grammar. Referencing is accurate and consistent.
+
+**HD**
+Polished presentation and professional use of templates. Consistently correct spelling and grammar. Referencing is mostly accurate and consistent.
+
+**D**
+Presentation and professional use of templates mostly consistent. Some spelling and grammar errors. Referencing generally appropriate.
+
+**C**
+Presentation and use of templates inconsistent. Frequent spelling and grammar errors. Referencing may be incomplete or inconsistent.
+
+**P**
+Poor presentation, referencing, grammar and spelling.
+
+**MF**
+No evidence provided/ or no attempt.
