@@ -1,6 +1,6 @@
 # WA Teaching Jobs
 
-List as at 21 Nov 2026, source Jobs WA (search.jobs.wa.gov.au)
+List as at 21 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 10:08am AWST
 
 ## Open School Roles (Ordered by Closing Date)
 
