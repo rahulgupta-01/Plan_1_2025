@@ -1,7 +1,7 @@
 
 # WA Teaching Jobs
 
-List as at 21 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 10:08am AWST
+List as at 22 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
 
 Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV3GbUhl9LW3w-07Up_A&usp=sharing
 
@@ -16,7 +16,7 @@ Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV
 | **Wed 25 Nov 2026** | [Hedland SHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-pilbara-region-western-australia-australia)<br>_(Pilbara)_ | Mathematics | Permanent, FT | IPS/TCH1072738 | Timothy Collier<br>(08) 9158 1900<br>timothy.collier@education.wa.edu.au | Term 1 2027 start |
 | **Wed 25 Nov 2026** | [Kalgoorlie-Boulder CHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-goldfields-esperance-region-western-australia-australia)<br>_(Goldfields-Esperance)_ | Mathematics | Fixed Term, FT (12m + ext) | IPS/TCH1073991 | Jeremy Bruse<br>(08) 9092 0300<br>jeremy.bruse@education.wa.edu.au | Term 1 2027 start |
 | **Wed 25 Nov 2026** | [Kalgoorlie-Boulder CHS](https://search.jobs.wa.gov.au/jobs/teacher-science-goldfields-esperance-region-western-australia-australia)<br>_(Goldfields-Esperance)_ | Science | Permanent, FT | IPS/TCH1074322 | Jeremy Bruse<br>(08) 9092 0300<br>jeremy.bruse@education.wa.edu.au | Term 1 2027 start |
-| **Wed 25 Nov 2026** | [Derby DHS](https://search.jobs.wa.gov.au/jobs/teacher-science-kimberley-region-western-australia-australia)<br>_(Kimberley)_ | Science | Fixed Term, FT (12m + ext) | SS/1070527 | Chris Cooper<br>(08) 9193 3000<br>chris.cooper@education.wa.edu.au | Term 1 2027 start |
+| **Wed 25 Nov 2026** | [Derby DHS](https://search.jobs.wa.gov.au/jobs/teacher-science-kimberley-region-western-australia-australia)<br>_(Kimberley)_ | Science | Fixed Term, FT (12m + ext) | SS/1070527 | Chris Cooper<br>(08) 9193 3000<br>christopher.cooper@education.wa.edu.au | Term 1 2027 start |
 | **Wed 25 Nov 2026** | [Wyalkatchem DHS](https://search.jobs.wa.gov.au/jobs/teacher-secondary-generalist-mathematics-wheatbelt-region-western-australia-australia)<br>_(Wheatbelt)_ | Secondary Generalist - Maths | Fixed Term, FT (12m + ext) | SS/TCH1073038 | Jill Lees<br>(08) 9692 1500<br>jill.lees@education.wa.edu.au | Term 1 2027 start |
 | **Thu 26 Nov 2026** | [Newton Moore SHS](https://search.jobs.wa.gov.au/jobs/teacher-secondary-generalist-south-west-region-western-australia-australia)<br>_(South West)_ | Secondary Generalist | Permanent, FT 0.1–1.0 _(Pool)_ | IPS/TCH1074337 | Kym Holroyd<br>(08) 9722 2463<br>kym.holroyd2@education.wa.edu.au | 2027 vacancies pool |
 | **Fri 27 Nov 2026** | [North Albany SHS](https://search.jobs.wa.gov.au/jobs/teacher-science-great-southern-region-western-australia-australia-south-west-region)<br>_(Great Southern)_ | Science | Fixed Term, PT 0.8 (12m + ext) | IPS/TCH1072943 | Peter Hurle<br>(08) 9892 0611<br>peter.hurle@education.wa.edu.au | Chemistry & Physics highly regarded |
