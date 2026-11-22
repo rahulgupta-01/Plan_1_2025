@@ -1,7 +1,7 @@
 
 # WA Teaching Jobs
 
-List as at 22 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
+List as at 23 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
 
 Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV3GbUhl9LW3w-07Up_A&usp=sharing
 
