@@ -1,7 +1,6 @@
-
 # WA Teaching Jobs
 
-List as at 23 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
+List as at 24 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
 
 Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV3GbUhl9LW3w-07Up_A&usp=sharing
 
@@ -9,7 +8,6 @@ Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV
 
 | Closes (4.30pm AWST) | School & Region | Subject / Title | Type & Term | Ref # | Contact | Key Notes |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :----------------------------- | :------------- | :----------------------------------------------------------------------- | :------------------------------------- |
-| **Mon 23 Nov 2026** | [Alkimos College](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-perth-metropolitan-western-australia-australia)<br>_(Perth Metro)_ | Mathematics | Permanent, FT _(Pool)_ | IPS/TCH1073747 | Jeremy Yap<br>(08) 9561 7300<br>jeremy.yap@education.wa.edu.au | 2027 vacancies pool |
 | **Tue 24 Nov 2026** | [Girrawheen SHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-perth-metropolitan-western-australia-australia-056ea811-872b-4702-ae8e-f3a3897c176b)<br>_(Perth Metro)_ | Mathematics | Fixed Term, FT (12m + ext) | IPS/TCH1073599 | Brigid Lovelock<br>(08) 9247 0555<br>brigid.lovelock@education.wa.edu.au | Term 1 2027 start |
 | **Tue 24 Nov 2026** | [Safety Bay SHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-perth-metropolitan-western-australia-australia-568133a3-0767-414f-ba09-5097e982fec3)<br>_(Perth Metro)_ | Mathematics | Permanent, FT 0.1–1.0 _(Pool)_ | IPS/TCH1072868 | Renate Paskandy<br>(08) 9528 9200<br>renate.paskandy@education.wa.edu.au | Graduates encouraged to apply |
 | **Tue 24 Nov 2026** | [Mount Lawley SHS](https://search.jobs.wa.gov.au/jobs/teacher-secondary-generalist-perth-metropolitan-western-australia-australia)<br>_(Perth Metro)_ | Secondary Generalist | Permanent, FT 0.1–1.0 _(Pool)_ | IPS/TCH1073486 | Julie Simon<br>(08) 9265 1501<br>julie.simon@education.wa.edu.au | 2027 vacancies pool |
@@ -23,6 +21,7 @@ Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV
 | **Fri 27 Nov 2026** | [WA College of Agriculture](https://search.jobs.wa.gov.au/jobs/teacher-science-mathematics-wheatbelt-region-western-australia-australia)<br>_(Narrogin / Wheatbelt)_ | Science - Mathematics _(Borderline)_ | Fixed Term, FT (12m + perm) | IPS/TCH949369 | Cameron Brook<br>(08) 9881 9700<br>cameron.brook@education.wa.edu.au | Agricultural Science (Plants) & Maths |
 | **Mon 30 Nov 2026** | [Kalgoorlie-Boulder CHS](https://search.jobs.wa.gov.au/jobs/teacher-digital-technologies-goldfields-esperance-region-western-australia-australia)<br>_(Goldfields-Esperance)_ | Digital Technologies | Permanent, FT | IPS/TCH1073044 | Amanda Morton<br>(08) 9092 0300<br>amanda.morton@education.wa.edu.au | Only exact Digital Tech title |
 | **Mon 30 Nov 2026** | [East Kimberley College](https://search.jobs.wa.gov.au/jobs/teacher-science-kimberley-region-western-australia-australia-225f800a-b15b-4317-9648-2de87215f022)<br>_(Kimberley)_ | Science | Permanent, FT | IPS/TCH1069669 | Brycen Godfrey<br>(08) 9168 4400<br>brycen.godfrey@education.wa.edu.au | Term 1 2027 start |
+| **Mon 30 Nov 2026** | [Harrisdale SHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-perth-metropolitan-western-australia-australia-cd5a696b-92c2-45b4-a798-f438cb10b772)<br>_(Perth Metro)_ | Mathematics | Permanent, FT | IPS/TCH1075511 | Robert Forte<br>(08) 9397 8000<br>robert.forte@education.wa.edu.au | Term 1 2027 start |
 | **Wed 2 Dec 2026** | [Narrogin SHS](https://search.jobs.wa.gov.au/jobs/teacher-mathematics-wheatbelt-region-western-australia-australia)<br>_(Wheatbelt)_ | Mathematics | Permanent, FT 0.1–1.0 _(Pool)_ | IPS/TCH1072478 | Tara Percival<br>(08) 9881 9300<br>tara.percival@education.wa.edu.au | Mentions LEAP support for new teachers |
 | **Fri 4 Dec 2026** | [Burringurrah RCS](https://search.jobs.wa.gov.au/jobs/teacher-secondary-generalist-gascoyne-region-western-australia-australia-mid-west-region)<br>_(Gascoyne / Mid West)_ | Secondary Generalist | Fixed Term, FT (36m + perm) | SS/TCH1069350 | Paula Johnson<br>(08) 9943 0622<br>paula.johnson@education.wa.edu.au | Term 1 2027 start |
 
