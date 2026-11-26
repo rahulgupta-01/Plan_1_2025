@@ -1,6 +1,6 @@
 # WA Teaching Jobs
 
-List as at 26 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
+List as at 27 Nov 2026, source Jobs WA (search.jobs.wa.gov.au), last checked 5:00am AWST
 
 Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV3GbUhl9LW3w-07Up_A&usp=sharing
 
@@ -8,8 +8,7 @@ Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV
 
 | Closes (4.30pm AWST) | School & Region | Subject / Title | Type & Term | Ref # | Contact | Key Notes |
 | :------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :------------------------- | :-------------- | :--------------------------------------------------------------------------------- | :-------------------------------------------- |
-| **Thu 26 Nov 2026** | [Newton Moore SHS](https://search.jobs.wa.gov.au/jobs/teacher-secondary-generalist-south-west-region-western-australia-australia)<br>_(South West)_ | Secondary Generalist | Permanent, FT 0.1–1.0 _(Pool)_ | IPS/TCH1074337 | Kym Holroyd<br>(08) 9722 2463<br>kym.holroyd2@education.wa.edu.au | 2027 vacancies pool |
-| **Fri 27 Nov 2026** | [North Albany SHS](https://search.jobs.wa.gov.au/jobs/teacher-science-great-southern-region-western-australia-australia-south-west-region)<br>_(Great Southern)_ | Science | Fixed Term, PT 0.8 (12m + ext) | IPS/TCH1072943 | Peter Hurle<br>(08) 9892 0611<br>peter.hurle@education.wa.edu.au | Chemistry & Physics highly regarded |
+ | **Fri 27 Nov 2026** | [North Albany SHS](https://search.jobs.wa.gov.au/jobs/teacher-science-great-southern-region-western-australia-australia-south-west-region)<br>_(Great Southern)_ | Science | Fixed Term, PT 0.8 (12m + ext) | IPS/TCH1072943 | Peter Hurle<br>(08) 9892 0611<br>peter.hurle@education.wa.edu.au | Chemistry & Physics highly regarded |
 | **Fri 27 Nov 2026** | [WA College of Agriculture](https://search.jobs.wa.gov.au/jobs/teacher-science-mathematics-wheatbelt-region-western-australia-australia)<br>_(Narrogin / Wheatbelt)_ | Science - Mathematics _(Borderline)_ | Fixed Term, FT (12m + perm) | IPS/TCH949369 | Cameron Brook<br>(08) 9881 9700<br>cameron.brook@education.wa.edu.au | Agricultural Science (Plants) & Maths |
 | **Mon 30 Nov 2026** | [Kalgoorlie-Boulder CHS](https://search.jobs.wa.gov.au/jobs/teacher-digital-technologies-goldfields-esperance-region-western-australia-australia)<br>_(Goldfields-Esperance)_ | Digital Technologies | Permanent, FT | IPS/TCH1073044 | Amanda Morton<br>(08) 9092 0300<br>amanda.morton@education.wa.edu.au | Only exact Digital Tech title |
 | **Mon 30 Nov 2026** | [East Kimberley College](https://search.jobs.wa.gov.au/jobs/teacher-science-kimberley-region-western-australia-australia-225f800a-b15b-4317-9648-2de87215f022)<br>_(Kimberley)_ | Science | Permanent, FT | IPS/TCH1069669 | Brycen Godfrey<br>(08) 9168 4400<br>brycen.godfrey@education.wa.edu.au | Term 1 2027 start |
