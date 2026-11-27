@@ -29,7 +29,7 @@ Interactive Google Maps: https://www.google.com/maps/d/viewer?mid=1n10P8oE6OSIKV
 
 ## Useful Department Links
 
-- [Apply for a teaching job](https://www.education.wa.edu.au/apply-for-a-teaching-jobs)
+- [Apply for a teaching job](https://www.education.wa.edu.au/apply-for-teaching-jobs)
 - [Graduate teachers](https://www.education.wa.edu.au/i-m-a-graduate-teacher)
 - [Explore job opportunities](https://www.education.wa.edu.au/explore-job-opportunities)
 - [Live, teach and work in WA](https://www.education.wa.edu.au/live-teach-and-work-in-wa)
